@@ -1,0 +1,4 @@
+kind: CMDB
+owner: WeBankPartners
+repo: we-cmdb
+desc: '微众银行配置管理数据库系统'

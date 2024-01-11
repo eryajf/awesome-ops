@@ -1,0 +1,4 @@
+kind: OpsManage
+owner: welliamcao
+repo: OpsManage
+desc: '代码部署、应用部署、计划任务、设备资产管理平台'

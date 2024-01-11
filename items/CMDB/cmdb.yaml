@@ -1,0 +1,4 @@
+kind: CMDB
+owner: veops
+repo: cmdb
+desc: '简单、轻量、通用的运维配置管理数据库'

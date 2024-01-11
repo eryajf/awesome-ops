@@ -1,0 +1,24 @@
+name: generator
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4.1.0
+      - name: Update readme
+        uses: eryajf/yaml-readme@master
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          pattern: 'items/*/*.yaml'
+          username: eryajf
+          org: eryajf
+          repo: awesome-ops
+          sortby: '!zh'
+          groupby: kind
+          header: false
