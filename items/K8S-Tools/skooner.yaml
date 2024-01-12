@@ -1,0 +1,4 @@
+kind: K8S-Tools
+owner: skooner-k8s
+repo: skooner
+desc: '简单的Kubernetes实时仪表板和管理工具'

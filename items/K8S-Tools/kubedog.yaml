@@ -1,0 +1,4 @@
+kind: K8S-Tools
+owner: werf
+repo: kubedog
+desc: '监视和跟踪CI/CD部署管道中的Kubernetes资源'
