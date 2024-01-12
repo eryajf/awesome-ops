@@ -19,9 +19,9 @@
 
 欢迎所有朋友在这些项目列表中进行冲浪，学习，借鉴，当某个人的项目对你有帮助的时候，请别忘了，给那个项目一个star ⭐️。顺便，给这个项目一个 star ⭐️。
 
-累计收录项目 9 个。
-
 ## CMDB
+
+📥 累计收录项目 4 个。
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -33,6 +33,8 @@
 
 ## Docker-Tools
 
+📥 累计收录项目 2 个。
+
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [moby/buildkit](https://github.com/moby/buildkit) | Apache-2.0 | 7381 | 2017-05-31 | 2024-01-12 | 增强docker build的功能，支持并行构建、缓存、镜像导出等功能 |
@@ -41,6 +43,8 @@
 
 ## ElasticSearch-Tools
 
+📥 累计收录项目 1 个。
+
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [medcl/esm](https://github.com/medcl/esm) | N/A | 801 | 2015-07-14 | 2024-01-05 | ES索引迁移工具，支持跨版本迁移 |
@@ -48,12 +52,16 @@
 
 ## Etcd
 
+📥 累计收录项目 1 个。
+
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [gtamas/etcdmanager](https://github.com/gtamas/etcdmanager) | MIT | 442 | 2019-09-18 | 2022-12-14 | Etcd客户端，支持Linux、Windows、MacOS |
 
 
 ## K8S-Network
+
+📥 累计收录项目 2 个。
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -63,15 +71,19 @@
 
 ## K8S-Tools
 
+📥 累计收录项目 4 个。
+
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) | Apache-2.0 | 5982 | 2016-10-24 | 2024-01-08 | 使用Prometheus监控Kubernetes和在Kubernetes上运行的应用程序 |
 | [astefanutti/kubebox](https://github.com/astefanutti/kubebox) | MIT | 2104 | 2016-11-18 | 2023-03-15 | k8s终端版管理工具 |
-| [werf/kubedog](https://github.com/werf/kubedog) | Apache-2.0 | 586 | 2018-10-08 | 2023-12-29 | 监视和跟踪CI/CD部署管道中的Kubernetes资源 |
+| [werf/kubedog](https://github.com/werf/kubedog) | Apache-2.0 | 587 | 2018-10-08 | 2023-12-29 | 监视和跟踪CI/CD部署管道中的Kubernetes资源 |
 | [skooner-k8s/skooner](https://github.com/skooner-k8s/skooner) | Apache-2.0 | 1199 | 2019-03-15 | 2024-01-11 | 简单的Kubernetes实时仪表板和管理工具 |
 
 
 ## MySQL
+
+📥 累计收录项目 2 个。
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -81,12 +93,16 @@
 
 ## OpenLDAP
 
+📥 累计收录项目 1 个。
+
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin) | GPL-3.0 | 1163 | 2022-05-18 | 2023-11-15 | 🌉 基于Go&#43;Vue实现的OpenLDAP后台管理项目 |
 
 
 ## OpsManage
+
+📥 累计收录项目 2 个。
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
