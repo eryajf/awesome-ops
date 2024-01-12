@@ -1,0 +1,4 @@
+kind: K8S-Tools
+owner: aylei
+repo: kubectl-debug
+desc: '能够便捷地进行 Kubernetes 上的 Pod 排障诊断工具'

@@ -1,0 +1,4 @@
+kind: Version-Switch-Tool
+owner: stefanmaric
+repo: g
+desc: '又又一个用于多个Go版本的管理与切换，包基于二进制安装'

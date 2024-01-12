@@ -1,0 +1,4 @@
+kind: Version-Switch-Tool
+owner: nvm-sh
+repo: nvm
+desc: '一个简单的工具，用于多个Node版本的管理与切换'

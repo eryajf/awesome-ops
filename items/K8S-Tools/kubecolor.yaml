@@ -1,0 +1,4 @@
+kind: K8S-Tools
+owner: hidetatz
+repo: kubecolor
+desc: '可以给kubectl命令行输出内容着色的一个工具'

@@ -23,7 +23,7 @@
 
 ## {{$key}}
 
-📥 累计收录项目 {{len .}} 个。
+📥 此类目累计收录项目 {{len .}} 个。
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|

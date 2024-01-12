@@ -1,0 +1,4 @@
+kind: Monitor
+owner: VictoriaMetrics
+repo: VictoriaMetrics
+desc: '快速，经济高效的监控解决方案和时序数据库，可用于prometheus或grafana的存储'
