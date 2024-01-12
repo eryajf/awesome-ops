@@ -19,22 +19,24 @@
 
 欢迎所有朋友在这些项目列表中进行冲浪，学习，借鉴，当某个人的项目对你有帮助的时候，请别忘了，给那个项目一个star ⭐️。顺便，给这个项目一个 star ⭐️。
 
+累计收录项目 9 个。
+
 ## CMDB
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [TencentBlueKing/bk-cmdb](https://github.com/TencentBlueKing/bk-cmdb) | NOASSERTION | 5229 | 2016-12-12 | 2024-01-12 | 腾讯蓝鲸配置平台是一个面向资产及应用的企业级配置管理平台 |
-| [veops/cmdb](https://github.com/veops/cmdb) | AGPL-3.0 | 1080 | 2015-12-29 | 2024-01-11 | 简单、轻量、通用的运维配置管理数据库 |
-| [opendevops-cn/opendevops](https://github.com/opendevops-cn/opendevops) | GPL-3.0 | 3551 | 2018-11-15 | 2023-03-06 | 一站式DevOps、自动化运维、完全开源的云管理平台、自动化运维平台 |
-| [WeBankPartners/we-cmdb](https://github.com/WeBankPartners/we-cmdb) | Apache-2.0 | 721 | 2019-08-15 | 2024-01-11 | 微众银行配置管理数据库系统 |
+| [TencentBlueKing/bk-cmdb](https://github.com/TencentBlueKing/bk-cmdb) | NOASSERTION | 5230 | 2016-12-12 | 2024-01-12 | 腾讯蓝鲸配置平台是一个面向资产及应用的企业级配置管理平台 |
+| [veops/cmdb](https://github.com/veops/cmdb) | AGPL-3.0 | 1082 | 2015-12-29 | 2024-01-12 | 简单、轻量、通用的运维配置管理数据库 |
+| [opendevops-cn/opendevops](https://github.com/opendevops-cn/opendevops) | GPL-3.0 | 3553 | 2018-11-15 | 2023-03-06 | 一站式DevOps、自动化运维、完全开源的云管理平台、自动化运维平台 |
+| [WeBankPartners/we-cmdb](https://github.com/WeBankPartners/we-cmdb) | Apache-2.0 | 722 | 2019-08-15 | 2024-01-11 | 微众银行配置管理数据库系统 |
 
 
 ## Docker-Tools
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [moby/buildkit](https://github.com/moby/buildkit) | Apache-2.0 | 7378 | 2017-05-31 | 2024-01-11 | 增强docker build的功能，支持并行构建、缓存、镜像导出等功能 |
-| [quay/quay](https://github.com/quay/quay) | Apache-2.0 | 2304 | 2019-11-08 | 2024-01-11 | Red Hat 开源的docker镜像仓库，类似harbor |
+| [moby/buildkit](https://github.com/moby/buildkit) | Apache-2.0 | 7381 | 2017-05-31 | 2024-01-12 | 增强docker build的功能，支持并行构建、缓存、镜像导出等功能 |
+| [quay/quay](https://github.com/quay/quay) | Apache-2.0 | 2305 | 2019-11-08 | 2024-01-12 | Red Hat 开源的docker镜像仓库，类似harbor |
 
 
 ## ElasticSearch-Tools
@@ -48,22 +50,22 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [gtamas/etcdmanager](https://github.com/gtamas/etcdmanager) | MIT | 441 | 2019-09-18 | 2022-12-14 | Etcd客户端，支持Linux、Windows、MacOS |
+| [gtamas/etcdmanager](https://github.com/gtamas/etcdmanager) | MIT | 442 | 2019-09-18 | 2022-12-14 | Etcd客户端，支持Linux、Windows、MacOS |
 
 
 ## K8S-Network
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) | Apache-2.0 | 696 | 2019-11-27 | 2024-01-11 | Kubernetes 的完全开源、云原生、全局负载均衡解决方案 |
-| [eldadru/ksniff](https://github.com/eldadru/ksniff) | Apache-2.0 | 2951 | 2018-06-17 | 2023-11-19 | kubectl插件，利用tcpdump和Wireshark在K8S集群中的pod上启动远程捕获 |
+| [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) | Apache-2.0 | 696 | 2019-11-27 | 2024-01-12 | Kubernetes 的完全开源、云原生、全局负载均衡解决方案 |
+| [eldadru/ksniff](https://github.com/eldadru/ksniff) | Apache-2.0 | 2952 | 2018-06-17 | 2023-11-19 | kubectl插件，利用tcpdump和Wireshark在K8S集群中的pod上启动远程捕获 |
 
 
 ## K8S-Tools
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) | Apache-2.0 | 5981 | 2016-10-24 | 2024-01-08 | 使用Prometheus监控Kubernetes和在Kubernetes上运行的应用程序 |
+| [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) | Apache-2.0 | 5982 | 2016-10-24 | 2024-01-08 | 使用Prometheus监控Kubernetes和在Kubernetes上运行的应用程序 |
 | [astefanutti/kubebox](https://github.com/astefanutti/kubebox) | MIT | 2104 | 2016-11-18 | 2023-03-15 | k8s终端版管理工具 |
 | [werf/kubedog](https://github.com/werf/kubedog) | Apache-2.0 | 586 | 2018-10-08 | 2023-12-29 | 监视和跟踪CI/CD部署管道中的Kubernetes资源 |
 | [skooner-k8s/skooner](https://github.com/skooner-k8s/skooner) | Apache-2.0 | 1199 | 2019-03-15 | 2024-01-11 | 简单的Kubernetes实时仪表板和管理工具 |
@@ -73,7 +75,7 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [hhyo/Archery](https://github.com/hhyo/Archery) | Apache-2.0 | 5414 | 2018-09-28 | 2024-01-06 | SQL审核查询平台 |
+| [hhyo/Archery](https://github.com/hhyo/Archery) | Apache-2.0 | 5416 | 2018-09-28 | 2024-01-06 | SQL审核查询平台 |
 | [cookieY/Yearning](https://github.com/cookieY/Yearning) | AGPL-3.0 | 8104 | 2017-10-18 | 2024-01-02 | 简单,高效的MYSQL 审计平台 |
 
 
@@ -81,12 +83,12 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin) | GPL-3.0 | 1161 | 2022-05-18 | 2023-11-15 | 🌉 基于Go&#43;Vue实现的OpenLDAP后台管理项目 |
+| [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin) | GPL-3.0 | 1163 | 2022-05-18 | 2023-11-15 | 🌉 基于Go&#43;Vue实现的OpenLDAP后台管理项目 |
 
 
 ## OpsManage
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [welliamcao/OpsManage](https://github.com/welliamcao/OpsManage) | GPL-2.0 | 3182 | 2017-04-30 | 2023-03-12 | 代码部署、应用部署、计划任务、设备资产管理平台 |
-| [openspug/spug](https://github.com/openspug/spug) | AGPL-3.0 | 9489 | 2018-01-31 | 2024-01-10 | 轻量级无Agent的自动化运维平台 |
+| [welliamcao/OpsManage](https://github.com/welliamcao/OpsManage) | GPL-2.0 | 3183 | 2017-04-30 | 2023-03-12 | 代码部署、应用部署、计划任务、设备资产管理平台 |
+| [openspug/spug](https://github.com/openspug/spug) | AGPL-3.0 | 9491 | 2018-01-31 | 2024-01-10 | 轻量级无Agent的自动化运维平台 |
