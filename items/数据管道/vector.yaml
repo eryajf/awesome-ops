@@ -1,0 +1,4 @@
+kind: 数据管道
+owner: vectordotdev
+repo: vector
+desc: '高性能、高可靠、可观察的数据管道。性能比logstash强很多'

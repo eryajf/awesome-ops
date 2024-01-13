@@ -1,0 +1,4 @@
+kind: Sync-Tools
+owner: syncthing
+repo: syncthing
+desc: '开源的跨平台文件同步工具'

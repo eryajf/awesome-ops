@@ -1,0 +1,4 @@
+kind: K8S-Cluster-Manage
+owner: yunionio
+repo: cloudpods
+desc: '开源、云原生的多云和混合云融合平台'

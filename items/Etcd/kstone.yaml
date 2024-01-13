@@ -1,0 +1,4 @@
+kind: Etcd
+owner: kstone-io
+repo: kstone
+desc: '针对etcd的全方位运维解决方案，提供集群管理（关联已有集群、创建新集群)、监控、备份、巡检、数据迁移、数据可视化、智能诊断等特性'

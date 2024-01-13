@@ -1,0 +1,4 @@
+kind: K8S-Tools
+owner: ywgx
+repo: ki
+desc: '轻松管理多个kubeconfig的工具'

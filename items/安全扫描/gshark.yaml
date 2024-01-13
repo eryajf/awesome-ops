@@ -1,0 +1,4 @@
+kind: 安全扫描
+owner: madneal
+repo: gshark
+desc: '根据关键字等规则，从GitHub、GitLab等扫描代码泄露、敏感信息泄露等安全问题'

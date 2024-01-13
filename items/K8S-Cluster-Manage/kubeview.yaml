@@ -1,0 +1,4 @@
+kind: K8S-Cluster-Manage
+owner: benc-uk
+repo: kubeview
+desc: 'Kubernetes 集群可视化器和图形浏览器'

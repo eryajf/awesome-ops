@@ -1,4 +1,4 @@
-kind: Version-Switch-Tool
+kind: Version-Switch-Tools
 owner: jenv
 repo: jenv
 desc: '一个简单的工具，用于多个JDK版本的管理与切换'

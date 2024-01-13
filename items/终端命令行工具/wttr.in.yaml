@@ -1,0 +1,4 @@
+kind: 终端命令行工具
+owner: chubin
+repo: wttr.in
+desc: '执行curl wttr.in在终端中显示天气预报'

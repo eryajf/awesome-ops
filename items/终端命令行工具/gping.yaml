@@ -1,0 +1,4 @@
+kind: 终端命令行工具
+owner: orf
+repo: gping
+desc: '以图形化方式展示ping的延迟状态的命令行工具'

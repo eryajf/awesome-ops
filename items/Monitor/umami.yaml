@@ -1,0 +1,4 @@
+kind: Monitor
+owner: mikecao
+repo: umami
+desc: '搭建配置简单，界面优雅美观的站点访问统计工具'

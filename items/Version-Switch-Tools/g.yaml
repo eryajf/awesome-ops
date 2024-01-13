@@ -1,4 +1,4 @@
-kind: Version-Switch-Tool
+kind: Version-Switch-Tools
 owner: voidint
 repo: g
 desc: '又一个用于多个Go版本的管理与切换'
