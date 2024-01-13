@@ -1,0 +1,4 @@
+kind: Sync-Tools
+owner: trzsz
+repo: trzsz
+desc: '一个兼容tmux的文件传输工具，类似lrzsz，有进度条并且支持目录传输'

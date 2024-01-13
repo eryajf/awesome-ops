@@ -1,0 +1,4 @@
+kind: 运维管理平台
+owner: idcos
+repo: cloudiac
+desc: '基于基础设施即代码构建的云环境自动化管理平台'

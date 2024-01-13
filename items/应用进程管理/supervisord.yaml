@@ -1,0 +1,4 @@
+kind: 应用进程管理
+owner: ochinchina
+repo: supervisord
+desc: '基于go语言实现的supervisord进程管理工具'

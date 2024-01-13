@@ -19,13 +19,15 @@
 
 欢迎所有朋友在这些项目列表中进行冲浪，学习，借鉴，当某个人的项目对你有帮助的时候，请别忘了，给那个项目一个star ⭐️。顺便，给这个项目一个 star ⭐️。
 
-🧐 分设类目 {{lenGroupNum}} 个。📥 累计收录项目 {{lenItemNum}} 个。
+📢 如果你打算应用在自己所在的生产环境，请结合项目的开源协议，Star数，最后更新时间等综合评估之后进行选型。
+
+🧐 分设类目 {{lenGroupNum}} 个。📥 收录项目 {{lenItemNum}} 个。
 
 {{- range $key, $val := .}}
 
 ## {{$key}}
 
-📥 此类目累计收录项目 {{len .}} 个。
+📥 此类目收录项目 {{len .}} 个。
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|

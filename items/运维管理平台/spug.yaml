@@ -1,4 +1,4 @@
-kind: OpsManage
+kind: 运维管理平台
 owner: openspug
 repo: spug
 desc: '轻量级无Agent的自动化运维平台'

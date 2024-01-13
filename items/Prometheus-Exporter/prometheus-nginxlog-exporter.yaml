@@ -1,0 +1,4 @@
+kind: Prometheus-Exporter
+owner: martin-helmich
+repo: prometheus-nginxlog-exporter
+desc: '解析Nginx日志，暴漏成metrics指标'
