@@ -10,7 +10,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4.1.0
-      - name: Update readme
+      - name: generat chinaese readme
+        uses: eryajf/yaml-readme@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          pattern: 'items/*/*.yaml'
+          template: 'template/README.tpl'
+          output: 'README.md'
+          username: eryajf
+          org: eryajf
+          repo: awesome-ops
+          sortby: '!zh'
+          groupby: kind
+          header: false
+      - name: generat english readme
         uses: eryajf/yaml-readme@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -22,3 +36,5 @@ jobs:
           sortby: '!zh'
           groupby: kind
           header: false
+          template: 'template/README-en.tpl'
+          output: 'README-en.md'

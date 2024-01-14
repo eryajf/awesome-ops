@@ -1,7 +1,9 @@
+English | [简体中文](README.md)
+
 <div align="center">
 <h1>Awesome Ops</h1>
 
-<p>🧰 记录每一个与运维相关的优秀项目 🧰</p>
+<p>🧰 Record every excellent project related to operation and maintenance, The table in the project is generated based on GitHub Action. 🧰</p>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
@@ -14,23 +16,23 @@
 
 </div>
 
-运维领域，如此广大，在每一个细分类别中，都有许多先行者将心血转化为开源项目，而这个项目，就是希望能做一个这类项目的合辑。
+The field of operations and maintenance is vast, with many pioneers in each specific category who have turned their efforts into open-source projects. This project aims to compile such projects into a collection.
 
-不论你是做运维的，还是其他的，只要在技术领域，那么这个经过精心挑选并分门别类的项目，都将会是你的一册宝典。
+Whether you are in the field of operations and maintenance or any other technical field, this carefully curated and categorized collection of projects will be your treasure trove.
 
-特别欢迎广大朋友分享自己的项目或者推荐优秀项目，参与贡献之前，请阅读 [PR 贡献指南](./CONTRIBUTING.md)。
+We warmly welcome friends to share their own projects or recommend excellent projects. Before contributing, please read the [PR Contribution Guidelines](./CONTRIBUTING.md).
 
-欢迎所有朋友在这些项目列表中进行冲浪，学习，借鉴，当某个人的项目对你有帮助的时候，请别忘了，给那个项目一个star ⭐️。顺便，给这个项目一个 star ⭐️。
+Special welcome to all friends to surf, learn, reference in the project list. When someone's project is helpful to you, please remember to give the project a star ⭐️. By the way, give this project a star ⭐️.
 
-📢 如果你打算应用在自己所在的生产环境，请结合项目的开源协议，Star数，最后更新时间等综合评估之后进行选型。
+📢 If you plan to apply it in your production environment, please evaluate the selection based on the project's open source license, star count, last update time and other factors.
 
-🧐 分设类目 {{lenGroupNum}} 个。📥 收录项目 {{lenItemNum}} 个。
+🧐 Divided into {{lenGroupNum}} categories. 📥 Includes {{lenItemNum}} entries.
 
 {{- range $key, $val := .}}
 
 ## {{$key}}
 
-📥 此类目收录项目 {{len .}} 个。
+📥 This category contains {{len .}} items.
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
