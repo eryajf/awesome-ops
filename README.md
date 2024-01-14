@@ -30,8 +30,8 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [dromara/Jpom](https://github.com/dromara/Jpom) |  |  |  |  | 简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件 |
-| [koderover/zadig](https://github.com/koderover/zadig) |  |  |  |  | 基于 Kubernetes 研发的自助式云原生 DevOps 平台 |
+| [dromara/Jpom](https://github.com/dromara/Jpom) | MIT | 1052 | 2019-01-04 | 2024-01-13 | 简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件 |
+| [koderover/zadig](https://github.com/koderover/zadig) | NOASSERTION | 2522 | 2021-05-12 | 2024-01-12 | 基于 Kubernetes 研发的自助式云原生 DevOps 平台 |
 
 
 ## CMDB
@@ -40,10 +40,10 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [TencentBlueKing/bk-cmdb](https://github.com/TencentBlueKing/bk-cmdb) |  |  |  |  | 腾讯蓝鲸配置平台是一个面向资产及应用的企业级配置管理平台 |
-| [veops/cmdb](https://github.com/veops/cmdb) |  |  |  |  | 简单、轻量、通用的运维配置管理数据库 |
-| [opendevops-cn/opendevops](https://github.com/opendevops-cn/opendevops) |  |  |  |  | 一站式DevOps、自动化运维、完全开源的云管理平台、自动化运维平台 |
-| [WeBankPartners/we-cmdb](https://github.com/WeBankPartners/we-cmdb) |  |  |  |  | 微众银行配置管理数据库系统 |
+| [TencentBlueKing/bk-cmdb](https://github.com/TencentBlueKing/bk-cmdb) | NOASSERTION | 5231 | 2016-12-12 | 2024-01-13 | 腾讯蓝鲸配置平台是一个面向资产及应用的企业级配置管理平台 |
+| [veops/cmdb](https://github.com/veops/cmdb) | AGPL-3.0 | 1084 | 2015-12-29 | 2024-01-13 | 简单、轻量、通用的运维配置管理数据库 |
+| [opendevops-cn/opendevops](https://github.com/opendevops-cn/opendevops) | GPL-3.0 | 3554 | 2018-11-15 | 2023-03-06 | 一站式DevOps、自动化运维、完全开源的云管理平台、自动化运维平台 |
+| [WeBankPartners/we-cmdb](https://github.com/WeBankPartners/we-cmdb) | Apache-2.0 | 722 | 2019-08-15 | 2024-01-11 | 微众银行配置管理数据库系统 |
 
 
 ## ClickHouse
@@ -52,7 +52,7 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) |  |  |  |  | 一个轻量级的基于浏览器的日志分析和查询平台，底层数据存储采用 ClickHouse |
+| [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) | MIT | 1325 | 2021-12-29 | 2023-12-12 | 一个轻量级的基于浏览器的日志分析和查询平台，底层数据存储采用 ClickHouse |
 
 
 ## Consul
@@ -61,7 +61,7 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [starsliao/TenSunS](https://github.com/starsliao/TenSunS) |  |  |  |  | Consul管理,云资源监控管理,站点与接口监控管理 |
+| [starsliao/TenSunS](https://github.com/starsliao/TenSunS) | WTFPL | 989 | 2022-01-28 | 2024-01-11 | Consul管理,云资源监控管理,站点与接口监控管理 |
 
 
 ## DNS
@@ -70,8 +70,8 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) |  |  |  |  | 自动获得你的公网IP地址，并解析到对应的域名服务，支持阿里云,腾讯云,Dnspod,Cloudflare,华为云,Callback,百度云,Porkbun,GoDaddy,Google,Domain,Namecheap,NameSilo |
-| [wolf-joe/ts-dns](https://github.com/wolf-joe/ts-dns) |  |  |  |  | 灵活快速的DNS分组转发器 |
+| [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) | MIT | 7900 | 2020-08-26 | 2024-01-14 | 自动获得你的公网IP地址，并解析到对应的域名服务，支持阿里云,腾讯云,Dnspod,Cloudflare,华为云,Callback,百度云,Porkbun,GoDaddy,Google,Domain,Namecheap,NameSilo |
+| [wolf-joe/ts-dns](https://github.com/wolf-joe/ts-dns) | MIT | 306 | 2020-03-06 | 2023-05-12 | 灵活快速的DNS分组转发器 |
 
 
 ## Dev-Tools
@@ -80,11 +80,11 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [cosmtrek/air](https://github.com/cosmtrek/air) |  |  |  |  | ☁️ 针对Go应用开发设计的一个热重载的命令行工具 |
-| [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) |  |  |  |  | 一个能够将curl命令转换成各种语言请求的工具 |
-| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) |  |  |  |  | 将 JSON、YAML、XML、CSV 等各种数据格式转换为交互式图表的工具 |
-| [massCodeIO/massCode](https://github.com/massCodeIO/massCode) |  |  |  |  | 一款开源的本地代码片段管理工具 |
-| [xjq7/runcode](https://github.com/xjq7/runcode) |  |  |  |  | 在线编辑器, 支持在线编写,运行代码，支持C、C&#43;&#43;、Go、Nodejs、Rust、Java、Python、C#、PHP多种语言 |
+| [cosmtrek/air](https://github.com/cosmtrek/air) | GPL-3.0 | 13516 | 2017-10-12 | 2024-01-13 | ☁️ 针对Go应用开发设计的一个热重载的命令行工具 |
+| [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) | MIT | 6891 | 2014-12-25 | 2024-01-05 | 一个能够将curl命令转换成各种语言请求的工具 |
+| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | GPL-3.0 | 26883 | 2022-01-30 | 2024-01-14 | 将 JSON、YAML、XML、CSV 等各种数据格式转换为交互式图表的工具 |
+| [massCodeIO/massCode](https://github.com/massCodeIO/massCode) | AGPL-3.0 | 5241 | 2022-03-29 | 2023-12-31 | 一款开源的本地代码片段管理工具 |
+| [xjq7/runcode](https://github.com/xjq7/runcode) | GPL-2.0 | 185 | 2022-10-11 | 2023-12-06 | 在线编辑器, 支持在线编写,运行代码，支持C、C&#43;&#43;、Go、Nodejs、Rust、Java、Python、C#、PHP多种语言 |
 | [ritz078/transform](https://github.com/ritz078/transform) |  |  |  |  | 多种格式文件转换工具，比如json转struct等 |
 
 
