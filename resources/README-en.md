@@ -20,13 +20,13 @@ The field of operations and maintenance is vast, with many pioneers in each spec
 
 Whether you are in the field of operations and maintenance or any other technical field, this carefully curated and categorized collection of projects will be your treasure trove.
 
-We warmly welcome friends to share their own projects or recommend excellent projects. Before contributing, please read the [PR Contribution Guidelines](./CONTRIBUTING.md).
+We warmly welcome friends to share their own projects or recommend excellent projects. Before contributing, please read the [PR Contribution Guidelines](resources/CONTRIBUTING-en.md).
 
 Special welcome to all friends to surf, learn, reference in the project list. When someone's project is helpful to you, please remember to give the project a star ⭐️. By the way, give this project a star ⭐️.
 
 📢 If you plan to apply it in your production environment, please evaluate the selection based on the project's open source license, star count, last update time and other factors.
 
-🧐 Divided into 56 categories. 📥 Includes 177 entries.
+🧐 Divided into 57 categories. 📥 Includes 183 entries.
 
 ## Backup
 
@@ -67,6 +67,16 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) | MIT | 1325 | 2021-12-29 | 2023-12-12 | A lightweight browser-based log analysis and query platform, the underlying data storage uses ClickHouse |
+
+
+## CodeSearch
+
+📥 This category contains 2 items.
+
+| Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| [eryajf/gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch) | MIT | 6 | 2023-09-01 | 2023-10-15 | 🔎 Use keywords to search all gitlab projects, and output the results as Excel |
+| [huichen/kunlun](https://github.com/huichen/kunlun) | Apache-2.0 | 49 | 2021-11-21 | 2021-11-30 | Git repository code search engine based on Golang, only supports searching local code repositories |
 
 
 ## Consul
@@ -212,7 +222,7 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [PGYER/codefever](https://github.com/PGYER/codefever) | MIT | 2556 | 2022-01-19 | 2023-12-12 | Self-hosted Git server with CI/CD and Kanban |
-| [theonedev/onedev](https://github.com/theonedev/onedev) | MIT | 12181 | 2018-11-06 | 2024-01-14 | A completely free and open source Git code hosting service that supports one-line command installation to your own server |
+| [theonedev/onedev](https://github.com/theonedev/onedev) | MIT | 12180 | 2018-11-06 | 2024-01-14 | A completely free and open source Git code hosting service that supports one-line command installation to your own server |
 
 
 ## Jenkins-Tools
@@ -248,7 +258,7 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 | [hango-io/hango-gateway](https://github.com/hango-io/hango-gateway) | Apache-2.0 | 442 | 2021-03-04 | 2023-12-14 | A high-performance, scalable, feature-rich cloud native API gateway based on Envoy |
 | [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) | Apache-2.0 | 697 | 2019-11-27 | 2024-01-13 | Fully open source, cloud native, global load balancing solution for Kubernetes |
 | [eldadru/ksniff](https://github.com/eldadru/ksniff) | Apache-2.0 | 2952 | 2018-06-17 | 2023-11-19 | A kubectl plugin that utilize tcpdump and Wireshark to start a remote capture on any pod in your Kubernetes cluster |
-| [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) | Apache-2.0 | 10216 | 2021-04-19 | 2024-01-14 | API traffic analyzer for K8s, providing real-time protocol-level visibility into your K8s internal network, capturing and monitoring all traffic and load across containers, pods, nodes and clusters |
+| [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) | Apache-2.0 | 10217 | 2021-04-19 | 2024-01-14 | API traffic analyzer for K8s, providing real-time protocol-level visibility into your K8s internal network, capturing and monitoring all traffic and load across containers, pods, nodes and clusters |
 
 
 ## K8S-Tools
@@ -317,15 +327,6 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 | [tl-open-source/tl-ops-manage](https://github.com/tl-open-source/tl-ops-manage) | MIT | 217 | 2021-12-22 | 2023-07-31 | API gateway based on OpenResty, supporting load balancing, health check, service fusing, service flow limiting, WAF filtering, black and white list, dynamic SSL certificate, custom plug-in, multi-level cache, visual management, dynamic configuration, dynamic plug-in, data statistics, data display, cluster deployment |
 
 
-## OpsManage
-
-📥 This category contains 1 items.
-
-| Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) | Apache-2.0 | 7063 | 2013-03-12 | 2024-01-14 | 👉 Useful manual operations are made into scripts for easy use, making daily life of development easier |
-
-
 ## Prometheus-Exporter
 
 📥 This category contains 1 items.
@@ -333,6 +334,15 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) | Apache-2.0 | 873 | 2016-06-23 | 2023-12-28 | Parse Nginx logs and expose them as metrics |
+
+
+## RPM
+
+📥 This category contains 1 items.
+
+| Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| [eryajf/rpmbuild](https://github.com/eryajf/rpmbuild) | N/A | 8 | 2021-10-21 | 2023-05-05 | Collect and organize the spec files of RPM packages accumulated in production practice, you can directly build RPM packages that meet your actual needs based on this |
 
 
 ## Redis-Manage
@@ -352,8 +362,18 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [hhyo/Archery](https://github.com/hhyo/Archery) | Apache-2.0 | 5417 | 2018-09-28 | 2024-01-06 | SQL audit query platform |
-| [Bytebase/Bytebase](https://github.com/Bytebase/Bytebase) | NOASSERTION | 9103 | 2021-01-27 | 2024-01-13 | The world most advanced database DevOps and CI/CD for developers, DBAs and platform engineering teams |
+| [Bytebase/Bytebase](https://github.com/Bytebase/Bytebase) | NOASSERTION | 9104 | 2021-01-27 | 2024-01-13 | The world most advanced database DevOps and CI/CD for developers, DBAs and platform engineering teams |
 | [cookieY/Yearning](https://github.com/cookieY/Yearning) | AGPL-3.0 | 8106 | 2017-10-18 | 2024-01-02 | Simple and efficient MySQL audit platform |
+
+
+## Shell-Scripts
+
+📥 This category contains 2 items.
+
+| Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| [eryajf/magic-of-sysuse-scripts](https://github.com/eryajf/magic-of-sysuse-scripts) | N/A | 268 | 2019-05-17 | 2021-10-09 | An operation and maintenance plug-in based on shell scripts, which can complete some operation and maintenance automation operations anywhere through scripts |
+| [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) | Apache-2.0 | 7063 | 2013-03-12 | 2024-01-14 | 👉 Useful manual operations are made into scripts for easy use, making daily life of development easier |
 
 
 ## ShortURL
@@ -424,15 +444,6 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [pretty66/iptables-web](https://github.com/pretty66/iptables-web) | Apache-2.0 | 447 | 2022-04-03 | 2023-10-27 | A lightweight iptables Web management interface program, which supports binary file direct operation and Docker quick deployment installation |
-
-
-## 代码搜索
-
-📥 This category contains 1 items.
-
-| Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| [huichen/kunlun](https://github.com/huichen/kunlun) | Apache-2.0 | 49 | 2021-11-21 | 2021-11-30 | Git repository code search engine based on Golang, only supports searching local code repositories |
 
 
 ## 压测
@@ -518,7 +529,7 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | MIT | 58065 | 2019-08-21 | 2024-01-13 | Open source API development ecosystem, very high face value |
+| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | MIT | 58066 | 2019-08-21 | 2024-01-13 | Open source API development ecosystem, very high face value |
 | [Postcatlab/postcat](https://github.com/Postcatlab/postcat) | Apache-2.0 | 4661 | 2021-11-24 | 2024-01-03 | An extensible API tool platform, support multi-platform |
 | [YMFE/yapi](https://github.com/YMFE/yapi) | Apache-2.0 | 26809 | 2016-05-30 | 2023-10-25 | Efficient, easy to use, powerful API management platform, designed to provide elegant interface management services for developers, products, and testers |
 
@@ -546,11 +557,13 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 
 ## 文档
 
-📥 This category contains 7 items.
+📥 This category contains 9 items.
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
+| [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) | MIT | 866 | 2022-07-02 | 2023-10-14 | GitHub open source project maintenance collaboration guide |
 | [StabilityMan/StabilityGuide](https://github.com/StabilityMan/StabilityGuide) | NOASSERTION | 2964 | 2019-07-10 | 2023-03-16 | Build a knowledge base in the field of stability in China, so that there are fewer unsolvable problems, and the world is more certain |
+| [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) | MIT | 2360 | 2022-05-07 | 2023-12-28 | Organize and record the good mirrors of various package managers, system images, and commonly used software |
 | [doocs/advanced-java](https://github.com/doocs/advanced-java) | CC-BY-SA-4.0 | 72991 | 2018-10-06 | 2024-01-11 | A complete introduction to Java engineers advanced knowledge of the Internet: covering high-concurrency, distributed, high-availability, microservices, massive data processing and other fields of knowledge |
 | [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) | N/A | 8239 | 2019-12-23 | 2023-11-19 | Discuss how to build a reliable large-scale distributed system |
 | [xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily) | N/A | 4695 | 2021-01-06 | 2023-12-23 | A collection of super Golang interview questions &#43; Golang learning guides &#43; Golang knowledge map &#43; entry growth route |
@@ -606,21 +619,22 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 
 ## 终端命令行工具
 
-📥 This category contains 14 items.
+📥 This category contains 15 items.
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) | N/A | 18554 | 2019-10-09 | 2023-07-21 | Free terminal tool, SSH, Telnet, TCP, Shell, serial, support multi-platform |
+| [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) | N/A | 18556 | 2019-10-09 | 2023-07-21 | Free terminal tool, SSH, Telnet, TCP, Shell, serial, support multi-platform |
 | [withfig/autocomplete](https://github.com/withfig/autocomplete) | MIT | 23688 | 2020-09-29 | 2024-01-12 | A very powerful terminal command parameter auto-completion tool |
 | [aristocratos/btop](https://github.com/aristocratos/btop) | Apache-2.0 | 14656 | 2021-05-06 | 2024-01-14 | A monitor of resources displaying usage and stats for processor, memory, disks, network and processes |
 | [cli/cli](https://github.com/cli/cli) | MIT | 34256 | 2019-10-03 | 2024-01-14 | GitHub&#39;s official command line interaction tool |
 | [muesli/duf](https://github.com/muesli/duf) | NOASSERTION | 11913 | 2020-09-20 | 2023-11-16 | A better df alternative |
-| [orf/gping](https://github.com/orf/gping) | MIT | 9832 | 2015-10-17 | 2024-01-12 | Command line tool that pings and graphs |
+| [eryajf/eryajfctl](https://github.com/eryajf/eryajfctl) | MIT | 12 | 2023-06-04 | 2023-08-02 | 🚀 Quickly build a command line toolbox like kubectl based on the Cobra library 🧰 |
+| [orf/gping](https://github.com/orf/gping) | MIT | 9833 | 2015-10-17 | 2024-01-12 | Command line tool that pings and graphs |
 | [http-party/http-server](https://github.com/http-party/http-server) | MIT | 13104 | 2011-06-16 | 2023-11-23 | A simple, zero-config command-line static HTTP server |
 | [davecheney/httpstat](https://github.com/davecheney/httpstat) | MIT | 6433 | 2016-09-23 | 2023-10-17 | A tool that displays the details of the HTTP request chain, so that we can see where the request time is spent |
 | [johnkerl/miller](https://github.com/johnkerl/miller) | NOASSERTION | 8372 | 2015-05-03 | 2024-01-12 | Similar to awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON |
 | [lenye/pmsg](https://github.com/lenye/pmsg) | Apache-2.0 | 29 | 2022-09-11 | 2023-12-03 | A small tool for sending messages: WeChat Work group robot message, DingTalk custom robot message, Feishu custom robot message, Slack bot, WeChat message, WeChat customer service message, WeChat Work message, WeChat Work customer service message |
-| [Eugeny/tabby](https://github.com/Eugeny/tabby) | MIT | 53208 | 2016-12-23 | 2024-01-13 | An open source cross-platform supported terminal program that can easily manage host connections |
+| [Eugeny/tabby](https://github.com/Eugeny/tabby) | MIT | 53209 | 2016-12-23 | 2024-01-13 | An open source cross-platform supported terminal program that can easily manage host connections |
 | [schachmat/wego](https://github.com/schachmat/wego) | ISC | 7600 | 2014-11-21 | 2023-12-11 | Golang version of the terminal weather tool |
 | [chubin/wttr.in](https://github.com/chubin/wttr.in) | Apache-2.0 | 23005 | 2015-12-26 | 2024-01-05 | Execute curl wttr.in to display the weather forecast in the terminal |
 | [zartbot/ztrace](https://github.com/zartbot/ztrace) | MIT | 79 | 2021-08-16 | 2022-07-31 | A Traceroute command implemented by Golang |
