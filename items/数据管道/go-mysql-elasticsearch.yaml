@@ -1,0 +1,5 @@
+kind: 数据管道
+owner: go-mysql-org
+repo: go-mysql-elasticsearch
+desc: '将 MySQL 数据自动同步到 ES 的工具。它首先用 mysqldump 获取原始数据，然后使用 binlog 增量同步数据'
+desc_en: 'A tool that automatically synchronizes MySQL data to ES. It first uses mysqldump to get the original data, and then uses binlog to incrementally synchronize the data'

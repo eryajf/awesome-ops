@@ -1,0 +1,5 @@
+kind: 运维自动化
+owner: ansible
+repo: ansible
+desc: '一个极其简单的 IT 自动化平台，使您的应用程序和系统更易于部署和维护，基于 ssh，无需客户端'
+desc_en: 'A very simple IT automation platform that makes your applications and systems easier to deploy and maintain, based on ssh, no client required'

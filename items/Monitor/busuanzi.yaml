@@ -1,0 +1,5 @@
+kind: Monitor
+owner: soxft
+repo: busuanzi
+desc: '一个简单的网站统计分析器'
+desc_en: 'A simple website statistics analyzer'

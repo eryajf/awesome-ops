@@ -1,4 +1,4 @@
-English | [简体中文](README.md)
+English | [简体中文](../README.md)
 
 <div align="center">
 <h1>Awesome Ops</h1>
@@ -20,7 +20,7 @@ The field of operations and maintenance is vast, with many pioneers in each spec
 
 Whether you are in the field of operations and maintenance or any other technical field, this carefully curated and categorized collection of projects will be your treasure trove.
 
-We warmly welcome friends to share their own projects or recommend excellent projects. Before contributing, please read the [PR Contribution Guidelines](resources/CONTRIBUTING-en.md).
+We warmly welcome friends to share their own projects or recommend excellent projects. Before contributing, please read the [PR Contribution Guidelines](CONTRIBUTING-en.md).
 
 Special welcome to all friends to surf, learn, reference in the project list. When someone's project is helpful to you, please remember to give the project a star ⭐️. By the way, give this project a star ⭐️.
 
