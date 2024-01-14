@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Ops</h1>
 
-<p>🧰 记录每一个与运维相关的优秀项目，项目内表格基于 GitHub Action 生成 🧰</p>
+<p>🧰 记录每一个与运维相关的优秀项目，项目内表格通过 GitHub Action 自动生成 🧰</p>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)

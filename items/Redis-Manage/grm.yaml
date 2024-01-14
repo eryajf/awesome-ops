@@ -2,3 +2,4 @@ kind: Redis-Manage
 owner: gphper
 repo: grm
 desc: 'Golang 开发的 Redis 可视化工具，部署简单便捷，SSH连接，用户校验，操作日志、命令行模式、LUA 脚本执行、Redis 监控等'
+desc_en: 'Redis visualization tool developed by Golang, simple and convenient deployment, SSH connection, user verification, operation log, command line mode, LUA script execution, Redis monitoring, etc.'

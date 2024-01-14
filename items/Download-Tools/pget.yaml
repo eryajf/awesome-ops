@@ -1,0 +1,5 @@
+kind: Download-Tools
+owner: Code-Hex
+repo: pget
+desc: 'Golang 编写的可断点续传的文件下载客户端'
+desc_en: 'Golang written file download client that can be resumed'

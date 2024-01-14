@@ -2,3 +2,4 @@ kind: K8S-Network
 owner: k8gb-io
 repo: k8gb
 desc: 'Kubernetes 的完全开源、云原生、全局负载均衡解决方案'
+desc_en: 'Fully open source, cloud native, global load balancing solution for Kubernetes'

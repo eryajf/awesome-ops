@@ -2,3 +2,4 @@ kind: ElasticSearch-Manage
 owner: medcl
 repo: infini-gateway
 desc: '一款架设在 ES 前端的极限网关，提高写入，加速查询'
+desc_en: 'An extreme gateway deployed in front of ES to improve writing and accelerate query'

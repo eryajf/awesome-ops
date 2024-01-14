@@ -1,0 +1,5 @@
+kind: Forum
+owner: casbin
+repo: casnode
+desc: '一个 V2EX 风格的论坛项目'
+desc_en: 'A forum project in V2EX style'

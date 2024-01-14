@@ -2,3 +2,4 @@ kind: K8S-Cluster-Manage
 owner: 1Panel-dev
 repo: KubePi
 desc: '支持导入多个 K8s 集群，通过权限控制，将不同 cluster、namespace 的权限分配给指定用户'
+desc_en: 'Support importing multiple K8s clusters, through permission control, assign permissions of different cluster and namespace to specified users'

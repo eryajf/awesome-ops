@@ -2,3 +2,4 @@ kind: Docker-Tools
 owner: lavie
 repo: runlike
 desc: '能够查看在运行容器的启动命令的工具'
+desc_en: 'A tool that can view the startup command of the running container'

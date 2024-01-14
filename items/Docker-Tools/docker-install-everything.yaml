@@ -2,3 +2,4 @@ kind: Docker-Tools
 owner: FX-Max
 repo: docker-install-everything
 desc: '使用 Docker-compose 安装各种服务'
+desc_en: 'Use Docker-compose to install various services'

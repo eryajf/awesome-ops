@@ -2,3 +2,4 @@ kind: 终端命令行工具
 owner: lenye
 repo: pmsg
 desc: '发送消息的小工具：企业微信群机器人消息，钉钉自定义机器人消息，飞书自定义机器人消息，Slack bot，微信消息，微信客服消息，企业微信消息，企业微信客服消息'
+desc_en: 'A small tool for sending messages: WeChat Work group robot message, DingTalk custom robot message, Feishu custom robot message, Slack bot, WeChat message, WeChat customer service message, WeChat Work message, WeChat Work customer service message'

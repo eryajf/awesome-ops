@@ -2,3 +2,4 @@ kind: CMDB
 owner: TencentBlueKing
 repo: bk-cmdb
 desc: '腾讯蓝鲸配置平台是一个面向资产及应用的企业级配置管理平台'
+desc_en: 'Tencent BlueKing Configuration Platform is an enterprise-level configuration management platform for assets and applications'

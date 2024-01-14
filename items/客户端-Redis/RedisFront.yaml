@@ -1,4 +1,0 @@
-kind: 客户端-Redis
-owner: dromara
-repo: RedisFront
-desc: '一款开源免费的跨平台 Redis 桌面客户端工具, 支持单机模式, 集群模式, 哨兵模式以及 SSH 隧道连接，支持多平台'

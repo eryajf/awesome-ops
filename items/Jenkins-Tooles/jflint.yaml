@@ -2,3 +2,4 @@ kind: Jenkins-Tools
 owner: miyajan
 repo: jflint
 desc: 'Jenkinsfile 语法检测工具，可集成在 Jenkinsfile 仓库的 CI 流程中'
+desc_en: 'Jenkinsfile syntax checking tool, can be integrated into the CI process of the Jenkinsfile repository'

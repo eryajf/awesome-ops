@@ -2,3 +2,4 @@ kind: 终端命令行工具
 owner: chubin
 repo: wttr.in
 desc: '执行 curl wttr.in 在终端中显示天气预报'
+desc_en: 'Execute curl wttr.in to display the weather forecast in the terminal'

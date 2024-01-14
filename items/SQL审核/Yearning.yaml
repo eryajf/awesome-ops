@@ -2,3 +2,4 @@ kind: SQL审核
 owner: cookieY
 repo: Yearning
 desc: '简单,高效的 MySQL 审计平台'
+desc_en: 'Simple and efficient MySQL audit platform'

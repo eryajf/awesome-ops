@@ -2,3 +2,4 @@ kind: 文档
 owner: fenixsoft
 repo: awesome-fenix
 desc: '讨论如何构建一套可靠的大型分布式系统'
+desc_en: 'Discuss how to build a reliable large-scale distributed system'

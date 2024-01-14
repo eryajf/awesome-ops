@@ -1,0 +1,5 @@
+kind: Kafka-Manage
+owner: provectus
+repo: kafka-ui
+desc: '一款 Python+Vue 写的 Kafka-Web 管理后台'
+desc_en: 'A Kafka-Web management background written in Python+Vue'

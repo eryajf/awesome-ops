@@ -2,3 +2,4 @@ kind: SQL审核
 owner: hhyo
 repo: Archery
 desc: 'SQL 审核查询平台'
+desc_en: 'SQL audit query platform'

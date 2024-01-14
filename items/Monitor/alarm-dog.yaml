@@ -2,3 +2,4 @@ kind: Monitor
 owner: tal-tech
 repo: alarm-dog
 desc: '通用的统一告警平台，提供配置化、流程化、标准化的能力，支持多种告警通知渠道，支持告警收敛、过滤、升级、工作流、自动恢复等功能'
+desc_en: 'A universal unified alarm platform that provides configurable, process-oriented, and standardized capabilities, supports multiple alarm notification channels, supports alarm convergence, filtering, upgrade, workflow, automatic recovery and other functions'

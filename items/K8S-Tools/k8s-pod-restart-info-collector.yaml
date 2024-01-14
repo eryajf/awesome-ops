@@ -2,3 +2,4 @@ kind: K8S-Tools
 owner: airwallex
 repo: k8s-pod-restart-info-collector
 desc: '监视 Pod 更改并在 Pod 重新启动时将 K8s Pod 重新启动原因、日志和事件收集到 Slack 通道'
+desc_en: 'Monitor Pod changes and collect K8s Pod restart reasons, logs and events to Slack channel when Pod restarts'

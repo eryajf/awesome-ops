@@ -2,3 +2,4 @@ kind: 机器镜像
 owner: hashicorp
 repo: packer
 desc: '一个支持基于配置文件构建机器镜像的工具'
+desc_en: 'A tool that supports building machine images based on configuration files'

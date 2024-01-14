@@ -2,3 +2,4 @@ kind: Version-Switch-Tools
 owner: sdkman
 repo: sdkman-cli
 desc: '在任何基于 Unix 的系统上管理多个软件开发工具包的多个版本的工具'
+desc_en: 'A tool for managing multiple software development kits of multiple versions on any Unix based system'

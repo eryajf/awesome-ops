@@ -2,3 +2,4 @@ kind: 接口管理
 owner: YMFE
 repo: yapi
 desc: '高效、易用、功能强大的 API 管理平台，旨在为开发、产品、测试人员提供优雅的接口管理服务'
+desc_en: 'Efficient, easy to use, powerful API management platform, designed to provide elegant interface management services for developers, products, and testers'

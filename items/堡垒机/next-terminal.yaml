@@ -2,3 +2,4 @@ kind: 堡垒机
 owner: dushixiang
 repo: next-terminal
 desc: '一个 Golang 开发的简单好用安全的开源交互审计系统，支持 RDP、SSH、VNC、Telnet、Kubernetes 协议'
+desc_en: 'A simple and easy-to-use open source interactive audit system developed by Golang, supporting RDP, SSH, VNC, Telnet, Kubernetes protocol'

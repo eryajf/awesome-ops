@@ -2,3 +2,4 @@ kind: K8S-Network
 owner: eldadru
 repo: ksniff
 desc: 'kubectl 插件，利用 tcpdump 和 Wireshark 在 K8s 集群中的 pod 上启动远程捕获'
+desc_en: 'A kubectl plugin that utilize tcpdump and Wireshark to start a remote capture on any pod in your Kubernetes cluster'

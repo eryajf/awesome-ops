@@ -2,3 +2,4 @@ kind: K8S-Tools
 owner: hidetatz
 repo: kubecolor
 desc: '可以给 kubectl 命令行输出内容着色的一个工具'
+desc_en: 'A tool that can color the output content of the kubectl command line'

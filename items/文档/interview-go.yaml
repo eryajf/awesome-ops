@@ -2,3 +2,4 @@ kind: 文档
 owner: lifei6671
 repo: interview-go
 desc: 'Golang 常见面试题目搜集'
+desc_en: 'Golang common interview questions collection'

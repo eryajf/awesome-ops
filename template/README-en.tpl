@@ -3,7 +3,7 @@ English | [简体中文](README.md)
 <div align="center">
 <h1>Awesome Ops</h1>
 
-<p>🧰 Record every excellent project related to operation and maintenance, The table in the project is generated based on GitHub Action. 🧰</p>
+<p>🧰 Record every excellent project related to operation and maintenance, The table in the project is automatically generated through GitHub Action. 🧰</p>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
@@ -37,6 +37,6 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 {{- range $item := $val}}
-| [{{$item.owner}}/{{$item.repo}}](https://github.com/{{$item.owner}}/{{$item.repo}}) | {{ghLicense $item.owner $item.repo}} | {{ghStar $item.owner $item.repo}} | {{ghCreate $item.owner $item.repo}} | {{ghUpdate $item.owner $item.repo}} | {{$item.desc}} |
+| [{{$item.owner}}/{{$item.repo}}](https://github.com/{{$item.owner}}/{{$item.repo}}) | {{ghLicense $item.owner $item.repo}} | {{ghStar $item.owner $item.repo}} | {{ghCreate $item.owner $item.repo}} | {{ghUpdate $item.owner $item.repo}} | {{$item.desc_en}} |
 {{- end}}
 {{end}}

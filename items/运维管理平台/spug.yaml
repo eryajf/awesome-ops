@@ -2,3 +2,4 @@ kind: 运维管理平台
 owner: openspug
 repo: spug
 desc: '轻量级无 Agent 的自动化运维平台'
+desc_en: 'Lightweight agentless automation operation and maintenance platform'

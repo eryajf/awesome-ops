@@ -2,3 +2,4 @@ kind: Monitor
 owner: VictoriaMetrics
 repo: VictoriaMetrics
 desc: '快速，经济高效的监控解决方案和时序数据库，可用于 Prometheus 或 Grafana 的存储'
+desc_en: 'Fast, economical and efficient monitoring solution and time series database, which can be used for storage of Prometheus or Grafana'

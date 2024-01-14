@@ -2,3 +2,4 @@ kind: VPN
 owner: bjdgyc
 repo: anylink
 desc: '一个企业级远程办公 SSL VPN 软件，可以支持多人同时在线使用'
+desc_en: 'An enterprise remote office SSL VPN software that can support multiple people to use online at the same time'

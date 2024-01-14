@@ -2,3 +2,4 @@ kind: Monitor
 owner: dromara
 repo: hertzbeat
 desc: '易用友好的开源实时监控告警系统，无需 Agent，高性能集群，兼容 Prometheus，强大自定义监控能力'
+desc_en: 'Easy-to-use and friendly open source real-time monitoring and alarm system, no need for Agent, high-performance cluster, compatible with Prometheus, powerful custom monitoring capabilities'

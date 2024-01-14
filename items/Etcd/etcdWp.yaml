@@ -2,3 +2,4 @@ kind: Etcd
 owner: workpieces
 repo: etcdWp
 desc: '一款美观、易于 etcd 数据库管理应用程序，支持多平台'
+desc_en: 'A beautiful and easy-to-use etcd database management application, support multi-platform'

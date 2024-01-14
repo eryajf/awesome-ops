@@ -2,3 +2,4 @@ kind: Prometheus-Exporter
 owner: martin-helmich
 repo: prometheus-nginxlog-exporter
 desc: '解析 Nginx 日志，暴露成指标'
+desc_en: 'Parse Nginx logs and expose them as metrics'

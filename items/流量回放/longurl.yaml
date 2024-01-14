@@ -1,4 +1,0 @@
-kind: 流量回放
-owner: buger
-repo: goreplay
-desc: '将实时 HTTP 流量捕获和回放到测试环境，也可以作为 HTTP 的抓包工具'

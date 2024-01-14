@@ -2,3 +2,4 @@ kind: Sync-Tools
 owner: trzsz
 repo: trzsz
 desc: '一个兼容 tmux 的文件传输工具，类似 lrzsz ，有进度条并且支持目录传输'
+desc_en: 'A file transfer tool compatible with tmux, similar to lrzsz, with progress bar and support for directory transfer'

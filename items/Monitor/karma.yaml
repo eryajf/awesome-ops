@@ -2,3 +2,4 @@ kind: Monitor
 owner: prymitive
 repo: karma
 desc: '一款展示 AlertManager 告警信息的面板，可用于投屏'
+desc_en: 'A panel that displays AlertManager alarm information, which can be used for screen projection'

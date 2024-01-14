@@ -2,3 +2,4 @@ kind: 终端命令行工具
 owner: aristocratos
 repo: btop
 desc: '系统资源监视器显示处理器、内存、磁盘、网络和进程的使用情况和统计​​信息'
+desc_en: 'A monitor of resources displaying usage and stats for processor, memory, disks, network and processes'

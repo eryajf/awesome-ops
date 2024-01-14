@@ -2,3 +2,4 @@ kind: Etcd
 owner: gtamas
 repo: etcdmanager
 desc: 'Etcd 客户端，支持 Linux、Windows、MacOS'
+desc_en: 'Etcd client, support Linux, Windows, MacOS'

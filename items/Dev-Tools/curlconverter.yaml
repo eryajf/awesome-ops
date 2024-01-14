@@ -2,3 +2,4 @@ kind: Dev-Tools
 owner: curlconverter
 repo: curlconverter
 desc: '一个能够将 curl 命令转换成各种语言请求的工具'
+desc_en: 'A tool that can convert curl commands into requests in various languages'

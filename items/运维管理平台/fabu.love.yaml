@@ -2,3 +2,4 @@ kind: 运维管理平台
 owner: rock-app
 repo: fabu.love
 desc: '应用发布平台类似 fir.im/蒲公英,支持检查更新,灰度发布等'
+desc_en: 'Application release platform similar to fir.im/pugongying, support check update, gray release, etc.'

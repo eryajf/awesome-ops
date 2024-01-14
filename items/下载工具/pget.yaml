@@ -1,4 +1,0 @@
-kind: 下载工具
-owner: Code-Hex
-repo: pget
-desc: 'Golang 编写的可断点续传的文件下载客户端'

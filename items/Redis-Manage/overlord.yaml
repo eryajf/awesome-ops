@@ -2,3 +2,4 @@ kind: Redis-Manage
 owner: bilibili
 repo: overlord
 desc: '哔哩哔哩基于 Golang 编写的 Memcache 和 Redis&cluster 的代理及集群管理功能'
+desc_en: 'Bilibili Memcache and Redis&cluster proxy and cluster management functions based on Golang'

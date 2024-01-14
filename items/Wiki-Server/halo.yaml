@@ -2,3 +2,4 @@ kind: Wiki-Server
 owner: halo-dev
 repo: halo
 desc: '强大易用的开源建站工具，更偏向于博客风格'
+desc_en: 'Powerful and easy-to-use open source website building tools, more biased towards blog style'

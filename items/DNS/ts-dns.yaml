@@ -2,3 +2,4 @@ kind: DNS
 owner: wolf-joe
 repo: ts-dns
 desc: '灵活快速的 DNS 分组转发器'
+desc_en: 'Flexible and fast DNS group forwarder'

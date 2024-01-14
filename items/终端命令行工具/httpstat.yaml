@@ -2,3 +2,4 @@ kind: 终端命令行工具
 owner: davecheney
 repo: httpstat
 desc: '显示 HTTP 请求链路详情的工具，便于我们看到请求耗时在什么地方'
+desc_en: 'A tool that displays the details of the HTTP request chain, so that we can see where the request time is spent'

@@ -2,3 +2,4 @@ kind: Wiki-Server
 owner: usememos
 repo: memos
 desc: '一项隐私优先的轻量级笔记服务,轻松捕捉并分享您的精彩想法,[flomo](https://flomoapp.com/) 的开源替代品'
+desc_en: 'A privacy-first, lightweight note service, easily capture and share your wonderful ideas, [flomo](https://flomoapp.com/) open source alternative'

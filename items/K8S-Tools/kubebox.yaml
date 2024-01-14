@@ -2,3 +2,4 @@ kind: K8S-Tools
 owner: astefanutti
 repo: kubebox
 desc: 'K8s 终端版管理工具'
+desc_en: 'Terminal console for Kubernetes'

@@ -2,3 +2,4 @@ kind: Git-Server
 owner: PGYER
 repo: codefever
 desc: '具有 CI/CD 和看板的自托管 Git 服务器'
+desc_en: 'Self-hosted Git server with CI/CD and Kanban'

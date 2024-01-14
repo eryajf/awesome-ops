@@ -2,3 +2,4 @@ kind: CMDB
 owner: WeBankPartners
 repo: we-cmdb
 desc: '微众银行配置管理数据库系统'
+desc_en: 'WeBank Configuration Management Database System'

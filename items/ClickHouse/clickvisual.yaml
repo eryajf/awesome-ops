@@ -2,3 +2,4 @@ kind: ClickHouse
 owner: clickvisual
 repo: clickvisual
 desc: '一个轻量级的基于浏览器的日志分析和查询平台，底层数据存储采用 ClickHouse'
+desc_en: 'A lightweight browser-based log analysis and query platform, the underlying data storage uses ClickHouse'

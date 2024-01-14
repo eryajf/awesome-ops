@@ -14,7 +14,8 @@
 kind: OpenLDAP
 owner: eryajf
 repo: go-ldap-admin
-desc: '🌉 基于Go+Vue实现的openLDAP后台管理项目'
+desc: '🌉 基于 Golang+Vue 实现的 OpenLDAP 后台管理项目'
+desc_en: '🌉 OpenLDAP background management project based on Golang+Vue'
 ```
 
 - 如上四个字段缺一不可，否则会导致内容渲染失败。
@@ -22,5 +23,6 @@ desc: '🌉 基于Go+Vue实现的openLDAP后台管理项目'
 - `owner:` 仓库的用户名，或者组织名。📢 注意：如果你的这个字段全部为数字，请用双引号包裹。否则action将会执行失败。
 - `repo:` 仓库名。📢 注意：如果你的这个字段全部为数字，请用双引号包裹。否则action将会执行失败。
 - `desc:` 用简短的话介绍一下这个项目。请注意，此内容当中不要包含|之类的关键字，这会作为表格的一个列呈现。
+- `desc_en:` 用英文来简单描述概括一下这个项目。请注意，此内容当中不要包含|之类的关键字，这会作为表格的一个列呈现。
 
 3. 如果你不知道项目该如何分类，或者该项目目前没有对应分类，可以尝试先创建分类目录，然后再添加项目。

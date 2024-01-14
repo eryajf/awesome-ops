@@ -2,3 +2,4 @@ kind: 应用进程管理
 owner: ochinchina
 repo: supervisord
 desc: '基于 Golang 实现的 Supervisord 进程管理工具'
+desc_en: 'Supervisord process management tool based on Golang'

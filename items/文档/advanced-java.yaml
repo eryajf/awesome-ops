@@ -2,3 +2,4 @@ kind: 文档
 owner: doocs
 repo: advanced-java
 desc: '互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识'
+desc_en: 'A complete introduction to Java engineers advanced knowledge of the Internet: covering high-concurrency, distributed, high-availability, microservices, massive data processing and other fields of knowledge'

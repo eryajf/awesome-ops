@@ -2,3 +2,4 @@ kind: ElasticSearch-Manage
 owner: anjia0532
 repo: elastalert-docker
 desc: 'ES 告警组件 ElastAlert 的 Docker镜像'
+desc_en: 'Docker image of ES alarm component ElastAlert'

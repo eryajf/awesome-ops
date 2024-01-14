@@ -2,3 +2,4 @@ kind: Etcd
 owner: kstone-io
 repo: kstone
 desc: '针对 etcd 的全方位运维解决方案，提供集群管理（关联已有集群、创建新集群)、监控、备份、巡检、数据迁移、数据可视化、智能诊断等特性'
+desc_en: 'A full range of operation and maintenance solutions for etcd, providing cluster management (related to existing clusters, create new clusters), monitoring, backup, inspection, data migration, data visualization, intelligent diagnosis and other features'

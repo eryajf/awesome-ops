@@ -2,3 +2,4 @@ kind: CICD
 owner: koderover
 repo: zadig
 desc: '基于 Kubernetes 研发的自助式云原生 DevOps 平台'
+desc_en: 'Self-service cloud native DevOps platform based on Kubernetes'

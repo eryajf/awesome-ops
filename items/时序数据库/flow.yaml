@@ -1,4 +1,0 @@
-kind: 时序数据库
-owner: trickstercache
-repo: trickster
-desc: 'HTTP 反向代理/缓存，用于时间序列数据库的仪表板查询加速器'

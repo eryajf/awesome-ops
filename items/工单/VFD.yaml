@@ -2,3 +2,4 @@ kind: 工单
 owner: ZFSNYJ
 repo: VFD
 desc: '一款基于 Vue 的在线绘制流程图工具'
+desc_en: 'A online flowchart drawing tool based on Vue'

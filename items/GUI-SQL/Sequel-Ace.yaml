@@ -1,0 +1,5 @@
+kind: GUI-SQL
+owner: Sequel-Ace
+repo: Sequel-Ace
+desc: 'Mac 平台下的 MySQL 客户端'
+desc_en: 'MySQL/MariaDB database management for macOS'

@@ -2,3 +2,4 @@ kind: ElasticSearch-Manage
 owner: medcl
 repo: esm
 desc: 'ES 索引迁移工具，支持跨版本迁移'
+desc_en: 'ES index migration tool, support cross-version migration'

@@ -1,0 +1,5 @@
+kind: GUI-SQL
+owner: beekeeper-studio
+repo: beekeeper-studio
+desc: '适用于 MySQL、Postgres、SQLite、SQL Server 等的现代且易于使用的 SQL 客户端,支持多平台,颜值高'
+desc_en: 'Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Written with Electron & Vue.js'

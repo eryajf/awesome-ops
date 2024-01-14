@@ -1,0 +1,5 @@
+kind: Backup
+owner: Hellager
+repo: mission-backup
+desc: '简单好用的备份软件'
+desc_en: 'Simple and easy-to-use backup software'

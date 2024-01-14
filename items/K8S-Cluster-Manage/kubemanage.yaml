@@ -2,3 +2,4 @@ kind: K8S-Cluster-Manage
 owner: noovertime7
 repo: kubemanage
 desc: '一个简单易用的 K8s 管理平台，前端使用 Vue3 ，后端使用 Gin+Gorm ，未来将支持多集群接入'
+desc_en: 'A simple and easy-to-use K8s management platform, the front end uses Vue3, the back end uses Gin+Gorm, and multi-cluster access will be supported in the future'

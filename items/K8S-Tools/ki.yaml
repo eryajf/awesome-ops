@@ -2,3 +2,4 @@ kind: K8S-Tools
 owner: ywgx
 repo: ki
 desc: '轻松管理多个 Kubeconfig 的工具'
+desc_en: 'A tool for easily managing multiple Kubeconfig'

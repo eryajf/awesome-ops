@@ -2,3 +2,4 @@ kind: 终端命令行工具
 owner: withfig
 repo: autocomplete
 desc: '非常强大的终端命令参数自动补全工具'
+desc_en: 'A very powerful terminal command parameter auto-completion tool'

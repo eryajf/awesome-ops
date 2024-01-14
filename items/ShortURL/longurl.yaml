@@ -1,0 +1,5 @@
+kind: ShortURL
+owner: long2ice
+repo: longurl
+desc: '一个自托管的短链服务'
+desc_en: 'A self-hosted short link service'

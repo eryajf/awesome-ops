@@ -2,3 +2,4 @@ kind: 运维管理平台
 owner: dromara
 repo: mayfly-go
 desc: 'web 版 Linux(终端,文件脚本,进程,计划任务)、数据库（MySQL,Postgres,达梦）、Redis(单机,哨兵,集群)、MongoDB 统一管理操作平台'
+desc_en: 'Web version Linux (terminal, file script, process, scheduled task), database (MySQL, Postgres, Daming), Redis (single machine, sentinel, cluster), MongoDB unified management operation platform'

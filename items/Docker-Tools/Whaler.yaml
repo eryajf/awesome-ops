@@ -2,3 +2,4 @@ kind: Docker-Tools
 owner: P3GLEG
 repo: Whaler
 desc: '能够查看在运行容器的 Dockerfile 的工具'
+desc_en: 'A tool that can view the Dockerfile of the running container'

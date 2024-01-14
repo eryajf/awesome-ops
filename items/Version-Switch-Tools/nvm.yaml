@@ -2,3 +2,4 @@ kind: Version-Switch-Tools
 owner: nvm-sh
 repo: nvm
 desc: '一个简单的工具，用于多个 Node 版本的管理与切换'
+desc_en: 'A simple tool for managing and switching multiple Node versions'

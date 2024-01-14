@@ -2,3 +2,4 @@ kind: 虚拟化
 owner: utmapp
 repo: utm
 desc: '适用于 iOS 和 MacOS 的虚拟机工具'
+desc_en: 'Virtual machine tool for iOS and MacOS'

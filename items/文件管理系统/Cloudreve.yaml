@@ -2,3 +2,4 @@ kind: 文件管理系统
 owner: Cloudreve
 repo: Cloudreve
 desc: '支持多家云存储驱动的公有云文件系统'
+desc_en: 'Public cloud file system that supports multiple cloud storage drivers'

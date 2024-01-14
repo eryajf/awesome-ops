@@ -2,3 +2,4 @@ kind: Version-Switch-Tools
 owner: moovweb
 repo: gvm
 desc: '一个简单的工具，用于多个 Golang 版本的管理与切换'
+desc_en: 'A simple tool for managing and switching multiple Golang versions'

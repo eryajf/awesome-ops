@@ -2,3 +2,4 @@ kind: K8S-Tools
 owner: prometheus-operator
 repo: kube-prometheus
 desc: '使用 Prometheus 监控 Kubernetes 和在 Kubernetes 上运行的应用程序'
+desc_en: 'Use Prometheus to monitor Kubernetes and applications running on Kubernetes'

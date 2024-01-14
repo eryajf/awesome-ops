@@ -2,3 +2,4 @@ kind: 终端命令行工具
 owner: schachmat
 repo: wego
 desc: 'Golang 版本的终端天气工具'
+desc_en: 'Golang version of the terminal weather tool'

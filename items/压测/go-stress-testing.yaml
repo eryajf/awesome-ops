@@ -2,3 +2,4 @@ kind: 压测
 owner: link1st
 repo: go-stress-testing
 desc: 'Golang 实现的压测工具'
+desc_en: 'Golang implementation of stress testing tools'

@@ -1,0 +1,5 @@
+kind: Forum
+owner: linfaxin
+repo: MBBS
+desc: '轻量级全功能论坛、移动/PC 双端适配、无依赖一键启动、技术栈 Express + SQLite + React'
+desc_en: 'Lightweight full-featured forum, mobile/PC dual-end adaptation, no dependency one-click start, technology stack Express + SQLite + React'

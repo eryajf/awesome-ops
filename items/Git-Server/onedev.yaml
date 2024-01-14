@@ -2,3 +2,4 @@ kind: Git-Server
 owner: theonedev
 repo: onedev
 desc: '完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器'
+desc_en: 'A completely free and open source Git code hosting service that supports one-line command installation to your own server'

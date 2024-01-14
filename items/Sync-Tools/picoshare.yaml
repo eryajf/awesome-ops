@@ -2,3 +2,4 @@ kind: Sync-Tools
 owner: mtlynch
 repo: picoshare
 desc: '可建立文件共享服务，支持多种类型，部署简单，易于使用'
+desc_en: 'A file sharing service that supports multiple types, easy to deploy and easy to use'

@@ -2,3 +2,4 @@ kind: Dev-Tools
 owner: cosmtrek
 repo: air
 desc: '☁️ 针对 Golang 应用开发设计的一个热重载的命令行工具'
+desc_en: '☁️ A hot-reloading CLI tool designed for Go applications development'

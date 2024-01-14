@@ -1,0 +1,5 @@
+kind: GUI-MongoDB
+owner: Studio3T
+repo: robomongo
+desc: '原生跨平台 MongoDB 管理工具'
+desc_en: 'Native cross-platform MongoDB management tool'
