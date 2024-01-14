@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: eryajf
+repo: eryajfctl
+desc: '🚀 基于 Cobra 库快速打造类似 kubectl 一样的命令行工具箱 🧰'
+desc_en: '🚀 Quickly build a command line toolbox like kubectl based on the Cobra library 🧰'

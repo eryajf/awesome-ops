@@ -1,0 +1,5 @@
+kind: Shell-Scripts
+owner: eryajf
+repo: magic-of-sysuse-scripts
+desc: '基于shell脚本实现的一个运维外挂，可通过脚本随处完成一些运维自动化的操作'
+desc_en: 'An operation and maintenance plug-in based on shell scripts, which can complete some operation and maintenance automation operations anywhere through scripts'

@@ -1,0 +1,5 @@
+kind: RPM
+owner: eryajf
+repo: rpmbuild
+desc: '收集整理生产实践中积累的 RPM 包构建 spec 文件，你可以直接基于此构建出符合自己实际需求的 RPM 包'
+desc_en: 'Collect and organize the spec files of RPM packages accumulated in production practice, you can directly build RPM packages that meet your actual needs based on this'

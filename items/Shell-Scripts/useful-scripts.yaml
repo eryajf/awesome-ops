@@ -1,4 +1,4 @@
-kind: OpsManage
+kind: Shell-Scripts
 owner: oldratlee
 repo: useful-scripts
 desc: '👉 平时有用的手动操作做成脚本，以便捷地使用，让开发的日常生活更轻松些'
