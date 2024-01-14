@@ -1,4 +1,4 @@
-kind: ElasticSearch-Tools
+kind: ElasticSearch-Manage
 owner: anjia0532
 repo: elastalert-docker
 desc: 'ES告警组件elastalert的docker镜像'

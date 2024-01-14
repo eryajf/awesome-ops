@@ -1,0 +1,4 @@
+kind: 运维管理平台
+owner: dromara
+repo: mayfly-go
+desc: 'web版linux(终端,文件脚本,进程,计划任务)、数据库（mysql,postgres,达梦）、redis(单机,哨兵,集群)、mongo统一管理操作平台'

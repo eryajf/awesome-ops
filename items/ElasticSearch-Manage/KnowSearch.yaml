@@ -1,0 +1,4 @@
+kind: ElasticSearch-Manage
+owner: didi
+repo: KnowSearch
+desc: '面向Elasticsearch研发与运维人员，围绕集群、索引构建的零侵入、多租户的Elasticsearch GUI管控平台'

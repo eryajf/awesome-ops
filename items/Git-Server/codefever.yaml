@@ -1,0 +1,4 @@
+kind: Git-Server
+owner: PGYER
+repo: codefever
+desc: '具有 CI/CD 和看板的自托管 Git 服务器'

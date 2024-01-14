@@ -1,0 +1,4 @@
+kind: K8S-Tools
+owner: itaysk
+repo: kubectl-neat
+desc: '能够智能清除kubectl get pod -o yaml时的无用输出，使其更易于阅读'

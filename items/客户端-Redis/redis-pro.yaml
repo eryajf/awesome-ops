@@ -1,0 +1,4 @@
+kind: 客户端-Redis
+owner: cmushroom
+repo: redis-pro
+desc: '一款 redis 轻量客户端管理工具， 采用SwiftUI 编写，仅支持Mac平台'

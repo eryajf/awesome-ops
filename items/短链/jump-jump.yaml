@@ -1,0 +1,4 @@
+kind: 短链
+owner: jwma
+repo: jump-jump
+desc: '开箱即用，Golang 开发的一个功能完善的短链接系统'

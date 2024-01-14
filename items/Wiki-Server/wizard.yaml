@@ -1,0 +1,4 @@
+kind: Wiki-Server
+owner: mylxsw
+repo: wizard
+desc: '一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档'

@@ -1,4 +1,4 @@
-kind: Redis客户端
+kind: 客户端-Redis
 owner: qishibo
 repo: AnotherRedisDesktopManager
 desc: '🚀 更快、更好、更稳定的Redis桌面(GUI)管理客户端，支持多平台'

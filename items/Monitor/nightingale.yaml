@@ -1,0 +1,4 @@
+kind: Monitor
+owner: ccfos
+repo: nightingale
+desc: 'All-in-One 的云原生监控工具，集合了 Prometheus 和 Grafana 的优点，你可以在 WebUI 上管理和配置告警策略，也可以对分布在多个 Region 的指标、日志、链路追踪数据进行统一的可视化和分析'

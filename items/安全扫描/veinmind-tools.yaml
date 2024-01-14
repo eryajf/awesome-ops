@@ -1,0 +1,4 @@
+kind: 安全扫描
+owner: chaitin
+repo: veinmind-tools
+desc: '容器安全工具集，支持容器恶意文件，弱口令，漏洞，后门等扫描能力'

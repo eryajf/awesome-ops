@@ -1,0 +1,4 @@
+kind: 堡垒机
+owner: dushixiang
+repo: next-terminal
+desc: '一个Go语言开发的简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议'

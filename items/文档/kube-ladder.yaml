@@ -1,0 +1,4 @@
+kind: 文档
+owner: caicloud
+repo: kube-ladder
+desc: '文档旨在为广大从业者提供一个 Kubernetes 学习路径，为大家提供一定的指引'

@@ -1,4 +1,4 @@
-kind: SQL客户端
+kind: 客户端-SQL
 owner: Sequel-Ace
 repo: Sequel-Ace
 desc: 'Mac平台下的MySQL客户端'

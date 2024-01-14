@@ -1,0 +1,4 @@
+kind: Redis-Manage
+owner: bilibili
+repo: overlord
+desc: '哔哩哔哩基于Go语言编写的memcache和redis&cluster的代理及集群管理功能'

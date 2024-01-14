@@ -1,0 +1,4 @@
+kind: 短链
+owner: barats
+repo: ohUrlShortener
+desc: '企业级短链接服务系统，支持短链接生产、查询及302转向，并自带点击量统计、独立IP数统计、访问日志'

@@ -1,0 +1,4 @@
+kind: Dev-Tools
+owner: AykutSarac
+repo: jsoncrack.com
+desc: '将 JSON、YAML、XML、CSV 等各种数据格式转换为交互式图表的工具'

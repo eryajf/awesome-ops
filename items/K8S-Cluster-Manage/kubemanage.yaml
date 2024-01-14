@@ -1,0 +1,4 @@
+kind: K8S-Cluster-Manage
+owner: noovertime7
+repo: kubemanage
+desc: '一个简单易用的K8S管理平台，前端使用vue3，后端使用gin+gorm，未来将支持多集群接入'

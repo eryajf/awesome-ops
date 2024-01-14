@@ -4,6 +4,8 @@
 
 如果你是第一次进行GitHub协作，可参阅： [协同开发流程](https://howtosos.eryajf.net/HowToStartOpenSource/01-basic-content/03-collaborative-development-process.html)
 
+📢 前提：注意所提交的项目只能是github中的项目，否则表格中的其他字段将无法正常展示。
+
 1. 此项目的README.md通过action自动生成，请勿编辑此文件。
 
 2. README.md中的文件，取自于 `items/*/*.yaml` 文件，如果你要新增一个项目，请在对应分类下拷贝一个文件，然后按照其内容规范进行填写：

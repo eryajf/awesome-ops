@@ -1,0 +1,4 @@
+kind: Monitor
+owner: prymitive
+repo: karma
+desc: '一款展示AlertManager告警信息的面板，可用于投屏'

@@ -1,0 +1,4 @@
+kind: Monitor
+owner: tal-tech
+repo: alarm-dog
+desc: '通用的统一告警平台，提供配置化、流程化、标准化的能力，支持多种告警通知渠道，支持告警收敛、过滤、升级、工作流、自动恢复等功能'

@@ -1,0 +1,4 @@
+kind: Sync-Tools
+owner: lra
+repo: mackup
+desc: '一个可以保持你应用程序配置同步的工具'

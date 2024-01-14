@@ -1,0 +1,4 @@
+kind: Redis-Manage
+owner: gphper
+repo: grm
+desc: 'go开发的redis可视化工具，部署简单便捷，SSH连接，用户校验，操作日志、命令行模式、LUA脚本执行、Redis监控等'

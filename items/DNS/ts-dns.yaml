@@ -1,0 +1,4 @@
+kind: DNS
+owner: wolf-joe
+repo: ts-dns
+desc: '灵活快速的DNS分组转发器'

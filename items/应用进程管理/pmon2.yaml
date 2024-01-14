@@ -1,0 +1,4 @@
+kind: 应用进程管理
+owner: ntt360
+repo: pmon2
+desc: 'go进程管理工具，类似node进程管理的pm2'
