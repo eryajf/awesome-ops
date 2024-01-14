@@ -1,4 +1,4 @@
 kind: 下载工具
 owner: Code-Hex
 repo: pget
-desc: 'go语言编写的可断点续传的文件下载客户端'
+desc: 'Golang 编写的可断点续传的文件下载客户端'

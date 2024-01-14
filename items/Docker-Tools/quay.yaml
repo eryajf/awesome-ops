@@ -1,4 +1,4 @@
 kind: Docker-Tools
 owner: quay
 repo: quay
-desc: 'Red Hat 开源的docker镜像仓库，类似harbor'
+desc: 'Red Hat 开源的 Docker 镜像仓库，类似 Harbor'

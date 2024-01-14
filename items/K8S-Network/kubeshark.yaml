@@ -1,4 +1,4 @@
 kind: K8S-Network
 owner: kubeshark
 repo: kubeshark
-desc: 'K8S的API流量分析器，提供对K8S内部网络的实时协议级可见性，捕获和监控进出以及跨容器、pod、节点和集群的所有流量和负载'
+desc: 'K8s 的 API 流量分析器，提供对 K8s 内部网络的实时协议级可见性，捕获和监控进出以及跨容器、pod、节点和集群的所有流量和负载'

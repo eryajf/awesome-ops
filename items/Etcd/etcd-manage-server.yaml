@@ -1,4 +1,4 @@
 kind: Etcd
 owner: etcd-manage
 repo: etcd-manage-server
-desc: '用go编写的etcd管理工具，具有友好的界面，管理key就像管理本地文件一样方便，支持简单权限管理区分只读和读写权限'
+desc: '用 Golang 编写的 etcd 管理工具，具有友好的界面，管理key就像管理本地文件一样方便，支持简单权限管理区分只读和读写权限'

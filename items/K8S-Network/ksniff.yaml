@@ -1,4 +1,4 @@
 kind: K8S-Network
 owner: eldadru
 repo: ksniff
-desc: 'kubectl插件，利用tcpdump和Wireshark在K8S集群中的pod上启动远程捕获'
+desc: 'kubectl 插件，利用 tcpdump 和 Wireshark 在 K8s 集群中的 pod 上启动远程捕获'

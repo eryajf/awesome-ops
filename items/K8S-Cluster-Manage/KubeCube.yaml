@@ -1,4 +1,4 @@
 kind: K8S-Cluster-Manage
 owner: kubecube-io
 repo: KubeCube
-desc: 'K8S资源可视化管理以及统一的多集群多租户管理平台'
+desc: 'K8s 资源可视化管理以及统一的多集群多租户管理平台'

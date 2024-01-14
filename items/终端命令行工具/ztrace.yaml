@@ -1,4 +1,4 @@
 kind: 终端命令行工具
 owner: zartbot
 repo: ztrace
-desc: 'golang实现的一个Traceroute命令'
+desc: 'Golang 实现的一个 Traceroute 命令'

@@ -1,4 +1,4 @@
 kind: Docker-Tools
 owner: moby
 repo: buildkit
-desc: '增强docker build的功能，支持并行构建、缓存、镜像导出等功能'
+desc: '增强 Docker build 的功能，支持并行构建、缓存、镜像导出等功能'

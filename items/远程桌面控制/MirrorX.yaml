@@ -1,4 +1,4 @@
 kind: 运维管理平台
 owner: MirrorX-Desktop
 repo: MirrorX
-desc: '基于Rust构建的远程桌面控制软件'
+desc: '基于 Rust 构建的远程桌面控制软件'

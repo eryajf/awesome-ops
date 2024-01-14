@@ -1,4 +1,4 @@
 kind: 运维管理平台
 owner: team-ide
 repo: teamide
-desc: '集成MySql、Oracle、金仓、达梦、神通等数据库、SSH、FTP、Redis、Zookeeper、Kafka、Elasticsearch等管理工具'
+desc: '集成 MySQL、Oracle、金仓、达梦、神通等数据库、SSH、FTP、Redis、Zookeeper、Kafka、Elasticsearch 等管理工具'

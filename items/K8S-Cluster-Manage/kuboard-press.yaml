@@ -1,4 +1,4 @@
 kind: K8S-Cluster-Manage
 owner: eip-work
 repo: kuboard-press
-desc: 'K8S多集群管理平台，开源免费版本仅支持3个以内的集群'
+desc: 'K8s 多集群管理平台，开源免费版本仅支持3个以内的集群'

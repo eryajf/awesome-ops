@@ -1,4 +1,4 @@
 kind: Version-Switch-Tools
 owner: version-fox
 repo: vfox
-desc: '跨平台的用于管理SDK版本的工具，允许你通过命令行快速安装和切换不同版本的SDK'
+desc: '跨平台的用于管理 SDK 版本的工具，允许你通过命令行快速安装和切换不同版本的 SDK'

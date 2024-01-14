@@ -1,4 +1,4 @@
 kind: 代码搜索
 owner: huichen
 repo: kunlun
-desc: '基于go语言实现的git仓库代码搜索引擎，只支持检索本地代码仓库'
+desc: '基于 Golang 实现的 Git 仓库代码搜索引擎，只支持检索本地代码仓库'
