@@ -26,7 +26,7 @@
 
 📢 如果你打算应用在自己所在的生产环境，请结合项目的开源协议，Star数，最后更新时间等综合评估之后进行选型。
 
-🧐 分设类目 57 个。📥 收录项目 183 个。
+🧐 分设类目 58 个。📥 收录项目 187 个。
 
 ## Backup
 
@@ -180,7 +180,7 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [Studio3T/robomongo](https://github.com/Studio3T/robomongo) | GPL-3.0 | 9233 | 2012-11-07 | 2022-09-22 | 原生跨平台 MongoDB 管理工具 |
+| [Studio3T/robomongo](https://github.com/Studio3T/robomongo) | GPL-3.0 | 9232 | 2012-11-07 | 2022-09-22 | 原生跨平台 MongoDB 管理工具 |
 
 
 ## GUI-Redis
@@ -203,7 +203,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) | NOASSERTION | 6211 | 2020-06-11 | 2023-12-27 | Mac 平台下的 MySQL 客户端 |
 | [antares-sql/antares](https://github.com/antares-sql/antares) | MIT | 1372 | 2020-04-30 | 2024-01-13 | 支持 MySQL/MariaDB、PostgreSQL、SQLite 和 Firebird SQL,支持多平台 |
-| [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) | GPL-3.0 | 14338 | 2019-07-23 | 2024-01-13 | 适用于 MySQL、Postgres、SQLite、SQL Server 等的现代且易于使用的 SQL 客户端,支持多平台,颜值高 |
+| [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) | GPL-3.0 | 14339 | 2019-07-23 | 2024-01-13 | 适用于 MySQL、Postgres、SQLite、SQL Server 等的现代且易于使用的 SQL 客户端,支持多平台,颜值高 |
 
 
 ## Gateway
@@ -295,16 +295,17 @@
 
 ## Monitor
 
-📥 此类目收录项目 8 个。
+📥 此类目收录项目 9 个。
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | Apache-2.0 | 10152 | 2018-09-30 | 2024-01-14 | 快速，经济高效的监控解决方案和时序数据库，可用于 Prometheus 或 Grafana 的存储 |
+| [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | Apache-2.0 | 10153 | 2018-09-30 | 2024-01-14 | 快速，经济高效的监控解决方案和时序数据库，可用于 Prometheus 或 Grafana 的存储 |
 | [tal-tech/alarm-dog](https://github.com/tal-tech/alarm-dog) | N/A | 237 | 2020-10-28 | 2022-01-10 | 通用的统一告警平台，提供配置化、流程化、标准化的能力，支持多种告警通知渠道，支持告警收敛、过滤、升级、工作流、自动恢复等功能 |
+| [soxft/busuanzi](https://github.com/soxft/busuanzi) | Apache-2.0 | 120 | 2022-04-24 | 2024-01-07 | 一个简单的网站统计分析器 |
 | [AutohomeCorp/frostmourne](https://github.com/AutohomeCorp/frostmourne) | MIT | 1238 | 2019-12-16 | 2023-06-14 | 基于 Elasticsearch, Prometheus, SkyWalking, InfluxDB，MySQL/TiDB，ClickHouse, SQLServer, IoTDB 数据的分布式监控报警系统 |
 | [dromara/hertzbeat](https://github.com/dromara/hertzbeat) | Apache-2.0 | 3962 | 2022-02-04 | 2024-01-13 | 易用友好的开源实时监控告警系统，无需 Agent，高性能集群，兼容 Prometheus，强大自定义监控能力 |
 | [prymitive/karma](https://github.com/prymitive/karma) | Apache-2.0 | 2131 | 2018-09-09 | 2024-01-10 | 一款展示 AlertManager 告警信息的面板，可用于投屏 |
-| [ccfos/nightingale](https://github.com/ccfos/nightingale) | Apache-2.0 | 8257 | 2020-03-03 | 2024-01-12 | All-in-One 的云原生监控工具，集合了 Prometheus 和 Grafana 的优点，你可以在 WebUI 上管理和配置告警策略，也可以对分布在多个 Region 的指标、日志、链路追踪数据进行统一的可视化和分析 |
+| [ccfos/nightingale](https://github.com/ccfos/nightingale) | Apache-2.0 | 8258 | 2020-03-03 | 2024-01-12 | All-in-One 的云原生监控工具，集合了 Prometheus 和 Grafana 的优点，你可以在 WebUI 上管理和配置告警策略，也可以对分布在多个 Region 的指标、日志、链路追踪数据进行统一的可视化和分析 |
 | [mikecao/umami](https://github.com/mikecao/umami) | MIT | 18206 | 2020-07-17 | 2024-01-11 | 搭建配置简单，界面优雅美观的站点访问统计工具 |
 | [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) | Apache-2.0 | 4811 | 2018-07-04 | 2024-01-09 | 轻量级的前端性能监控系统，也是一款埋点系统，私有化部署，简单易用 |
 
@@ -418,7 +419,7 @@
 | [moovweb/gvm](https://github.com/moovweb/gvm) | MIT | 9213 | 2011-12-03 | 2023-11-11 | 一个简单的工具，用于多个 Golang 版本的管理与切换 |
 | [jenv/jenv](https://github.com/jenv/jenv) | MIT | 5307 | 2013-01-24 | 2023-11-07 | 一个简单的工具，用于多个 JDK 版本的管理与切换 |
 | [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) | MIT | 32684 | 2014-09-20 | 2024-01-14 | 用于 Windows 系统中多个 Node 版本的管理与切换 |
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | MIT | 72997 | 2010-04-15 | 2024-01-07 | 一个简单的工具，用于多个 Node 版本的管理与切换 |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | MIT | 72998 | 2010-04-15 | 2024-01-07 | 一个简单的工具，用于多个 Node 版本的管理与切换 |
 | [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) | Apache-2.0 | 5694 | 2012-08-27 | 2024-01-11 | 在任何基于 Unix 的系统上管理多个软件开发工具包的多个版本的工具 |
 | [stefanmaric/g](https://github.com/stefanmaric/g) | MIT | 849 | 2018-04-08 | 2023-07-10 | 又又一个用于多个 Golang 版本的管理与切换，包基于二进制安装 |
 | [version-fox/vfox](https://github.com/version-fox/vfox) | Apache-2.0 | 63 | 2023-12-09 | 2024-01-12 | 跨平台的用于管理 SDK 版本的工具，允许你通过命令行快速安装和切换不同版本的 SDK |
@@ -430,9 +431,9 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [facebook/docusaurus](https://github.com/facebook/docusaurus) | MIT | 50664 | 2017-06-20 | 2024-01-13 | 一个用于轻松构建、部署和维护开源项目网站的项目 |
+| [facebook/docusaurus](https://github.com/facebook/docusaurus) | MIT | 50663 | 2017-06-20 | 2024-01-13 | 一个用于轻松构建、部署和维护开源项目网站的项目 |
 | [halo-dev/halo](https://github.com/halo-dev/halo) | GPL-3.0 | 30231 | 2018-03-21 | 2024-01-14 | 强大易用的开源建站工具，更偏向于博客风格 |
-| [usememos/memos](https://github.com/usememos/memos) | MIT | 22137 | 2021-12-08 | 2024-01-14 | 一项隐私优先的轻量级笔记服务,轻松捕捉并分享您的精彩想法,[flomo](https://flomoapp.com/) 的开源替代品 |
+| [usememos/memos](https://github.com/usememos/memos) | MIT | 22138 | 2021-12-08 | 2024-01-14 | 一项隐私优先的轻量级笔记服务,轻松捕捉并分享您的精彩想法,[flomo](https://flomoapp.com/) 的开源替代品 |
 | [fantasticit/think](https://github.com/fantasticit/think) | MIT | 1751 | 2022-02-20 | 2023-09-07 | 一款开源知识管理工具，通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通 |
 | [mylxsw/wizard](https://github.com/mylxsw/wizard) | Apache-2.0 | 2112 | 2017-07-27 | 2023-03-22 | 一款开源的文档管理工具，支持 Markdown/Swagger/Table 类型的文档 |
 
@@ -529,30 +530,32 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | MIT | 58066 | 2019-08-21 | 2024-01-13 | 开源 API 开发生态系统，颜值非常高 |
-| [Postcatlab/postcat](https://github.com/Postcatlab/postcat) | Apache-2.0 | 4661 | 2021-11-24 | 2024-01-03 | 一个可扩展的 API 工具平台，支持多平台 |
+| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | MIT | 58067 | 2019-08-21 | 2024-01-13 | 开源 API 开发生态系统，颜值非常高 |
+| [Postcatlab/postcat](https://github.com/Postcatlab/postcat) | Apache-2.0 | 4662 | 2021-11-24 | 2024-01-03 | 一个可扩展的 API 工具平台，支持多平台 |
 | [YMFE/yapi](https://github.com/YMFE/yapi) | Apache-2.0 | 26809 | 2016-05-30 | 2023-10-25 | 高效、易用、功能强大的 API 管理平台，旨在为开发、产品、测试人员提供优雅的接口管理服务 |
 
 
 ## 数据管道
 
-📥 此类目收录项目 2 个。
+📥 此类目收录项目 3 个。
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
+| [go-mysql-org/go-mysql-elasticsearch](https://github.com/go-mysql-org/go-mysql-elasticsearch) | MIT | 4036 | 2015-01-15 | 2023-10-22 | 将 MySQL 数据自动同步到 ES 的工具。它首先用 mysqldump 获取原始数据，然后使用 binlog 增量同步数据 |
 | [alibaba/ilogtail](https://github.com/alibaba/ilogtail) | Apache-2.0 | 1433 | 2021-11-08 | 2024-01-13 | 轻量级、高性能、自动化配置的遥测数据(logs,traces,metrics)采集工具 |
 | [vectordotdev/vector](https://github.com/vectordotdev/vector) | MPL-2.0 | 15274 | 2018-08-27 | 2024-01-12 | 高性能、高可靠、可观察的数据管道,性能比 Logstash 强很多 |
 
 
 ## 文件管理系统
 
-📥 此类目收录项目 3 个。
+📥 此类目收录项目 4 个。
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [Cloudreve/Cloudreve](https://github.com/Cloudreve/Cloudreve) | GPL-3.0 | 20067 | 2018-02-04 | 2024-01-05 | 支持多家云存储驱动的公有云文件系统 |
 | [songquanpeng/go-file](https://github.com/songquanpeng/go-file) | MIT | 674 | 2020-04-08 | 2023-10-11 | 文件分享工具，仅单个可执行文件，开箱即用，可用于局域网内分享文件和文件夹，直接跑满本地带宽 |
 | [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) | MIT | 2013 | 2021-08-05 | 2024-01-10 | 基于 WebRTC 的媒体流传输工具 |
+| [helloxz/zdir](https://github.com/helloxz/zdir) | Apache-2.0 | 1338 | 2018-06-18 | 2023-05-05 | 使用 Golang &#43; Vue3 开发的轻量级目录列表程序，支持 Linux、Docker、Windows 部署，支持视频、音频、代码等常规文件预览，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用 |
 
 
 ## 文档
@@ -623,15 +626,15 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) | N/A | 18556 | 2019-10-09 | 2023-07-21 | 免费的终端工具，SSH、Telnet、TCP、Shell、串行，支持多平台 |
+| [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) | N/A | 18557 | 2019-10-09 | 2023-07-21 | 免费的终端工具，SSH、Telnet、TCP、Shell、串行，支持多平台 |
 | [withfig/autocomplete](https://github.com/withfig/autocomplete) | MIT | 23688 | 2020-09-29 | 2024-01-12 | 非常强大的终端命令参数自动补全工具 |
 | [aristocratos/btop](https://github.com/aristocratos/btop) | Apache-2.0 | 14656 | 2021-05-06 | 2024-01-14 | 系统资源监视器显示处理器、内存、磁盘、网络和进程的使用情况和统计​​信息 |
-| [cli/cli](https://github.com/cli/cli) | MIT | 34256 | 2019-10-03 | 2024-01-14 | GitHub的 官方命令行交互工具 |
+| [cli/cli](https://github.com/cli/cli) | MIT | 34257 | 2019-10-03 | 2024-01-14 | GitHub的 官方命令行交互工具 |
 | [muesli/duf](https://github.com/muesli/duf) | NOASSERTION | 11913 | 2020-09-20 | 2023-11-16 | 比 du 更好看的磁盘空间占用查看工具 |
 | [eryajf/eryajfctl](https://github.com/eryajf/eryajfctl) | MIT | 12 | 2023-06-04 | 2023-08-02 | 🚀 基于 Cobra 库快速打造类似 kubectl 一样的命令行工具箱 🧰 |
 | [orf/gping](https://github.com/orf/gping) | MIT | 9833 | 2015-10-17 | 2024-01-12 | 以图形化方式展示 ping 的延迟状态的命令行工具 |
 | [http-party/http-server](https://github.com/http-party/http-server) | MIT | 13104 | 2011-06-16 | 2023-11-23 | 一个简单的、零配置的命令行静态 HTTP 服务器 |
-| [davecheney/httpstat](https://github.com/davecheney/httpstat) | MIT | 6433 | 2016-09-23 | 2023-10-17 | 显示 HTTP 请求链路详情的工具，便于我们看到请求耗时在什么地方 |
+| [davecheney/httpstat](https://github.com/davecheney/httpstat) | MIT | 6434 | 2016-09-23 | 2023-10-17 | 显示 HTTP 请求链路详情的工具，便于我们看到请求耗时在什么地方 |
 | [johnkerl/miller](https://github.com/johnkerl/miller) | NOASSERTION | 8372 | 2015-05-03 | 2024-01-12 | 类似于 awk、sed、cut、join 和 sort，用于 CSV、TSV 和表格 JSON 等名称索引数据 |
 | [lenye/pmsg](https://github.com/lenye/pmsg) | Apache-2.0 | 29 | 2022-09-11 | 2023-12-03 | 发送消息的小工具：企业微信群机器人消息，钉钉自定义机器人消息，飞书自定义机器人消息，Slack bot，微信消息，微信客服消息，企业微信消息，企业微信客服消息 |
 | [Eugeny/tabby](https://github.com/Eugeny/tabby) | MIT | 53209 | 2016-12-23 | 2024-01-13 | 一款开源的跨平台支持的终端程序，能够方便地管理主机连接 |
@@ -665,3 +668,12 @@
 | [openspug/spug](https://github.com/openspug/spug) | AGPL-3.0 | 9493 | 2018-01-31 | 2024-01-10 | 轻量级无 Agent 的自动化运维平台 |
 | [team-ide/teamide](https://github.com/team-ide/teamide) | Apache-2.0 | 505 | 2021-11-30 | 2024-01-14 | 集成 MySQL、Oracle、金仓、达梦、神通等数据库、SSH、FTP、Redis、Zookeeper、Kafka、Elasticsearch 等管理工具 |
 | [MirrorX-Desktop/MirrorX](https://github.com/MirrorX-Desktop/MirrorX) | GPL-3.0 | 757 | 2022-03-09 | 2023-05-16 | 基于 Rust 构建的远程桌面控制软件 |
+
+
+## 运维自动化
+
+📥 此类目收录项目 1 个。
+
+| Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| [ansible/ansible](https://github.com/ansible/ansible) | GPL-3.0 | 59875 | 2012-03-06 | 2024-01-13 | 一个极其简单的 IT 自动化平台，使您的应用程序和系统更易于部署和维护，基于 ssh，无需客户端 |
