@@ -19,6 +19,6 @@ jobs:
           username: eryajf
           org: eryajf
           repo: awesome-ops
-          # sortby: '!zh'
+          sortby: '!zh'
           groupby: kind
           header: false
