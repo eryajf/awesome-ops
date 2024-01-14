@@ -1,4 +1,4 @@
 kind: 应用进程管理
 owner: ntt360
 repo: pmon2
-desc: 'go进程管理工具，类似node进程管理的pm2'
+desc: 'Golang 进程管理工具，类似 Node 进程管理的 PM2'

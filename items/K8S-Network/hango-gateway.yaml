@@ -1,4 +1,4 @@
 kind: K8S-Network
 owner: hango-io
 repo: hango-gateway
-desc: '基于 Envoy 构建的高性能、可扩展、功能丰富的云原生API网关'
+desc: '基于 Envoy 构建的高性能、可扩展、功能丰富的云原生 API 网关'

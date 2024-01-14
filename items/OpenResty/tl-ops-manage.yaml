@@ -1,4 +1,4 @@
 kind: OpenResty
 owner: tl-open-sourc
 repo: tl-ops-manage
-desc: '基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，动态插拔插件，数据统计，数据展示，集群部署'
+desc: '基于 OpenResty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，WAF 过滤，黑白名单，动态 SSL 证书，自定义插件，多级缓存，可视化管理，动态配置，动态插拔插件，数据统计，数据展示，集群部署'

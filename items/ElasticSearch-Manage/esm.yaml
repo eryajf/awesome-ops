@@ -1,4 +1,4 @@
 kind: ElasticSearch-Manage
 owner: medcl
 repo: esm
-desc: 'ES索引迁移工具，支持跨版本迁移'
+desc: 'ES 索引迁移工具，支持跨版本迁移'

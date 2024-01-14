@@ -1,4 +1,4 @@
 kind: K8S-Tools
 owner: astefanutti
 repo: kubebox
-desc: 'k8s终端版管理工具'
+desc: 'K8s 终端版管理工具'

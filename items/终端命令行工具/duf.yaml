@@ -1,4 +1,4 @@
 kind: 终端命令行工具
 owner: muesli
 repo: duf
-desc: '比du更好看的磁盘空间占用查看工具'
+desc: '比 du 更好看的磁盘空间占用查看工具'

@@ -1,4 +1,4 @@
 kind: Docker-Tools
 owner: P3GLEG
 repo: Whaler
-desc: '能够查看在运行容器的Dockerfile的工具'
+desc: '能够查看在运行容器的 Dockerfile 的工具'

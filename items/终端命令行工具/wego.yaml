@@ -1,4 +1,4 @@
 kind: 终端命令行工具
 owner: schachmat
 repo: wego
-desc: 'Go版本的终端天气工具'
+desc: 'Golang 版本的终端天气工具'

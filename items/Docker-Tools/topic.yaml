@@ -1,4 +1,4 @@
 kind: Docker-Tools
 owner: silenceshell
 repo: topic
-desc: '基于Go语言实现的容器内运行top命令的工具'
+desc: '基于 Golang 实现的容器内运行 top 命令的工具'

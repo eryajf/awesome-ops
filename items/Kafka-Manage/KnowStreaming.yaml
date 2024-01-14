@@ -1,4 +1,4 @@
 kind: Kafka-Manage
 owner: didi
 repo: KnowStreaming
-desc: '一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛'
+desc: '一站式云原生实时流数据平台，通过0侵入、插件化构建企业级 Kafka 服务，极大降低操作、存储和管理实时流数据门槛'

@@ -1,4 +1,4 @@
 kind: iptables
 owner: pretty66
 repo: iptables-web
-desc: '一个轻量级的iptables web管理界面程序，支持二进制文件直接运行及docker快速部署安装'
+desc: '一个轻量级的 iptables Web 管理界面程序，支持二进制文件直接运行及 Docker 快速部署安装'

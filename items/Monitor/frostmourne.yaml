@@ -1,4 +1,4 @@
 kind: Monitor
 owner: AutohomeCorp
 repo: frostmourne
-desc: '基于Elasticsearch, Prometheus, SkyWalking, InfluxDB，Mysql/TiDB，ClickHouse, SqlServer, IoTDB数据的分布式监控报警系统'
+desc: '基于 Elasticsearch, Prometheus, SkyWalking, InfluxDB，MySQL/TiDB，ClickHouse, SQLServer, IoTDB 数据的分布式监控报警系统'

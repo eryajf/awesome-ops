@@ -1,4 +1,4 @@
 kind: K8S-Cluster-Manage
 owner: kubegems
 repo: kubegems
-desc: '围绕K8S通过自研和集成云原生项目而构建的通用性开源PaaS云管理平台,支持多集群多租户'
+desc: '围绕 K8s 通过自研和集成云原生项目而构建的通用性开源 PaaS 云管理平台,支持多集群多租户'

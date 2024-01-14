@@ -1,4 +1,4 @@
 kind: Docker-Tools
 owner: ufoscout
 repo: docker-compose-wait
-desc: '一个小型命令行工具，用于在使用docker-compose(or k8s)时等待其他docker容器启动的场景'
+desc: '一个小型命令行工具，用于在使用 Docker-compose(or K8s)时等待其他 Docker 容器启动的场景'

@@ -1,4 +1,4 @@
 kind: ElasticSearch-Manage
 owner: medcl
 repo: infini-gateway
-desc: '一款架设在es前端的极限网关，提高写入，加速查询'
+desc: '一款架设在 ES 前端的极限网关，提高写入，加速查询'

@@ -1,4 +1,4 @@
 kind: 客户端-SQL
 owner: antares-sql
 repo: antares
-desc: '支持MySQL/MariaDB、PostgreSQL、SQLite和Firebird SQL,支持多平台'
+desc: '支持 MySQL/MariaDB、PostgreSQL、SQLite 和 Firebird SQL,支持多平台'
