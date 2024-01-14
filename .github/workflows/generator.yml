@@ -13,7 +13,7 @@ jobs:
       - name: Update readme
         uses: eryajf/yaml-readme@master
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_SECRETS }}
         with:
           pattern: 'items/*/*.yaml'
           username: eryajf
