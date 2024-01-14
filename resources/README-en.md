@@ -1,4 +1,4 @@
-English | [简体中文](README.md)
+English | [简体中文](../README.md)
 
 <div align="center">
 <h1>Awesome Ops</h1>
@@ -20,13 +20,13 @@ The field of operations and maintenance is vast, with many pioneers in each spec
 
 Whether you are in the field of operations and maintenance or any other technical field, this carefully curated and categorized collection of projects will be your treasure trove.
 
-We warmly welcome friends to share their own projects or recommend excellent projects. Before contributing, please read the [PR Contribution Guidelines](resources/CONTRIBUTING-en.md).
+We warmly welcome friends to share their own projects or recommend excellent projects. Before contributing, please read the [PR Contribution Guidelines](CONTRIBUTING-en.md).
 
 Special welcome to all friends to surf, learn, reference in the project list. When someone's project is helpful to you, please remember to give the project a star ⭐️. By the way, give this project a star ⭐️.
 
 📢 If you plan to apply it in your production environment, please evaluate the selection based on the project's open source license, star count, last update time and other factors.
 
-🧐 Divided into 57 categories. 📥 Includes 183 entries.
+🧐 Divided into 58 categories. 📥 Includes 187 entries.
 
 ## Backup
 
@@ -180,7 +180,7 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [Studio3T/robomongo](https://github.com/Studio3T/robomongo) | GPL-3.0 | 9233 | 2012-11-07 | 2022-09-22 | Native cross-platform MongoDB management tool |
+| [Studio3T/robomongo](https://github.com/Studio3T/robomongo) | GPL-3.0 | 9232 | 2012-11-07 | 2022-09-22 | Native cross-platform MongoDB management tool |
 
 
 ## GUI-Redis
@@ -203,7 +203,7 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) | NOASSERTION | 6211 | 2020-06-11 | 2023-12-27 | MySQL/MariaDB database management for macOS |
 | [antares-sql/antares](https://github.com/antares-sql/antares) | MIT | 1372 | 2020-04-30 | 2024-01-13 | Support MySQL/MariaDB, PostgreSQL, SQLite and Firebird SQL, support multi-platform |
-| [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) | GPL-3.0 | 14338 | 2019-07-23 | 2024-01-13 | Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Written with Electron &amp; Vue.js |
+| [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) | GPL-3.0 | 14339 | 2019-07-23 | 2024-01-13 | Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Written with Electron &amp; Vue.js |
 
 
 ## Gateway
@@ -295,16 +295,17 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 
 ## Monitor
 
-📥 This category contains 8 items.
+📥 This category contains 9 items.
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | Apache-2.0 | 10152 | 2018-09-30 | 2024-01-14 | Fast, economical and efficient monitoring solution and time series database, which can be used for storage of Prometheus or Grafana |
+| [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | Apache-2.0 | 10153 | 2018-09-30 | 2024-01-14 | Fast, economical and efficient monitoring solution and time series database, which can be used for storage of Prometheus or Grafana |
 | [tal-tech/alarm-dog](https://github.com/tal-tech/alarm-dog) | N/A | 237 | 2020-10-28 | 2022-01-10 | A universal unified alarm platform that provides configurable, process-oriented, and standardized capabilities, supports multiple alarm notification channels, supports alarm convergence, filtering, upgrade, workflow, automatic recovery and other functions |
+| [soxft/busuanzi](https://github.com/soxft/busuanzi) | Apache-2.0 | 120 | 2022-04-24 | 2024-01-07 | A simple website statistics analyzer |
 | [AutohomeCorp/frostmourne](https://github.com/AutohomeCorp/frostmourne) | MIT | 1238 | 2019-12-16 | 2023-06-14 | Distributed monitoring and alarm system based on Elasticsearch, Prometheus, SkyWalking, InfluxDB, MySQL/TiDB, ClickHouse, SQLServer, IoTDB data |
 | [dromara/hertzbeat](https://github.com/dromara/hertzbeat) | Apache-2.0 | 3962 | 2022-02-04 | 2024-01-13 | Easy-to-use and friendly open source real-time monitoring and alarm system, no need for Agent, high-performance cluster, compatible with Prometheus, powerful custom monitoring capabilities |
 | [prymitive/karma](https://github.com/prymitive/karma) | Apache-2.0 | 2131 | 2018-09-09 | 2024-01-10 | A panel that displays AlertManager alarm information, which can be used for screen projection |
-| [ccfos/nightingale](https://github.com/ccfos/nightingale) | Apache-2.0 | 8257 | 2020-03-03 | 2024-01-12 | All-in-One cloud native monitoring tool, which combines the advantages of Prometheus and Grafana. You can manage and configure alarm strategies on the WebUI, and you can also visualize and analyze metrics, logs, and link tracking data distributed in multiple regions |
+| [ccfos/nightingale](https://github.com/ccfos/nightingale) | Apache-2.0 | 8258 | 2020-03-03 | 2024-01-12 | All-in-One cloud native monitoring tool, which combines the advantages of Prometheus and Grafana. You can manage and configure alarm strategies on the WebUI, and you can also visualize and analyze metrics, logs, and link tracking data distributed in multiple regions |
 | [mikecao/umami](https://github.com/mikecao/umami) | MIT | 18206 | 2020-07-17 | 2024-01-11 | Easy to build and configure, elegant and beautiful site access statistics tool |
 | [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) | Apache-2.0 | 4811 | 2018-07-04 | 2024-01-09 | Lightweight front-end performance monitoring system, also a buried point system, private deployment, easy to use |
 
@@ -418,7 +419,7 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 | [moovweb/gvm](https://github.com/moovweb/gvm) | MIT | 9213 | 2011-12-03 | 2023-11-11 | A simple tool for managing and switching multiple Golang versions |
 | [jenv/jenv](https://github.com/jenv/jenv) | MIT | 5307 | 2013-01-24 | 2023-11-07 | A simple tool for managing and switching multiple JDK versions |
 | [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) | MIT | 32684 | 2014-09-20 | 2024-01-14 | For managing and switching multiple Node versions in Windows system |
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | MIT | 72997 | 2010-04-15 | 2024-01-07 | A simple tool for managing and switching multiple Node versions |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | MIT | 72998 | 2010-04-15 | 2024-01-07 | A simple tool for managing and switching multiple Node versions |
 | [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) | Apache-2.0 | 5694 | 2012-08-27 | 2024-01-11 | A tool for managing multiple software development kits of multiple versions on any Unix based system |
 | [stefanmaric/g](https://github.com/stefanmaric/g) | MIT | 849 | 2018-04-08 | 2023-07-10 | Another tool for managing and switching multiple Golang versions, package based on binary installation |
 | [version-fox/vfox](https://github.com/version-fox/vfox) | Apache-2.0 | 63 | 2023-12-09 | 2024-01-12 | A cross-platform tool for managing SDK versions, allowing you to quickly install and switch different versions of SDK through the command line |
@@ -430,9 +431,9 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [facebook/docusaurus](https://github.com/facebook/docusaurus) | MIT | 50664 | 2017-06-20 | 2024-01-13 | A project for easily building, deploying, and maintaining open source project websites |
+| [facebook/docusaurus](https://github.com/facebook/docusaurus) | MIT | 50663 | 2017-06-20 | 2024-01-13 | A project for easily building, deploying, and maintaining open source project websites |
 | [halo-dev/halo](https://github.com/halo-dev/halo) | GPL-3.0 | 30231 | 2018-03-21 | 2024-01-14 | Powerful and easy-to-use open source website building tools, more biased towards blog style |
-| [usememos/memos](https://github.com/usememos/memos) | MIT | 22137 | 2021-12-08 | 2024-01-14 | A privacy-first, lightweight note service, easily capture and share your wonderful ideas, [flomo](https://flomoapp.com/) open source alternative |
+| [usememos/memos](https://github.com/usememos/memos) | MIT | 22138 | 2021-12-08 | 2024-01-14 | A privacy-first, lightweight note service, easily capture and share your wonderful ideas, [flomo](https://flomoapp.com/) open source alternative |
 | [fantasticit/think](https://github.com/fantasticit/think) | MIT | 1751 | 2022-02-20 | 2023-09-07 | An open source knowledge management tool, through an independent knowledge base space, structurally organize online collaborative documents, realize the accumulation and precipitation of knowledge, and promote the reuse and circulation of knowledge |
 | [mylxsw/wizard](https://github.com/mylxsw/wizard) | Apache-2.0 | 2112 | 2017-07-27 | 2023-03-22 | An open source document management tool that supports Markdown/Swagger/Table types of documents |
 
@@ -529,30 +530,32 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | MIT | 58066 | 2019-08-21 | 2024-01-13 | Open source API development ecosystem, very high face value |
-| [Postcatlab/postcat](https://github.com/Postcatlab/postcat) | Apache-2.0 | 4661 | 2021-11-24 | 2024-01-03 | An extensible API tool platform, support multi-platform |
+| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | MIT | 58067 | 2019-08-21 | 2024-01-13 | Open source API development ecosystem, very high face value |
+| [Postcatlab/postcat](https://github.com/Postcatlab/postcat) | Apache-2.0 | 4662 | 2021-11-24 | 2024-01-03 | An extensible API tool platform, support multi-platform |
 | [YMFE/yapi](https://github.com/YMFE/yapi) | Apache-2.0 | 26809 | 2016-05-30 | 2023-10-25 | Efficient, easy to use, powerful API management platform, designed to provide elegant interface management services for developers, products, and testers |
 
 
 ## 数据管道
 
-📥 This category contains 2 items.
+📥 This category contains 3 items.
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
+| [go-mysql-org/go-mysql-elasticsearch](https://github.com/go-mysql-org/go-mysql-elasticsearch) | MIT | 4036 | 2015-01-15 | 2023-10-22 | A tool that automatically synchronizes MySQL data to ES. It first uses mysqldump to get the original data, and then uses binlog to incrementally synchronize the data |
 | [alibaba/ilogtail](https://github.com/alibaba/ilogtail) | Apache-2.0 | 1433 | 2021-11-08 | 2024-01-13 | Lightweight, high-performance, automatically configured telemetry data (logs, traces, metrics) collection tool |
 | [vectordotdev/vector](https://github.com/vectordotdev/vector) | MPL-2.0 | 15274 | 2018-08-27 | 2024-01-12 | A high-performance, high-reliability, observable data pipeline, much more powerful than Logstash |
 
 
 ## 文件管理系统
 
-📥 This category contains 3 items.
+📥 This category contains 4 items.
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [Cloudreve/Cloudreve](https://github.com/Cloudreve/Cloudreve) | GPL-3.0 | 20067 | 2018-02-04 | 2024-01-05 | Public cloud file system that supports multiple cloud storage drivers |
+| [Cloudreve/Cloudreve](https://github.com/Cloudreve/Cloudreve) | GPL-3.0 | 20068 | 2018-02-04 | 2024-01-05 | Public cloud file system that supports multiple cloud storage drivers |
 | [songquanpeng/go-file](https://github.com/songquanpeng/go-file) | MIT | 674 | 2020-04-08 | 2023-10-11 | File sharing tool, only a single executable file, ready to use, can be used to share files and folders in the LAN, directly run full local bandwidth |
 | [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) | MIT | 2013 | 2021-08-05 | 2024-01-10 | Media stream transmission tool based on WebRTC |
+| [helloxz/zdir](https://github.com/helloxz/zdir) | Apache-2.0 | 1338 | 2018-06-18 | 2023-05-05 | Lightweight directory list program developed using Golang &#43; Vue3, support Linux, Docker, Windows deployment, support video, audio, code and other conventional file preview, suitable for personal or start-up company file sharing use, can also be used as a lightweight network disk |
 
 
 ## 文档
@@ -623,15 +626,15 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) | N/A | 18556 | 2019-10-09 | 2023-07-21 | Free terminal tool, SSH, Telnet, TCP, Shell, serial, support multi-platform |
+| [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) | N/A | 18557 | 2019-10-09 | 2023-07-21 | Free terminal tool, SSH, Telnet, TCP, Shell, serial, support multi-platform |
 | [withfig/autocomplete](https://github.com/withfig/autocomplete) | MIT | 23688 | 2020-09-29 | 2024-01-12 | A very powerful terminal command parameter auto-completion tool |
 | [aristocratos/btop](https://github.com/aristocratos/btop) | Apache-2.0 | 14656 | 2021-05-06 | 2024-01-14 | A monitor of resources displaying usage and stats for processor, memory, disks, network and processes |
-| [cli/cli](https://github.com/cli/cli) | MIT | 34256 | 2019-10-03 | 2024-01-14 | GitHub&#39;s official command line interaction tool |
+| [cli/cli](https://github.com/cli/cli) | MIT | 34257 | 2019-10-03 | 2024-01-14 | GitHub&#39;s official command line interaction tool |
 | [muesli/duf](https://github.com/muesli/duf) | NOASSERTION | 11913 | 2020-09-20 | 2023-11-16 | A better df alternative |
 | [eryajf/eryajfctl](https://github.com/eryajf/eryajfctl) | MIT | 12 | 2023-06-04 | 2023-08-02 | 🚀 Quickly build a command line toolbox like kubectl based on the Cobra library 🧰 |
 | [orf/gping](https://github.com/orf/gping) | MIT | 9833 | 2015-10-17 | 2024-01-12 | Command line tool that pings and graphs |
 | [http-party/http-server](https://github.com/http-party/http-server) | MIT | 13104 | 2011-06-16 | 2023-11-23 | A simple, zero-config command-line static HTTP server |
-| [davecheney/httpstat](https://github.com/davecheney/httpstat) | MIT | 6433 | 2016-09-23 | 2023-10-17 | A tool that displays the details of the HTTP request chain, so that we can see where the request time is spent |
+| [davecheney/httpstat](https://github.com/davecheney/httpstat) | MIT | 6434 | 2016-09-23 | 2023-10-17 | A tool that displays the details of the HTTP request chain, so that we can see where the request time is spent |
 | [johnkerl/miller](https://github.com/johnkerl/miller) | NOASSERTION | 8372 | 2015-05-03 | 2024-01-12 | Similar to awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON |
 | [lenye/pmsg](https://github.com/lenye/pmsg) | Apache-2.0 | 29 | 2022-09-11 | 2023-12-03 | A small tool for sending messages: WeChat Work group robot message, DingTalk custom robot message, Feishu custom robot message, Slack bot, WeChat message, WeChat customer service message, WeChat Work message, WeChat Work customer service message |
 | [Eugeny/tabby](https://github.com/Eugeny/tabby) | MIT | 53209 | 2016-12-23 | 2024-01-13 | An open source cross-platform supported terminal program that can easily manage host connections |
@@ -665,3 +668,12 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 | [openspug/spug](https://github.com/openspug/spug) | AGPL-3.0 | 9493 | 2018-01-31 | 2024-01-10 | Lightweight agentless automation operation and maintenance platform |
 | [team-ide/teamide](https://github.com/team-ide/teamide) | Apache-2.0 | 505 | 2021-11-30 | 2024-01-14 | Integrated MySQL, Oracle, Golden Warehouse, Daming, Shentong and other databases, SSH, FTP, Redis, Zookeeper, Kafka, Elasticsearch and other management tools |
 | [MirrorX-Desktop/MirrorX](https://github.com/MirrorX-Desktop/MirrorX) | GPL-3.0 | 757 | 2022-03-09 | 2023-05-16 | Remote desktop control software based on Rust |
+
+
+## 运维自动化
+
+📥 This category contains 1 items.
+
+| Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| [ansible/ansible](https://github.com/ansible/ansible) | GPL-3.0 | 59875 | 2012-03-06 | 2024-01-13 | A very simple IT automation platform that makes your applications and systems easier to deploy and maintain, based on ssh, no client required |
