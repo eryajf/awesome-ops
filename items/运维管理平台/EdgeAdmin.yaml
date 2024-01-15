@@ -1,0 +1,5 @@
+kind: 运维管理平台
+owner: TeaOSLab
+repo: EdgeAdmin
+desc: 'CDN & WAF集群管理系统'
+desc_en: 'CDN & WAF cluster management system'

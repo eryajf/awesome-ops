@@ -1,0 +1,5 @@
+kind: Search-Engine
+owner: zincsearch
+repo: zincsearch
+desc: '一个进行全文索引的搜索引擎。它是 Elasticsearch 的轻量级替代品，运行时只使用一小部分资源。它使用蓝色作为底层索引库'
+desc_en: 'A search engine for full-text indexing. It is a lightweight alternative to Elasticsearch and uses only a small fraction of resources at runtime. It uses blue as the underlying index library'
