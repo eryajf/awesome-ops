@@ -32,7 +32,9 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 
 ## {{$key}}
 
+<p align="right">
 📥 This category contains {{len .}} items.
+</p>
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|

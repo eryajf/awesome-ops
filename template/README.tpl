@@ -32,7 +32,9 @@
 
 ## {{$key}}
 
+<p align="right">
 📥 此类目收录项目 {{len .}} 个。
+</p>
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
