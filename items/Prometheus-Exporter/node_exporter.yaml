@@ -1,0 +1,5 @@
+kind: Prometheus-Exporter
+owner: prometheus
+repo: node_exporter
+desc: '用于机器指标的 Exporter'
+desc_en: 'Exporter for machine metrics'

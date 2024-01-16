@@ -1,0 +1,5 @@
+kind: 运维管理平台
+owner: ansible-semaphore
+repo: semaphore
+desc: 'Ansible 的现代化用户界面'
+desc_en: 'Modern UI for Ansible'

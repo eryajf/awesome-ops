@@ -1,0 +1,5 @@
+kind: Prometheus-Exporter
+owner: nginxinc
+repo: nginx-prometheus-exporter
+desc: '用于 NGINX 和 NGINX Plus 的 NGINX Prometheus Exporter'
+desc_en: 'NGINX Prometheus Exporter for NGINX and NGINX Plus'

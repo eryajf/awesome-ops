@@ -1,0 +1,5 @@
+kind: K8S-Cluster-Manage
+owner: derailed
+repo: k9s
+desc: 'Kubernetes CLI，以风格化的方式管理您的集群！'
+desc_en: 'Kubernetes CLI To Manage Your Clusters In Style!'

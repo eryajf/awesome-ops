@@ -1,0 +1,5 @@
+kind: Docker-Tools
+owner: portainer
+repo: portainer
+desc: '让 Docker 和 Kubernetes 的管理变得简单。'
+desc_en: 'Making Docker and Kubernetes management easy.'
