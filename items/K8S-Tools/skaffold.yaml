@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: GoogleContainerTools
+repo: skaffold
+desc: '简单且可重复的 Kubernetes 开发工具'
+desc_en: 'Easy and Repeatable Kubernetes Development'
