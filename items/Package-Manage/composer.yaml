@@ -1,0 +1,5 @@
+kind: Package-Manage
+owner: composer
+repo: composer
+desc: 'PHP 语言栈的私服程序'
+desc_en: 'Private server program for PHP language stack'

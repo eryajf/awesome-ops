@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: RubyMetric
+repo: chsrc
+desc: '一款用 C 语言编写的各语言换源的工具'
+desc_en: 'A tool for changing sources of various languages written in C'

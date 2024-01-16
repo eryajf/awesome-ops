@@ -1,0 +1,5 @@
+kind: CICD
+owner: tryzealot
+repo: zealot
+desc: '开源自部署持续集成一切跟应用有关事情，接入任意 CI 系统一切自动化处理，企业多年实战经验，独立部署提供企业打包分发流程、上传应用全套流程方案'
+desc_en: 'Open source self-deployed continuous integration everything related to applications, access to any CI system all automated processing, enterprise years of practical experience, independent deployment to provide enterprises with a full set of process solutions for packaging and distribution of applications, uploading applications'

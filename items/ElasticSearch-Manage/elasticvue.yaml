@@ -1,0 +1,5 @@
+kind: ElasticSearch-Manage
+owner: cars10
+repo: elasticvue
+desc: '一个用于 elasticsearch 的免费开源 GUI，您可以使用它来管理集群中的数据。它完全支持 elasticsearch 版本 `8.x` 和 `7.x`. `6.8`。生态支持很丰富，支持桌面，浏览器插件，以及通过 docker 拉起等方式'
+desc_en: 'A free and open-source Elasticsearch GUI that supports the latest version of Elasticsearch 8.x and 7.x. 6.8. It supports desktop, browser plugins and docker'

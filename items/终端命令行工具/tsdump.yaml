@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: voidint
+repo: tsdump
+desc: '支持将数据库(当前仅支持MySQL)及其表结构的元数据以text、markdown、json、csv、xlsx形式输出'
+desc_en: 'Supports output of metadata of database (currently only MySQL) and its table structure in text, markdown, json, csv, xlsx format'

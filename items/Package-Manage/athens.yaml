@@ -1,0 +1,5 @@
+kind: Package-Manage
+owner: gomods
+repo: athens
+desc: 'go 语言的私服仓库程序。没有 web 管理界面，但是认证内部 gitlab 很好用'
+desc_en: 'Private service warehouse program for go language. There is no web management interface, but the authentication internal gitlab is very easy to use'

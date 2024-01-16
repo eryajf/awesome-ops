@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: antonmedv
+repo: fx
+desc: 'go 语言编写的终端下的 json 浏览工具，比 jq 更强大'
+desc_en: 'Terminal JSON viewer & processor'

@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: danielfoehrKn
+repo: kubeswitch
+desc: '一款 k8s 多集群配置文件管理切换工具'
+desc_en: 'A k8s multi-cluster configuration file management switching tool'

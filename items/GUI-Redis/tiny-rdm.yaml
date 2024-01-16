@@ -1,0 +1,5 @@
+kind: GUI-Redis
+owner: tiny-craft
+repo: tiny-rdm
+desc: '一款现代轻量级跨平台 Redis 桌面管理器，适用于 Mac、Windows 和 Linux。颜值高，功能丰富。'
+desc_en: 'A modern lightweight cross-platform Redis desktop manager, suitable for Mac, Windows and Linux. High face value, rich in functions.'

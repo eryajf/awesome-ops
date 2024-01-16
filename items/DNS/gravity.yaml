@@ -1,0 +1,5 @@
+kind: DNS
+owner: BeryJu
+repo: gravity
+desc: '基于 Golang 开发，实现了完整的 DNS 和 DHCP 的管理控制台'
+desc_en: 'Developed based on Golang, it realizes a complete DNS and DHCP management console'

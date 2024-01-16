@@ -1,0 +1,5 @@
+kind: Package-Manage
+owner: cnpm
+repo: cnpmcore
+desc: '前端 npm 包管理器'
+desc_en: 'Front end npm package manager'

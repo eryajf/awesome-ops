@@ -1,0 +1,5 @@
+kind: 接口管理
+owner: Kong
+repo: insomnia
+desc: '一个开源、跨平台 API 客户端，适用于 GraphQL、REST、WebSockets、服务器发送事件 (SSE)、gRPC 和任何其他 HTTP 兼容协议'
+desc_en: 'An open source cross-platform API client, suitable for GraphQL, REST, WebSockets, Server-Sent Events (SSE), gRPC and any other HTTP compatible protocol'

@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: typicode
+repo: json-server
+desc: '一款能够直接将 json 内容转成 REST API 接口的工具，你可以在日常开发中，通过该工具快速进行调试'
+desc_en: 'Get a full fake REST API with zero coding in less than 30 seconds (seriously)'

@@ -1,0 +1,5 @@
+kind: Crontab
+owner: ouqiang
+repo: gocron
+desc: '使用 Go 语言开发的轻量级定时任务集中调度和管理系统, 用于替代 Linux-crontab'
+desc_en: 'A Golang light weight job scheduling system'

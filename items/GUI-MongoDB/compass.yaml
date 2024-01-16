@@ -1,0 +1,5 @@
+kind: GUI-MongoDB
+owner: mongodb-js
+repo: compass
+desc: 'MongoDB 官方开源的一款客户端工具'
+desc_en: 'An official client tool for MongoDB'

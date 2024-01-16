@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: postfinance
+repo: kubenurse
+desc: '监控 K8S 集群中的所有网络连接、测量请求持续时间、记录错误。以 Prometheus 格式导出这些指标'
+desc_en: 'kubenurse is a little service that monitors all network connections in a Kubernetes cluster. Kubenurse measures request durations, records errors and exports those metrics in Prometheus format.'

@@ -1,0 +1,5 @@
+kind: 运维管理平台
+owner: mouday
+repo: domain-admin
+desc: '基于Python + Vue3.js 技术栈实现的域名和SSL证书监测平台'
+desc_en: 'Domain and SSL certificate monitoring platform based on Python + Vue3.js technology stack'

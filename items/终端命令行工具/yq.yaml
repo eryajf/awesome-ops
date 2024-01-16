@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: mikefarah
+repo: yq
+desc: '款基于 go 语言编写类似 jq 的处理 yaml 文件的工具'
+desc_en: 'A lightweight and portable command-line YAML processor'

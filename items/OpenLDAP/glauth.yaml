@@ -1,0 +1,5 @@
+kind: OpenLDAP
+owner: glauth
+repo: glauth
+desc: '基于 golang 实现的类 ldap 功能的系统，支持本地，S3，原有 ldap，以及 MySQL 等存储方式。使用习惯上与 ldap 略有差异'
+desc_en: 'A system based on golang to realize the functions of ldap, which supports local, S3, original ldap, MySQL and other storage methods. There are slight differences in usage habits from ldap'

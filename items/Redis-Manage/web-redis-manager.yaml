@@ -1,0 +1,5 @@
+kind: Redis-Manage
+owner: xiusin
+repo: web-redis-manager
+desc: '一种可在 Web 或桌面上运行的现代 Redis 管理工具。Web Redis Manager 是一款基于 Web 的 Redis 数据库综合管理客户端。它提供了强大的功能和工具来简化管理和维护 Redis 实例的过程。'
+desc_en: 'A modern Redis management tool that works on the web or desktop. Web Redis Manager is a comprehensive web-based management client for Redis databases. It provides robust features and tools to simplify the process of managing and maintaining your Redis instances.'

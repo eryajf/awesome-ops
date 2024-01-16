@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: homeport
+repo: termshot
+desc: '根据终端命令输出创建屏幕截图'
+desc_en: 'Creates screenshots based on terminal command output'

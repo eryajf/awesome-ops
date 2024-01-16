@@ -1,0 +1,5 @@
+kind: 安全扫描
+owner: trufflesecurity
+repo: trufflehog
+desc: '一款用于扫描代码中是否包含密码，秘钥等敏感信息的工具，可以集成到你的流水线当中'
+desc_en: 'A tool for scanning whether the code contains sensitive information such as passwords and keys, which can be integrated into your pipeline'

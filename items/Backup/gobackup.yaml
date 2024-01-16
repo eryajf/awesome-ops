@@ -1,0 +1,5 @@
+kind: Backup
+owner: gobackup
+repo: gobackup
+desc: '一款专为应用服务器设计的备份工具，用于定期将您的数据库、文件备份到云存储'
+desc_en: 'A backup tool designed for application servers to regularly back up your databases and files to cloud storage'

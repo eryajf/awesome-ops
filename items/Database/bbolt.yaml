@@ -1,0 +1,5 @@
+kind: Database
+owner: etcd-io
+repo: bbolt
+desc: 'Go 语言开发的嵌入式键/值数据库'
+desc_en: 'Embedded key/value database for Go'

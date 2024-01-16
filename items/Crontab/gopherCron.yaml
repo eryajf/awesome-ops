@@ -1,0 +1,5 @@
+kind: Crontab
+owner: holdno
+repo: gopherCron
+desc: '基于 Go 语言开发的开箱即用的秒级分布式定时任务系统'
+desc_en: 'A distributed cron system written in Go'

@@ -1,0 +1,5 @@
+kind: K8S-Cluster-Manage
+owner: kubesphere
+repo: kubesphere
+desc: '适用于 Kubernetes 多云、数据中心和边缘 管理的容器平台'
+desc_en: 'The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management'

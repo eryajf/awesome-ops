@@ -1,0 +1,5 @@
+kind: Dev-Tools
+owner: FiloSottile
+repo: mkcert
+desc: '一个简单的零配置工具，可以使用您想要的任何名称制作本地可信的开发证书'
+desc_en: 'A simple zero-config tool to make locally trusted development certificates with any names you d like'

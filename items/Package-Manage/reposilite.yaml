@@ -1,0 +1,5 @@
+kind: Package-Manage
+owner: dzikoysk
+repo: reposilite
+desc: '轻量级且易于使用的存储库管理器，用于 JVM 生态系统中基于 Maven 的私服'
+desc_en: 'Lightweight and easy to use repository manager for JVM ecosystem based on Maven'
