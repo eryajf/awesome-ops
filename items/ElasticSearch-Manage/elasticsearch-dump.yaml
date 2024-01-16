@@ -1,0 +1,5 @@
+kind: ElasticSearch-Manage
+owner: elasticsearch-dump
+repo: elasticsearch-dump
+desc: 'Elasticsearch 和 OpenSearch 的索引数据导入和导出工具'
+desc_en: 'Index data import and export tool for Elasticsearch and OpenSearch'

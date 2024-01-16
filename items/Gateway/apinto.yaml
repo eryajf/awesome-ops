@@ -1,0 +1,5 @@
+kind: Gateway
+owner: eolinker
+repo: apinto
+desc: '基于 golang 开发的网关，具有各种插件，可以自行扩展，即插即用。它可以快速帮助企业管理 API 服务，提高 API 服务的稳定性和安全性'
+desc_en: 'Gateway developed based on golang, with various plug-ins, which can be extended by itself, plug and play. It can quickly help enterprises manage API services and improve the stability and security of API services'

@@ -1,4 +1,4 @@
-kind: Monitor
+kind: OAuth2
 owner: logto-io
 repo: logto
 desc: '专为现代应用程序和 SaaS 产品设计的 Auth0 替代方案。它提供无缝的开发人员体验，非常适合个人和成长型公司'

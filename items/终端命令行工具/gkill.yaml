@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: heppu
+repo: gkill
+desc: '运行 gkill 可搜索并选择要终止的进程'
+desc_en: 'Run gkill to search and select the process to terminate'

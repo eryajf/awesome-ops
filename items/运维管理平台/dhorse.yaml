@@ -1,0 +1,5 @@
+kind: 运维管理平台
+owner: 512team
+repo: dhorse
+desc: '一个轻量级、简单易用的云应用管理平台，具有多云和多环境管理、应用管理和部署、服务治理等功能'
+desc_en: 'A lightweight, easy-to-use cloud application management platform with functions such as multi-cloud and multi-environment management, application management and deployment, and service governance'

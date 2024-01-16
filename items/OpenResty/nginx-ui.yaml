@@ -1,0 +1,5 @@
+kind: OpenResty
+owner: 0xJacky
+repo: nginx-ui
+desc: '一个基于 Web 的综合界​​面，旨在简化 Nginx 服务器的管理和配置'
+desc_en: 'a comprehensive web-based interface designed to simplify the management and configuration of Nginx servers.'

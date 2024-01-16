@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: pterm
+repo: pterm
+desc: '一个现代的 Go 模块，可以轻松美化控制台输出。具有图表、进度条、表格、树、文本输入、选择菜单等'
+desc_en: 'A modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more 🚀 It s completely configurable and 100% cross-platform compatible.'

@@ -1,0 +1,5 @@
+kind: OAuth2
+owner: zitadel
+repo: zitadel
+desc: '企业级统一身份认证管理系统'
+desc_en: 'Enterprise-level unified identity authentication management system'
