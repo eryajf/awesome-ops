@@ -1,0 +1,5 @@
+kind: Dev-Tools
+owner: golangci
+repo: golangci-lint
+desc: '一个快速的 Go linter 运行器。它并行运行 linter，使用缓存，支持 yaml 配置，与所有主要 IDE 集成，并包含数十个 linter'
+desc_en: 'Fast linters runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config. Highly customizable. Many linters. Fewer mistakes. CI-integrated. Used by Uber, The New York Times, GitLab, HashiCorp, OpenShift and others.'

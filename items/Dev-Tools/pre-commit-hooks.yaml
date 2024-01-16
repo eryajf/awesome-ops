@@ -1,0 +1,5 @@
+kind: Dev-Tools
+owner: pre-commit
+repo: pre-commit-hooks
+desc: '一些用于代码预提交的开箱即用的前置检测工具'
+desc_en: 'Some out-of-the-box pre-check tools for code pre-commit'

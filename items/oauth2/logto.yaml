@@ -1,0 +1,5 @@
+kind: Monitor
+owner: logto-io
+repo: logto
+desc: '专为现代应用程序和 SaaS 产品设计的 Auth0 替代方案。它提供无缝的开发人员体验，非常适合个人和成长型公司'
+desc_en: 'An Auth0 alternative designed for modern applications and SaaS products. It provides a seamless developer experience and is great for individuals and growing companies'

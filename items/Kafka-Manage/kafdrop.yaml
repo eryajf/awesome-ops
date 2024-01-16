@@ -1,0 +1,5 @@
+kind: Kafka-Manage
+owner: obsidiandynamics
+repo: kafdrop
+desc: '一个用于查看 Kafka 主题和浏览消费者组的 Web UI。该工具显示代理、主题、分区、消费者等信息，并允许您查看消息'
+desc_en: 'A web UI for viewing Kafka topics and browsing consumer groups. The tool displays information such as brokers, topics, partitions, consumers, and lets you view messages.'

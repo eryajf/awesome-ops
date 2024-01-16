@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: kubeshop
+repo: monokle
+desc: '通过可视化 UI 更好地创建、理解和部署 YAML 清单，该 UI 还提供策略验证和集群见解'
+desc_en: 'Better create, understand and deploy YAML manifests with a visual UI that also offers policy validation and cluster insights'

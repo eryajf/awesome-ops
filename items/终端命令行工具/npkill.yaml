@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: voidcosmos
+repo: npkill
+desc: '该工具可以列出系统中的任何 node_modules 目录，以及它们占用的空间。然后，您可以选择要清除哪些文件以释放空间'
+desc_en: 'This tool can list any node_modules directory in the system and the space they occupy. Then, you can choose which files to clear to free up space'
