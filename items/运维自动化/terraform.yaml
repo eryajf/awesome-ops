@@ -1,0 +1,5 @@
+kind: 运维自动化
+owner: hashicorp
+repo: terraform
+desc: 'Terraform 让您能够安全且可预测地创建、更改和改进基础设施。'
+desc_en: 'Terraform enables you to safely and predictably create, change, and improve infrastructure.'
