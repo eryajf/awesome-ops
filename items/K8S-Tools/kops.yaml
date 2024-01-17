@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: kubernetes
+repo: kops
+desc: 'Kubernetes Operations (kOps) - 生产级别的 k8s 安装、升级与管理'
+desc_en: 'Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management'
