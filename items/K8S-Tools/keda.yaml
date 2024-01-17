@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: kedacore
+repo: keda
+desc: 'KEDA 是一个基于 Kubernetes 的事件驱动自动伸缩组件。它为在 Kubernetes 中运行的任何容器提供基于事件的伸缩能力。'
+desc_en: 'KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes'
