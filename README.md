@@ -26,7 +26,7 @@
 
 📢 如果你打算应用在自己所在的生产环境，请结合项目的开源协议，Star数，最后更新时间等综合评估之后进行选型。
 
-🧐 分设类目 65 个。📥 收录项目 287 个。
+🧐 分设类目 65 个。📥 收录项目 298 个。
 
 ## Backup
 
@@ -118,13 +118,16 @@
 ## DNS
 
 <p align="right">
-📥 此类目收录项目 3 个。
+📥 此类目收录项目 6 个。
 </p>
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
+| [lanyi1998/DNSlog-GO](https://github.com/lanyi1998/DNSlog-GO) | MIT | 973 | 2020-09-05 | 2023-10-08 | DNSLog-GO 是一款golang编写的监控 DNS 解析记录的工具，自带WEB界面 |
 | [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) | MIT | 7942 | 2020-08-26 | 2024-01-15 | 自动获得你的公网IP地址，并解析到对应的域名服务，支持阿里云,腾讯云,DNSpod,Cloudflare,华为云,Callback,百度云,Porkbun,GoDaddy,Google,Domain,Namecheap,NameSilo |
+| [DNSPod/dnspod-sr](https://github.com/DNSPod/dnspod-sr) | NOASSERTION | 1354 | 2012-06-01 | 2016-09-27 | 一个运行在 Linux 平台上的高性能的递归 DNS 服务器软件，具备高性能、高负载、易扩展的优势，非 BIND 等软件可以比拟。 |
 | [BeryJu/gravity](https://github.com/BeryJu/gravity) | GPL-3.0 | 342 | 2022-07-06 | 2024-01-17 | 基于 Golang 开发，实现了完整的 DNS 和 DHCP 的管理控制台 |
+| [PowerDNS/pdns](https://github.com/PowerDNS/pdns) | GPL-2.0 | 3283 | 2013-04-26 | 2024-01-17 | PowerDNS 权威、PowerDNS 递归、dnsdist |
 | [wolf-joe/ts-dns](https://github.com/wolf-joe/ts-dns) | MIT | 307 | 2020-03-06 | 2023-05-12 | 灵活快速的 DNS 分组转发器 |
 
 
@@ -148,12 +151,12 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [cosmtrek/air](https://github.com/cosmtrek/air) | GPL-3.0 | 13558 | 2017-10-12 | 2024-01-13 | ☁️ 针对 Golang 应用开发设计的一个热重载的命令行工具 |
+| [cosmtrek/air](https://github.com/cosmtrek/air) | GPL-3.0 | 13561 | 2017-10-12 | 2024-01-13 | ☁️ 针对 Golang 应用开发设计的一个热重载的命令行工具 |
 | [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) | MIT | 6896 | 2014-12-25 | 2024-01-05 | 一个能够将 curl 命令转换成各种语言请求的工具 |
-| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | GPL-3.0 | 13874 | 2018-05-04 | 2024-01-16 | 一个快速的 Go linter 运行器。它并行运行 linter，使用缓存，支持 yaml 配置，与所有主要 IDE 集成，并包含数十个 linter |
-| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | GPL-3.0 | 26928 | 2022-01-30 | 2024-01-15 | 将 JSON、YAML、XML、CSV 等各种数据格式转换为交互式图表的工具 |
+| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | GPL-3.0 | 13876 | 2018-05-04 | 2024-01-16 | 一个快速的 Go linter 运行器。它并行运行 linter，使用缓存，支持 yaml 配置，与所有主要 IDE 集成，并包含数十个 linter |
+| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | GPL-3.0 | 26931 | 2022-01-30 | 2024-01-15 | 将 JSON、YAML、XML、CSV 等各种数据格式转换为交互式图表的工具 |
 | [massCodeIO/massCode](https://github.com/massCodeIO/massCode) | AGPL-3.0 | 5253 | 2022-03-29 | 2023-12-31 | 一款开源的本地代码片段管理工具 |
-| [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) | BSD-3-Clause | 44224 | 2018-06-25 | 2023-11-29 | 一个简单的零配置工具，可以使用您想要的任何名称制作本地可信的开发证书 |
+| [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) | BSD-3-Clause | 44225 | 2018-06-25 | 2023-11-29 | 一个简单的零配置工具，可以使用您想要的任何名称制作本地可信的开发证书 |
 | [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) | MIT | 4614 | 2014-03-13 | 2024-01-08 | 一些用于代码预提交的开箱即用的前置检测工具 |
 | [xjq7/runcode](https://github.com/xjq7/runcode) | GPL-2.0 | 187 | 2022-10-11 | 2023-12-06 | 在线编辑器, 支持在线编写,运行代码，支持 C、C&#43;&#43;、Golang、Nodejs、Rust、Java、Python、C#、PHP 多种语言 |
 | [ritz078/transform](https://github.com/ritz078/transform) | MIT | 6636 | 2017-06-15 | 2023-12-27 | 多种格式文件转换工具，比如 JSON 转 struct 等 |
@@ -169,12 +172,12 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [P3GLEG/Whaler](https://github.com/P3GLEG/Whaler) | GPL-3.0 | 998 | 2018-06-05 | 2022-06-25 | 能够查看在运行容器的 Dockerfile 的工具 |
 | [moby/buildkit](https://github.com/moby/buildkit) | Apache-2.0 | 7402 | 2017-05-31 | 2024-01-17 | 增强 Docker build 的功能，支持并行构建、缓存、镜像导出等功能 |
-| [abiosoft/colima](https://github.com/abiosoft/colima) | MIT | 15365 | 2021-09-04 | 2024-01-04 | MacOS 和 Linux 上的容器运行时，只需最少的设置 |
-| [wagoodman/dive](https://github.com/wagoodman/dive) | MIT | 41862 | 2018-05-13 | 2024-01-13 | 用于探索分析 docker 镜像、分层内容以及发现缩小 Docker/OCI 镜像大小的方法的工具 |
+| [abiosoft/colima](https://github.com/abiosoft/colima) | MIT | 15368 | 2021-09-04 | 2024-01-04 | MacOS 和 Linux 上的容器运行时，只需最少的设置 |
+| [wagoodman/dive](https://github.com/wagoodman/dive) | MIT | 41864 | 2018-05-13 | 2024-01-13 | 用于探索分析 docker 镜像、分层内容以及发现缩小 Docker/OCI 镜像大小的方法的工具 |
 | [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) | Apache-2.0 | 1562 | 2016-11-30 | 2023-12-20 | 一个小型命令行工具，用于在使用 Docker-compose(or K8s)时等待其他 Docker 容器启动的场景 |
 | [FX-Max/docker-install-everything](https://github.com/FX-Max/docker-install-everything) | MIT | 137 | 2022-04-05 | 2023-12-27 | 使用 Docker-compose 安装各种服务 |
-| [louislam/dockge](https://github.com/louislam/dockge) | MIT | 6351 | 2023-10-23 | 2024-01-14 | 一个时髦、易于使用且响应迅速的自托管式 docker compose.yaml 管理器 |
-| [portainer/portainer](https://github.com/portainer/portainer) | Zlib | 27773 | 2016-05-19 | 2024-01-17 | 让 Docker 和 Kubernetes 的管理变得简单。 |
+| [louislam/dockge](https://github.com/louislam/dockge) | MIT | 6352 | 2023-10-23 | 2024-01-14 | 一个时髦、易于使用且响应迅速的自托管式 docker compose.yaml 管理器 |
+| [portainer/portainer](https://github.com/portainer/portainer) | Zlib | 27775 | 2016-05-19 | 2024-01-17 | 让 Docker 和 Kubernetes 的管理变得简单。 |
 | [quay/quay](https://github.com/quay/quay) | Apache-2.0 | 2307 | 2019-11-08 | 2024-01-17 | Red Hat 开源的 Docker 镜像仓库，类似 Harbor |
 | [lavie/runlike](https://github.com/lavie/runlike) | NOASSERTION | 1795 | 2015-06-04 | 2023-02-26 | 能够查看在运行容器的启动命令的工具 |
 | [silenceshell/topic](https://github.com/silenceshell/topic) | MIT | 139 | 2021-09-03 | 2022-10-08 | 基于 Golang 实现的容器内运行 top 命令的工具 |
@@ -188,7 +191,7 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | GPL-3.0 | 8250 | 2019-04-21 | 2024-01-17 | 一款由Golang&#43;Flutter开发的高速下载器，支持（HTTP、BitTorrent、Magnet）协议下载，并且支持全平台使用。除了基本的下载功能外，Gopeed 还是一款高度可定制化的下载器，支持通过对接APIs或者安装和开发扩展来实现更多的功能 |
+| [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | GPL-3.0 | 8254 | 2019-04-21 | 2024-01-17 | 一款由Golang&#43;Flutter开发的高速下载器，支持（HTTP、BitTorrent、Magnet）协议下载，并且支持全平台使用。除了基本的下载功能外，Gopeed 还是一款高度可定制化的下载器，支持通过对接APIs或者安装和开发扩展来实现更多的功能 |
 | [Code-Hex/pget](https://github.com/Code-Hex/pget) | MIT | 1077 | 2016-06-30 | 2023-10-19 | Golang 编写的可断点续传的文件下载客户端 |
 
 
@@ -245,7 +248,7 @@
 | [linfaxin/MBBS](https://github.com/linfaxin/MBBS) | MIT | 123 | 2022-07-13 | 2023-11-30 | 轻量级全功能论坛、移动/PC 双端适配、无依赖一键启动、技术栈 Express &#43; SQLite &#43; React |
 | [zhuchunshu/SForum](https://github.com/zhuchunshu/SForum) | MIT | 183 | 2021-07-08 | 2024-01-10 | ✨ 一个功能丰富占内存少的组件化高性能论坛程序 |
 | [casbin/casnode](https://github.com/casbin/casnode) | Apache-2.0 | 28 | 2023-07-29 | 2023-12-30 | 一个 V2EX 风格的论坛项目 |
-| [flarum/framework](https://github.com/flarum/framework) | N/A | 6111 | 2014-12-20 | 2024-01-12 | 一个简单的，优雅的论坛项目 |
+| [flarum/framework](https://github.com/flarum/framework) | N/A | 6113 | 2014-12-20 | 2024-01-12 | 一个简单的，优雅的论坛项目 |
 | [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) | MIT | 3559 | 2022-05-24 | 2024-01-17 | 一个清新文艺的微社区，Gin&#43;Zinc&#43;Vue&#43;TS开发 |
 
 
@@ -258,7 +261,7 @@
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [mongodb-js/compass](https://github.com/mongodb-js/compass) | NOASSERTION | 933 | 2015-03-02 | 2024-01-17 | MongoDB 官方开源的一款客户端工具 |
-| [Studio3T/robomongo](https://github.com/Studio3T/robomongo) | GPL-3.0 | 9234 | 2012-11-07 | 2022-09-22 | 原生跨平台 MongoDB 管理工具 |
+| [Studio3T/robomongo](https://github.com/Studio3T/robomongo) | GPL-3.0 | 9235 | 2012-11-07 | 2022-09-22 | 原生跨平台 MongoDB 管理工具 |
 
 
 ## GUI-Redis
@@ -293,12 +296,17 @@
 ## Gateway
 
 <p align="right">
-📥 此类目收录项目 2 个。
+📥 此类目收录项目 7 个。
 </p>
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [eolinker/apinto](https://github.com/eolinker/apinto) | Apache-2.0 | 1110 | 2021-07-19 | 2024-01-02 | 基于 golang 开发的网关，具有各种插件，可以自行扩展，即插即用。它可以快速帮助企业管理 API 服务，提高 API 服务的稳定性和安全性 |
+| [apioak/apioak](https://github.com/apioak/apioak) | Apache-2.0 | 407 | 2019-10-28 | 2023-04-07 | APIOAK 提供API发布、管理、运维的全生命周期管理。辅助用户简单、快速、低成本、低风险的实现微服务聚合、前后端分离、系统集成，向合作伙伴、开发者开放功能和数据。 |
+| [apache/apisix](https://github.com/apache/apisix) | Apache-2.0 | 13239 | 2019-04-10 | 2024-01-17 | 一个具有动态、实时、高性能等特点的云原生 API 网关。供了动态路由、动态上游、动态证书、A/B 测试、灰度发布（金丝雀发布）、蓝绿部署、限速、防攻击、收集指标、监控报警、可观测、服务治理等功能。 |
+| [bfenetworks/bfe](https://github.com/bfenetworks/bfe) | Apache-2.0 | 6015 | 2019-07-31 | 2023-12-18 | 百度开源的现代化、企业级的七层负载均衡系统。 |
+| [alibaba/higress](https://github.com/alibaba/higress) | Apache-2.0 | 2018 | 2022-10-27 | 2024-01-17 | Higress 实现了安全防护网关、流量网关、微服务网关三层网关合一，可以显著降低网关的部署和运维成本。 |
+| [Kong/kong](https://github.com/Kong/kong) | Apache-2.0 | 36680 | 2014-11-17 | 2024-01-17 | 一个云原生、与平台无关、可扩展的 API 网关，以其高性能和通过插件的可扩展性而闻名。 |
 | [apache/shenyu](https://github.com/apache/shenyu) | Apache-2.0 | 8195 | 2018-07-11 | 2024-01-17 | 一个异步的，高性能的，跨语言的，响应式的 API 网关 |
 
 
@@ -311,8 +319,8 @@
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [PGYER/codefever](https://github.com/PGYER/codefever) | MIT | 2560 | 2022-01-19 | 2023-12-12 | 具有 CI/CD 和看板的自托管 Git 服务器 |
-| [go-gitea/gitea](https://github.com/go-gitea/gitea) | MIT | 40173 | 2016-11-01 | 2024-01-17 | 包括 Git 托管、代码审查、团队协作、包注册和 CI/CD，功能强大，值得一试。fork 自 Gogs |
-| [gogs/gogs](https://github.com/gogs/gogs) | MIT | 43632 | 2014-02-12 | 2024-01-01 | 一个最简单、最快速和最轻松的方式搭建自助 Git 服务，基于 Golang 开发，支持多平台。 |
+| [go-gitea/gitea](https://github.com/go-gitea/gitea) | MIT | 40175 | 2016-11-01 | 2024-01-17 | 包括 Git 托管、代码审查、团队协作、包注册和 CI/CD，功能强大，值得一试。fork 自 Gogs |
+| [gogs/gogs](https://github.com/gogs/gogs) | MIT | 43633 | 2014-02-12 | 2024-01-01 | 一个最简单、最快速和最轻松的方式搭建自助 Git 服务，基于 Golang 开发，支持多平台。 |
 | [theonedev/onedev](https://github.com/theonedev/onedev) | MIT | 12189 | 2018-11-06 | 2024-01-16 | 完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器 |
 
 
@@ -416,16 +424,16 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | Apache-2.0 | 10183 | 2018-09-30 | 2024-01-17 | 快速，经济高效的监控解决方案和时序数据库，可用于 Prometheus 或 Grafana 的存储 |
+| [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | Apache-2.0 | 10184 | 2018-09-30 | 2024-01-17 | 快速，经济高效的监控解决方案和时序数据库，可用于 Prometheus 或 Grafana 的存储 |
 | [tal-tech/alarm-dog](https://github.com/tal-tech/alarm-dog) | N/A | 238 | 2020-10-28 | 2022-01-10 | 通用的统一告警平台，提供配置化、流程化、标准化的能力，支持多种告警通知渠道，支持告警收敛、过滤、升级、工作流、自动恢复等功能 |
 | [soxft/busuanzi](https://github.com/soxft/busuanzi) | Apache-2.0 | 122 | 2022-04-24 | 2024-01-07 | 一个简单的网站统计分析器 |
 | [AutohomeCorp/frostmourne](https://github.com/AutohomeCorp/frostmourne) | MIT | 1241 | 2019-12-16 | 2023-06-14 | 基于 Elasticsearch, Prometheus, SkyWalking, InfluxDB，MySQL/TiDB，ClickHouse, SQLServer, IoTDB 数据的分布式监控报警系统 |
-| [dromara/hertzbeat](https://github.com/dromara/hertzbeat) | Apache-2.0 | 3972 | 2022-02-04 | 2024-01-17 | 易用友好的开源实时监控告警系统，无需 Agent，高性能集群，兼容 Prometheus，强大自定义监控能力 |
-| [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) | MIT | 5494 | 2023-09-13 | 2024-01-17 | 一个开源可观察性平台，统一会话重放、日志、指标、跟踪和错误 |
+| [dromara/hertzbeat](https://github.com/dromara/hertzbeat) | Apache-2.0 | 3973 | 2022-02-04 | 2024-01-17 | 易用友好的开源实时监控告警系统，无需 Agent，高性能集群，兼容 Prometheus，强大自定义监控能力 |
+| [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) | MIT | 5495 | 2023-09-13 | 2024-01-17 | 一个开源可观察性平台，统一会话重放、日志、指标、跟踪和错误 |
 | [prymitive/karma](https://github.com/prymitive/karma) | Apache-2.0 | 2131 | 2018-09-09 | 2024-01-17 | 一款展示 AlertManager 告警信息的面板，可用于投屏 |
-| [ccfos/nightingale](https://github.com/ccfos/nightingale) | Apache-2.0 | 8276 | 2020-03-03 | 2024-01-17 | All-in-One 的云原生监控工具，集合了 Prometheus 和 Grafana 的优点，你可以在 WebUI 上管理和配置告警策略，也可以对分布在多个 Region 的指标、日志、链路追踪数据进行统一的可视化和分析 |
-| [SigNoz/signoz](https://github.com/SigNoz/signoz) | NOASSERTION | 15971 | 2021-01-03 | 2024-01-17 | SigNoz 是 OpenTelemetry 原生的开源可观察性平台，在单个应用程序中提供日志、跟踪和指标。DataDog、NewRelic 等的开源替代品。开源应用程序性能监控（APM）和可观察性工具 |
-| [mikecao/umami](https://github.com/mikecao/umami) | MIT | 18246 | 2020-07-17 | 2024-01-17 | 搭建配置简单，界面优雅美观的站点访问统计工具 |
+| [ccfos/nightingale](https://github.com/ccfos/nightingale) | Apache-2.0 | 8277 | 2020-03-03 | 2024-01-17 | All-in-One 的云原生监控工具，集合了 Prometheus 和 Grafana 的优点，你可以在 WebUI 上管理和配置告警策略，也可以对分布在多个 Region 的指标、日志、链路追踪数据进行统一的可视化和分析 |
+| [SigNoz/signoz](https://github.com/SigNoz/signoz) | NOASSERTION | 15972 | 2021-01-03 | 2024-01-17 | SigNoz 是 OpenTelemetry 原生的开源可观察性平台，在单个应用程序中提供日志、跟踪和指标。DataDog、NewRelic 等的开源替代品。开源应用程序性能监控（APM）和可观察性工具 |
+| [mikecao/umami](https://github.com/mikecao/umami) | MIT | 18247 | 2020-07-17 | 2024-01-17 | 搭建配置简单，界面优雅美观的站点访问统计工具 |
 | [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) | Apache-2.0 | 4811 | 2018-07-04 | 2024-01-09 | 轻量级的前端性能监控系统，也是一款埋点系统，私有化部署，简单易用 |
 
 
@@ -439,7 +447,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [dromara/MaxKey](https://github.com/dromara/MaxKey) | Apache-2.0 | 1059 | 2016-11-16 | 2024-01-10 | 业界领先的IAM-IDaas身份管理和认证产品,支持OAuth 2.x/OpenID Connect、SAML 2.0、JWT、CAS、SCIM等标准协议，提供安全、标准和开放的用户身份管理(IDM)、身份认证(AM)、单点登录(SSO)、RBAC权限管理和资源管理等 |
 | [logto-io/logto](https://github.com/logto-io/logto) | MPL-2.0 | 6745 | 2021-06-19 | 2024-01-17 | 专为现代应用程序和 SaaS 产品设计的 Auth0 替代方案。它提供无缝的开发人员体验，非常适合个人和成长型公司 |
-| [zitadel/zitadel](https://github.com/zitadel/zitadel) | Apache-2.0 | 5932 | 2020-03-16 | 2024-01-17 | 企业级统一身份认证管理系统 |
+| [zitadel/zitadel](https://github.com/zitadel/zitadel) | Apache-2.0 | 5933 | 2020-03-16 | 2024-01-17 | 企业级统一身份认证管理系统 |
 
 
 ## OpenLDAP
@@ -450,7 +458,7 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [glauth/glauth](https://github.com/glauth/glauth) | MIT | 2169 | 2018-04-25 | 2024-01-12 | 基于 golang 实现的类 ldap 功能的系统，支持本地，S3，原有 ldap，以及 MySQL 等存储方式。使用习惯上与 ldap 略有差异 |
+| [glauth/glauth](https://github.com/glauth/glauth) | MIT | 2170 | 2018-04-25 | 2024-01-12 | 基于 golang 实现的类 ldap 功能的系统，支持本地，S3，原有 ldap，以及 MySQL 等存储方式。使用习惯上与 ldap 略有差异 |
 | [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin) | GPL-3.0 | 1173 | 2022-05-18 | 2023-11-15 | 🌉 基于 Golang&#43;Vue 实现的 OpenLDAP 后台管理项目 |
 
 
@@ -476,7 +484,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [gomods/athens](https://github.com/gomods/athens) | MIT | 4264 | 2018-02-25 | 2024-01-04 | go 语言的私服仓库程序。没有 web 管理界面，但是认证内部 gitlab 很好用 |
 | [cnpm/cnpmcore](https://github.com/cnpm/cnpmcore) | MIT | 502 | 2021-08-05 | 2024-01-13 | 前端 npm 包管理器 |
-| [composer/composer](https://github.com/composer/composer) | MIT | 28026 | 2011-06-08 | 2024-01-17 | PHP 语言栈的私服程序 |
+| [composer/composer](https://github.com/composer/composer) | MIT | 28028 | 2011-06-08 | 2024-01-17 | PHP 语言栈的私服程序 |
 | [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite) | Apache-2.0 | 1146 | 2017-07-06 | 2024-01-11 | 轻量级且易于使用的存储库管理器，用于 JVM 生态系统中基于 Maven 的私服 |
 
 
@@ -528,7 +536,7 @@
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [hhyo/Archery](https://github.com/hhyo/Archery) | Apache-2.0 | 5423 | 2018-09-28 | 2024-01-06 | SQL 审核查询平台 |
-| [Bytebase/Bytebase](https://github.com/Bytebase/Bytebase) | NOASSERTION | 9164 | 2021-01-27 | 2024-01-17 | 面向开发人员、DBA 和平台工程团队的世界上最先进的数据库 DevOps 和 CI/CD |
+| [Bytebase/Bytebase](https://github.com/Bytebase/Bytebase) | NOASSERTION | 9165 | 2021-01-27 | 2024-01-17 | 面向开发人员、DBA 和平台工程团队的世界上最先进的数据库 DevOps 和 CI/CD |
 | [cookieY/Yearning](https://github.com/cookieY/Yearning) | AGPL-3.0 | 8111 | 2017-10-18 | 2024-01-15 | 简单,高效的 MySQL 审计平台 |
 
 
@@ -540,9 +548,9 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | MIT | 41218 | 2018-04-23 | 2024-01-17 | ⚡ Rust 语言编写，快如闪电的搜索引擎，可轻松融入您的应用程序、网站和工作流程 🔍 |
-| [openobserve/openobserve](https://github.com/openobserve/openobserve) | AGPL-3.0 | 7904 | 2023-02-02 | 2024-01-17 | 一个云原生可观察性平台，专为日志、指标、跟踪、分析、RUM（真实用户监控 - 性能、错误、会话重放）而构建，设计用于 PB 级工作 |
-| [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) | NOASSERTION | 15919 | 2021-12-02 | 2024-01-14 | 一个进行全文索引的搜索引擎。它是 Elasticsearch 的轻量级替代品，运行时只使用一小部分资源。它使用蓝色作为底层索引库 |
+| [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | MIT | 41219 | 2018-04-23 | 2024-01-17 | ⚡ Rust 语言编写，快如闪电的搜索引擎，可轻松融入您的应用程序、网站和工作流程 🔍 |
+| [openobserve/openobserve](https://github.com/openobserve/openobserve) | AGPL-3.0 | 7907 | 2023-02-02 | 2024-01-17 | 一个云原生可观察性平台，专为日志、指标、跟踪、分析、RUM（真实用户监控 - 性能、错误、会话重放）而构建，设计用于 PB 级工作 |
+| [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) | NOASSERTION | 15921 | 2021-12-02 | 2024-01-14 | 一个进行全文索引的搜索引擎。它是 Elasticsearch 的轻量级替代品，运行时只使用一小部分资源。它使用蓝色作为底层索引库 |
 
 
 ## Shell-Scripts
@@ -579,10 +587,10 @@
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [bitepeng/b0pass](https://github.com/bitepeng/b0pass) | Apache-2.0 | 1898 | 2019-10-24 | 2023-12-15 | 基于Go语言的高性能 `手机电脑超大文件传输神器`、`局域网共享文件服务器` |
-| [localsend/localsend](https://github.com/localsend/localsend) | MIT | 26888 | 2022-12-16 | 2024-01-15 | 一个免费、开源的应用程序，允许你在本地网络上安全地与附近设备共享文件和消息，无需互联网连接 |
+| [localsend/localsend](https://github.com/localsend/localsend) | MIT | 26893 | 2022-12-16 | 2024-01-15 | 一个免费、开源的应用程序，允许你在本地网络上安全地与附近设备共享文件和消息，无需互联网连接 |
 | [lra/mackup](https://github.com/lra/mackup) | GPL-3.0 | 13917 | 2013-04-06 | 2024-01-15 | 一个可以保持你应用程序配置同步的工具 |
 | [mtlynch/picoshare](https://github.com/mtlynch/picoshare) | NOASSERTION | 1965 | 2022-02-14 | 2024-01-16 | 可建立文件共享服务，支持多种类型，部署简单，易于使用 |
-| [syncthing/syncthing](https://github.com/syncthing/syncthing) | MPL-2.0 | 57508 | 2013-11-26 | 2024-01-17 | 开源的跨平台文件同步工具 |
+| [syncthing/syncthing](https://github.com/syncthing/syncthing) | MPL-2.0 | 57510 | 2013-11-26 | 2024-01-17 | 开源的跨平台文件同步工具 |
 | [trzsz/trzsz](https://github.com/trzsz/trzsz) | MIT | 982 | 2021-12-08 | 2023-11-11 | 一个兼容 tmux 的文件传输工具，类似 lrzsz ，有进度条并且支持目录传输 |
 
 
@@ -605,11 +613,11 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [voidint/g](https://github.com/voidint/g) | MIT | 1451 | 2019-04-25 | 2023-12-27 | 又一个用于多个 Golang 版本的管理与切换 |
-| [moovweb/gvm](https://github.com/moovweb/gvm) | MIT | 9223 | 2011-12-03 | 2023-11-11 | 一个简单的工具，用于多个 Golang 版本的管理与切换 |
+| [voidint/g](https://github.com/voidint/g) | MIT | 1452 | 2019-04-25 | 2023-12-27 | 又一个用于多个 Golang 版本的管理与切换 |
+| [moovweb/gvm](https://github.com/moovweb/gvm) | MIT | 9224 | 2011-12-03 | 2023-11-11 | 一个简单的工具，用于多个 Golang 版本的管理与切换 |
 | [jenv/jenv](https://github.com/jenv/jenv) | MIT | 5310 | 2013-01-24 | 2023-11-07 | 一个简单的工具，用于多个 JDK 版本的管理与切换 |
-| [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) | MIT | 32761 | 2014-09-20 | 2024-01-14 | 用于 Windows 系统中多个 Node 版本的管理与切换 |
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | MIT | 73088 | 2010-04-15 | 2024-01-07 | 一个简单的工具，用于多个 Node 版本的管理与切换 |
+| [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) | MIT | 32763 | 2014-09-20 | 2024-01-14 | 用于 Windows 系统中多个 Node 版本的管理与切换 |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | MIT | 73090 | 2010-04-15 | 2024-01-07 | 一个简单的工具，用于多个 Node 版本的管理与切换 |
 | [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) | Apache-2.0 | 5699 | 2012-08-27 | 2024-01-11 | 在任何基于 Unix 的系统上管理多个软件开发工具包的多个版本的工具 |
 | [stefanmaric/g](https://github.com/stefanmaric/g) | MIT | 849 | 2018-04-08 | 2023-07-10 | 又又一个用于多个 Golang 版本的管理与切换，包基于二进制安装 |
 | [version-fox/vfox](https://github.com/version-fox/vfox) | Apache-2.0 | 72 | 2023-12-09 | 2024-01-17 | 跨平台的用于管理 SDK 版本的工具，允许你通过命令行快速安装和切换不同版本的 SDK |
@@ -618,15 +626,16 @@
 ## Wiki-Server
 
 <p align="right">
-📥 此类目收录项目 6 个。
+📥 此类目收录项目 7 个。
 </p>
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
+| [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) | MIT | 13102 | 2015-08-29 | 2024-01-17 | 使用 PHP 和 Laravel 构建的创建文档/wiki 内容的平台 |
 | [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) | GPL-3.0 | 2699 | 2020-04-10 | 2024-01-17 | 觅思文档，适合于个人和中小型团队的在线文档、知识库系统 |
-| [facebook/docusaurus](https://github.com/facebook/docusaurus) | MIT | 50746 | 2017-06-20 | 2024-01-16 | 一个用于轻松构建、部署和维护开源项目网站的项目 |
-| [halo-dev/halo](https://github.com/halo-dev/halo) | GPL-3.0 | 30262 | 2018-03-21 | 2024-01-17 | 强大易用的开源建站工具，更偏向于博客风格 |
-| [usememos/memos](https://github.com/usememos/memos) | MIT | 22290 | 2021-12-08 | 2024-01-17 | 一项隐私优先的轻量级笔记服务,轻松捕捉并分享您的精彩想法,[flomo](https://flomoapp.com/) 的开源替代品 |
+| [facebook/docusaurus](https://github.com/facebook/docusaurus) | MIT | 50749 | 2017-06-20 | 2024-01-16 | 一个用于轻松构建、部署和维护开源项目网站的项目 |
+| [halo-dev/halo](https://github.com/halo-dev/halo) | GPL-3.0 | 30265 | 2018-03-21 | 2024-01-17 | 强大易用的开源建站工具，更偏向于博客风格 |
+| [usememos/memos](https://github.com/usememos/memos) | MIT | 22293 | 2021-12-08 | 2024-01-17 | 一项隐私优先的轻量级笔记服务,轻松捕捉并分享您的精彩想法,[flomo](https://flomoapp.com/) 的开源替代品 |
 | [fantasticit/think](https://github.com/fantasticit/think) | MIT | 1756 | 2022-02-20 | 2023-09-07 | 一款开源知识管理工具，通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通 |
 | [mylxsw/wizard](https://github.com/mylxsw/wizard) | Apache-2.0 | 2115 | 2017-07-27 | 2023-03-22 | 一款开源的文档管理工具，支持 Markdown/Swagger/Table 类型的文档 |
 
@@ -650,7 +659,7 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [fatedier/frp](https://github.com/fatedier/frp) | Apache-2.0 | 76037 | 2015-12-21 | 2024-01-16 | 一个专注于内网穿透的高性能的反向代理应用，支持 TCP、UDP、HTTP、HTTPS 等多种协议。可以将内网服务以安全、便捷的方式通过具有公网 IP 节点的中转暴露到公网 |
+| [fatedier/frp](https://github.com/fatedier/frp) | Apache-2.0 | 76039 | 2015-12-21 | 2024-01-16 | 一个专注于内网穿透的高性能的反向代理应用，支持 TCP、UDP、HTTP、HTTPS 等多种协议。可以将内网服务以安全、便捷的方式通过具有公网 IP 节点的中转暴露到公网 |
 
 
 ## 压测
@@ -676,7 +685,7 @@
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [lwch/natpass](https://github.com/lwch/natpass) | MIT | 3968 | 2021-07-30 | 2023-11-30 | 主机管理工具，支持 Shell 管理，支持远程桌面管理 |
-| [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) | AGPL-3.0 | 3963 | 2020-12-20 | 2024-01-17 | 一个 Golang 开发的简单好用安全的开源交互审计系统，支持 RDP、SSH、VNC、Telnet、Kubernetes 协议 |
+| [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) | AGPL-3.0 | 3964 | 2020-12-20 | 2024-01-17 | 一个 Golang 开发的简单好用安全的开源交互审计系统，支持 RDP、SSH、VNC、Telnet、Kubernetes 协议 |
 | [yinheli/sshw](https://github.com/yinheli/sshw) | MIT | 774 | 2018-07-21 | 2023-10-10 | 一款实现了类似 jumpserver 登陆界面的终端 SSH 工具 |
 | [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) | MIT | 1058 | 2023-05-21 | 2024-01-16 | 支持 trzsz ( trz / tsz ) 的 ssh 客户端，支持搜索和选择服务器进行批量登录，支持记住密码 |
 | [axetroy/wsm](https://github.com/axetroy/wsm) | Apache-2.0 | 73 | 2019-11-17 | 2023-07-24 | 通过 Web 来管理远端服务器，简易的堡垒机 |
@@ -690,8 +699,8 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [madneal/gshark](https://github.com/madneal/gshark) | Apache-2.0 | 772 | 2018-03-09 | 2024-01-12 | 根据关键字等规则，从 GitHub、GitLab 等扫描代码泄露、敏感信息泄露等安全问题 |
-| [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) | AGPL-3.0 | 13029 | 2016-12-31 | 2024-01-16 | 一款用于扫描代码中是否包含密码，秘钥等敏感信息的工具，可以集成到你的流水线当中 |
+| [madneal/gshark](https://github.com/madneal/gshark) | Apache-2.0 | 773 | 2018-03-09 | 2024-01-12 | 根据关键字等规则，从 GitHub、GitLab 等扫描代码泄露、敏感信息泄露等安全问题 |
+| [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) | AGPL-3.0 | 13033 | 2016-12-31 | 2024-01-16 | 一款用于扫描代码中是否包含密码，秘钥等敏感信息的工具，可以集成到你的流水线当中 |
 | [chaitin/veinmind-tools](https://github.com/chaitin/veinmind-tools) | MIT | 1425 | 2022-02-08 | 2024-01-10 | 容器安全工具集，支持容器恶意文件，弱口令，漏洞，后门等扫描能力 |
 
 
@@ -738,8 +747,8 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) | GPL-2.0 | 9440 | 2014-07-10 | 2023-11-22 | Linux 性能分析工具集合 |
-| [grafana/pyroscope](https://github.com/grafana/pyroscope) | AGPL-3.0 | 8999 | 2020-12-31 | 2024-01-17 | 性能分析平台，用于分析 CPU 利用率和内存泄漏等应用性能问题 |
+| [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) | GPL-2.0 | 9441 | 2014-07-10 | 2023-11-22 | Linux 性能分析工具集合 |
+| [grafana/pyroscope](https://github.com/grafana/pyroscope) | AGPL-3.0 | 9000 | 2020-12-31 | 2024-01-17 | 性能分析平台，用于分析 CPU 利用率和内存泄漏等应用性能问题 |
 
 
 ## 抓包工具
@@ -763,10 +772,10 @@
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [apicat/apicat](https://github.com/apicat/apicat) | MIT | 234 | 2022-05-05 | 2024-01-17 | 一款基于 AI 技术的 API 开发工具，它旨在通过自动化和智能化的方式，帮助开发人员更快速、更高效地开发 API |
-| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | MIT | 58138 | 2019-08-21 | 2024-01-17 | 开源 API 开发生态系统，颜值非常高 |
-| [Kong/insomnia](https://github.com/Kong/insomnia) | Apache-2.0 | 32133 | 2016-04-23 | 2024-01-17 | 一个开源、跨平台 API 客户端，适用于 GraphQL、REST、WebSockets、服务器发送事件 (SSE)、gRPC 和任何其他 HTTP 兼容协议 |
+| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | MIT | 58144 | 2019-08-21 | 2024-01-17 | 开源 API 开发生态系统，颜值非常高 |
+| [Kong/insomnia](https://github.com/Kong/insomnia) | Apache-2.0 | 32135 | 2016-04-23 | 2024-01-17 | 一个开源、跨平台 API 客户端，适用于 GraphQL、REST、WebSockets、服务器发送事件 (SSE)、gRPC 和任何其他 HTTP 兼容协议 |
 | [Postcatlab/postcat](https://github.com/Postcatlab/postcat) | Apache-2.0 | 4670 | 2021-11-24 | 2024-01-03 | 一个可扩展的 API 工具平台，支持多平台 |
-| [YMFE/yapi](https://github.com/YMFE/yapi) | Apache-2.0 | 26822 | 2016-05-30 | 2023-10-25 | 高效、易用、功能强大的 API 管理平台，旨在为开发、产品、测试人员提供优雅的接口管理服务 |
+| [YMFE/yapi](https://github.com/YMFE/yapi) | Apache-2.0 | 26823 | 2016-05-30 | 2023-10-25 | 高效、易用、功能强大的 API 管理平台，旨在为开发、产品、测试人员提供优雅的接口管理服务 |
 
 
 ## 数据管道
@@ -786,12 +795,13 @@
 ## 文件管理系统
 
 <p align="right">
-📥 此类目收录项目 5 个。
+📥 此类目收录项目 6 个。
 </p>
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [Cloudreve/Cloudreve](https://github.com/Cloudreve/Cloudreve) | GPL-3.0 | 20123 | 2018-02-04 | 2024-01-05 | 支持多家云存储驱动的公有云文件系统 |
+| [alist-org/alist](https://github.com/alist-org/alist) | AGPL-3.0 | 34339 | 2020-12-23 | 2024-01-17 | 🗂️ 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs |
 | [songquanpeng/go-file](https://github.com/songquanpeng/go-file) | MIT | 675 | 2020-04-08 | 2023-10-11 | 文件分享工具，仅单个可执行文件，开箱即用，可用于局域网内分享文件和文件夹，直接跑满本地带宽 |
 | [jamebal/jmal-cloud-view](https://github.com/jamebal/jmal-cloud-view) | MIT | 402 | 2020-02-09 | 2024-01-05 | 一款私有云存储网盘项目，能够简单安全管理您的云端文件 |
 | [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) | MIT | 2016 | 2021-08-05 | 2024-01-10 | 基于 WebRTC 的媒体流传输工具 |
@@ -801,7 +811,7 @@
 ## 文档
 
 <p align="right">
-📥 此类目收录项目 11 个。
+📥 此类目收录项目 12 个。
 </p>
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
@@ -816,6 +826,7 @@
 | [chaseSpace/k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) | NOASSERTION | 769 | 2023-10-26 | 2024-01-16 | 作者整理的中文 k8s 教程，适合初学者阅读 |
 | [caicloud/kube-ladder](https://github.com/caicloud/kube-ladder) | N/A | 2412 | 2019-07-15 | 2022-11-28 | 文档旨在为广大从业者提供一个 Kubernetes 学习路径，为大家提供一定的指引 |
 | [jaywcjlove/reference](https://github.com/jaywcjlove/reference) | MIT | 8495 | 2022-09-24 | 2024-01-13 | 为开发人员分享快速参考备忘清单 |
+| [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) | N/A | 19638 | 2015-11-17 | 2023-01-20 | 程序员技能图谱 |
 | [isno/theByteBook](https://github.com/isno/theByteBook) | N/A | 5451 | 2022-10-08 | 2024-01-17 | 深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，经历实践检验的 DevOps、SRE指南 |
 
 
@@ -839,7 +850,7 @@
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) | Apache-2.0 | 13419 | 2018-01-29 | 2024-01-17 | 在 Kubernetes 中构建容器镜像 |
-| [hashicorp/packer](https://github.com/hashicorp/packer) | NOASSERTION | 14753 | 2013-03-23 | 2024-01-17 | 一个支持基于配置文件构建机器镜像的工具 |
+| [hashicorp/packer](https://github.com/hashicorp/packer) | NOASSERTION | 14755 | 2013-03-23 | 2024-01-17 | 一个支持基于配置文件构建机器镜像的工具 |
 
 
 ## 流量回放
@@ -883,31 +894,31 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) | N/A | 18660 | 2019-10-09 | 2023-07-21 | 免费的终端工具，SSH、Telnet、TCP、Shell、串行，支持多平台 |
-| [withfig/autocomplete](https://github.com/withfig/autocomplete) | MIT | 23707 | 2020-09-29 | 2024-01-17 | 非常强大的终端命令参数自动补全工具 |
+| [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) | N/A | 18663 | 2019-10-09 | 2023-07-21 | 免费的终端工具，SSH、Telnet、TCP、Shell、串行，支持多平台 |
+| [withfig/autocomplete](https://github.com/withfig/autocomplete) | MIT | 23711 | 2020-09-29 | 2024-01-17 | 非常强大的终端命令参数自动补全工具 |
 | [aristocratos/btop](https://github.com/aristocratos/btop) | Apache-2.0 | 14705 | 2021-05-06 | 2024-01-17 | 系统资源监视器显示处理器、内存、磁盘、网络和进程的使用情况和统计​​信息 |
 | [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) | NOASSERTION | 210 | 2023-09-03 | 2023-10-05 | 一款用 C 语言编写的各语言换源的工具 |
-| [cli/cli](https://github.com/cli/cli) | MIT | 34289 | 2019-10-03 | 2024-01-17 | GitHub的 官方命令行交互工具 |
+| [cli/cli](https://github.com/cli/cli) | MIT | 34291 | 2019-10-03 | 2024-01-17 | GitHub的 官方命令行交互工具 |
 | [chenquan/diskusage](https://github.com/chenquan/diskusage) | Apache-2.0 | 244 | 2022-08-04 | 2024-01-15 | 💥 显示磁盘使用情况的工具（Linux、MacOS 和 Windows），是一个查找最大目录或文件的非常快速的工具 |
 | [muesli/duf](https://github.com/muesli/duf) | NOASSERTION | 11928 | 2020-09-20 | 2023-11-16 | 比 du 更好看的磁盘空间占用查看工具 |
 | [eryajf/eryajfctl](https://github.com/eryajf/eryajfctl) | MIT | 12 | 2023-06-04 | 2023-08-02 | 🚀 基于 Cobra 库快速打造类似 kubectl 一样的命令行工具箱 🧰 |
 | [antonmedv/fx](https://github.com/antonmedv/fx) | MIT | 17949 | 2018-01-25 | 2023-11-10 | go 语言编写的终端下的 json 浏览工具，比 jq 更强大 |
 | [heppu/gkill](https://github.com/heppu/gkill) | MIT | 312 | 2017-03-15 | 2017-04-11 | 运行 gkill 可搜索并选择要终止的进程 |
-| [orf/gping](https://github.com/orf/gping) | MIT | 9842 | 2015-10-17 | 2024-01-17 | 以图形化方式展示 ping 的延迟状态的命令行工具 |
-| [http-party/http-server](https://github.com/http-party/http-server) | MIT | 13111 | 2011-06-16 | 2023-11-23 | 一个简单的、零配置的命令行静态 HTTP 服务器 |
+| [orf/gping](https://github.com/orf/gping) | MIT | 9843 | 2015-10-17 | 2024-01-17 | 以图形化方式展示 ping 的延迟状态的命令行工具 |
+| [http-party/http-server](https://github.com/http-party/http-server) | MIT | 13112 | 2011-06-16 | 2023-11-23 | 一个简单的、零配置的命令行静态 HTTP 服务器 |
 | [davecheney/httpstat](https://github.com/davecheney/httpstat) | MIT | 6436 | 2016-09-23 | 2023-10-17 | 显示 HTTP 请求链路详情的工具，便于我们看到请求耗时在什么地方 |
-| [typicode/json-server](https://github.com/typicode/json-server) | NOASSERTION | 70073 | 2013-11-27 | 2024-01-14 | 一款能够直接将 json 内容转成 REST API 接口的工具，你可以在日常开发中，通过该工具快速进行调试 |
+| [typicode/json-server](https://github.com/typicode/json-server) | NOASSERTION | 70075 | 2013-11-27 | 2024-01-14 | 一款能够直接将 json 内容转成 REST API 接口的工具，你可以在日常开发中，通过该工具快速进行调试 |
 | [johnkerl/miller](https://github.com/johnkerl/miller) | NOASSERTION | 8375 | 2015-05-03 | 2024-01-17 | 类似于 awk、sed、cut、join 和 sort，用于 CSV、TSV 和表格 JSON 等名称索引数据 |
-| [voidcosmos/npkill](https://github.com/voidcosmos/npkill) | MIT | 7721 | 2019-06-30 | 2023-12-02 | 该工具可以列出系统中的任何 node_modules 目录，以及它们占用的空间。然后，您可以选择要清除哪些文件以释放空间 |
+| [voidcosmos/npkill](https://github.com/voidcosmos/npkill) | MIT | 7722 | 2019-06-30 | 2023-12-02 | 该工具可以列出系统中的任何 node_modules 目录，以及它们占用的空间。然后，您可以选择要清除哪些文件以释放空间 |
 | [weiwenhao/parker](https://github.com/weiwenhao/parker) | MIT | 76 | 2023-09-15 | 2023-09-25 | 一款基于 go 语言编写的轻量级打包工具，能够将可执行文件与其依赖的工作目录打包成一个可执行文件 |
 | [lenye/pmsg](https://github.com/lenye/pmsg) | Apache-2.0 | 29 | 2022-09-11 | 2024-01-16 | 发送消息的小工具：企业微信群机器人消息，钉钉自定义机器人消息，飞书自定义机器人消息，Slack bot，微信消息，微信客服消息，企业微信消息，企业微信客服消息 |
 | [pterm/pterm](https://github.com/pterm/pterm) | MIT | 4411 | 2020-09-17 | 2024-01-09 | 一个现代的 Go 模块，可以轻松美化控制台输出。具有图表、进度条、表格、树、文本输入、选择菜单等 |
-| [Eugeny/tabby](https://github.com/Eugeny/tabby) | MIT | 53273 | 2016-12-23 | 2024-01-13 | 一款开源的跨平台支持的终端程序，能够方便地管理主机连接 |
+| [Eugeny/tabby](https://github.com/Eugeny/tabby) | MIT | 53276 | 2016-12-23 | 2024-01-13 | 一款开源的跨平台支持的终端程序，能够方便地管理主机连接 |
 | [homeport/termshot](https://github.com/homeport/termshot) | MIT | 329 | 2020-11-10 | 2024-01-12 | 根据终端命令输出创建屏幕截图 |
 | [voidint/tsdump](https://github.com/voidint/tsdump) | Apache-2.0 | 114 | 2017-11-25 | 2023-06-15 | 支持将数据库(当前仅支持MySQL)及其表结构的元数据以text、markdown、json、csv、xlsx形式输出 |
 | [schachmat/wego](https://github.com/schachmat/wego) | ISC | 7603 | 2014-11-21 | 2023-12-11 | Golang 版本的终端天气工具 |
-| [chubin/wttr.in](https://github.com/chubin/wttr.in) | Apache-2.0 | 23025 | 2015-12-26 | 2024-01-05 | 执行 curl wttr.in 在终端中显示天气预报 |
-| [mikefarah/yq](https://github.com/mikefarah/yq) | MIT | 10095 | 2015-09-26 | 2024-01-12 | 款基于 go 语言编写类似 jq 的处理 yaml 文件的工具 |
+| [chubin/wttr.in](https://github.com/chubin/wttr.in) | Apache-2.0 | 23026 | 2015-12-26 | 2024-01-05 | 执行 curl wttr.in 在终端中显示天气预报 |
+| [mikefarah/yq](https://github.com/mikefarah/yq) | MIT | 10096 | 2015-09-26 | 2024-01-12 | 款基于 go 语言编写类似 jq 的处理 yaml 文件的工具 |
 | [zartbot/ztrace](https://github.com/zartbot/ztrace) | MIT | 79 | 2021-08-16 | 2022-07-31 | Golang 实现的一个 Traceroute 命令 |
 
 
@@ -919,7 +930,7 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [utmapp/utm](https://github.com/utmapp/utm) | Apache-2.0 | 22898 | 2019-04-12 | 2024-01-14 | 适用于 iOS 和 MacOS 的虚拟机工具 |
+| [utmapp/utm](https://github.com/utmapp/utm) | Apache-2.0 | 22902 | 2019-04-12 | 2024-01-14 | 适用于 iOS 和 MacOS 的虚拟机工具 |
 
 
 ## 运维管理平台
@@ -930,16 +941,16 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) | GPL-3.0 | 14866 | 2022-07-19 | 2024-01-17 | 现代化、开源的 Linux 服务器运维管理面板 |
+| [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) | GPL-3.0 | 14867 | 2022-07-19 | 2024-01-17 | 现代化、开源的 Linux 服务器运维管理面板 |
 | [TeaOSLab/EdgeAdmin](https://github.com/TeaOSLab/EdgeAdmin) | BSD-3-Clause | 868 | 2020-06-27 | 2024-01-16 | CDN &amp; WAF集群管理系统 |
 | [welliamcao/OpsManage](https://github.com/welliamcao/OpsManage) | GPL-2.0 | 3183 | 2017-04-30 | 2024-01-13 | 代码部署、应用部署、计划任务、设备资产管理平台 |
 | [alibaba/SREWorks](https://github.com/alibaba/SREWorks) | Apache-2.0 | 1641 | 2022-03-16 | 2023-10-16 | 阿里巴巴大数据 SRE 团队开源的一个运维 SaaS 应用，特点有云原生，数智华 |
 | [idcos/cloudiac](https://github.com/idcos/cloudiac) | Apache-2.0 | 107 | 2021-08-04 | 2024-01-16 | 基于基础设施即代码构建的云环境自动化管理平台 |
-| [data-observe/datav](https://github.com/data-observe/datav) | Apache-2.0 | 3459 | 2017-09-28 | 2024-01-17 | 一个现代化的数据可视化平台，构建于 2023 年，可以对 Metrics, Traces 和 Logs 数据进行深度可视化和交互操作 |
+| [data-observe/datav](https://github.com/data-observe/datav) | Apache-2.0 | 3461 | 2017-09-28 | 2024-01-17 | 一个现代化的数据可视化平台，构建于 2023 年，可以对 Metrics, Traces 和 Logs 数据进行深度可视化和交互操作 |
 | [512team/dhorse](https://github.com/512team/dhorse) | Apache-2.0 | 342 | 2022-10-16 | 2024-01-03 | 一个轻量级、简单易用的云应用管理平台，具有多云和多环境管理、应用管理和部署、服务治理等功能 |
 | [mouday/domain-admin](https://github.com/mouday/domain-admin) | MIT | 1170 | 2022-09-23 | 2024-01-05 | 基于Python &#43; Vue3.js 技术栈实现的域名和SSL证书监测平台 |
 | [rock-app/fabu.love](https://github.com/rock-app/fabu.love) | Apache-2.0 | 990 | 2018-06-13 | 2023-10-11 | 应用发布平台类似 fir.im/蒲公英,支持检查更新,灰度发布等 |
-| [harness/gitness](https://github.com/harness/gitness) | Apache-2.0 | 31016 | 2014-02-07 | 2024-01-17 | Gitness 是一个开发者用的开源平台，具备源代码控制管理、持续集成和持续交付等功能。 |
+| [harness/gitness](https://github.com/harness/gitness) | Apache-2.0 | 31017 | 2014-02-07 | 2024-01-17 | Gitness 是一个开发者用的开源平台，具备源代码控制管理、持续集成和持续交付等功能。 |
 | [dromara/mayfly-go](https://github.com/dromara/mayfly-go) | Apache-2.0 | 1451 | 2021-04-16 | 2024-01-17 | web 版 Linux(终端,文件脚本,进程,计划任务)、数据库（MySQL,Postgres,达梦）、Redis(单机,哨兵,集群)、MongoDB 统一管理操作平台 |
 | [CloudWise-OpenSource/omp](https://github.com/CloudWise-OpenSource/omp) | GPL-3.0 | 234 | 2021-11-30 | 2023-09-28 | 轻量级、聚合型、智能运维管理平台 |
 | [ssbeatty/oms](https://github.com/ssbeatty/oms) | AGPL-3.0 | 142 | 2020-08-20 | 2023-12-20 | 一个 Golang 开发的简单易用的运维管理平台，实现了资产管理、文件浏览器、批量命令、批量上传文件、VNC 连接和基于自建脚本并行执行的能力 |
@@ -961,5 +972,5 @@
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [ansible/ansible](https://github.com/ansible/ansible) | GPL-3.0 | 59913 | 2012-03-06 | 2024-01-17 | 一个极其简单的 IT 自动化平台，使您的应用程序和系统更易于部署和维护，基于 ssh，无需客户端 |
-| [hashicorp/terraform](https://github.com/hashicorp/terraform) | NOASSERTION | 40085 | 2014-03-13 | 2024-01-17 | Terraform 让您能够安全且可预测地创建、更改和改进基础设施。 |
+| [ansible/ansible](https://github.com/ansible/ansible) | GPL-3.0 | 59915 | 2012-03-06 | 2024-01-17 | 一个极其简单的 IT 自动化平台，使您的应用程序和系统更易于部署和维护，基于 ssh，无需客户端 |
+| [hashicorp/terraform](https://github.com/hashicorp/terraform) | NOASSERTION | 40086 | 2014-03-13 | 2024-01-17 | Terraform 让您能够安全且可预测地创建、更改和改进基础设施。 |
