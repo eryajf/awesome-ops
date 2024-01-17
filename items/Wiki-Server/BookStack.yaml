@@ -1,0 +1,5 @@
+kind: Wiki-Server
+owner: BookStackApp
+repo: BookStack
+desc: '使用 PHP 和 Laravel 构建的创建文档/wiki 内容的平台'
+desc_en: 'A platform to create documentation/wiki content built with PHP & Laravel'

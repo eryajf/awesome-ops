@@ -1,0 +1,5 @@
+kind: DNS
+owner: DNSPod
+repo: dnspod-sr
+desc: '一个运行在 Linux 平台上的高性能的递归 DNS 服务器软件，具备高性能、高负载、易扩展的优势，非 BIND 等软件可以比拟。'
+desc_en: 'A high-performance recursive DNS server software running on the Linux platform, with the advantages of high performance, high load, and easy expansion, which can be compared with non-BIND software.'

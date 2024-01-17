@@ -1,0 +1,5 @@
+kind: Gateway
+owner: alibaba
+repo: higress
+desc: 'Higress 实现了安全防护网关、流量网关、微服务网关三层网关合一，可以显著降低网关的部署和运维成本。'
+desc_en: 'Higress implements three-layer gateways, including security protection gateway, traffic gateway and microservice gateway, which can significantly reduce the deployment and operation and maintenance costs of gateways.'

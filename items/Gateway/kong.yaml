@@ -1,0 +1,5 @@
+kind: Gateway
+owner: Kong
+repo: kong
+desc: '一个云原生、与平台无关、可扩展的 API 网关，以其高性能和通过插件的可扩展性而闻名。'
+desc_en: 'A cloud-native, platform-agnostic, scalable API Gateway distinguished for its high performance and extensibility via plugins.'
