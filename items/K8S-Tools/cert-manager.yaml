@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: cert-manager
+repo: cert-manager
+desc: '在 Kubernetes 中自动配置和管理 TLS 证书'
+desc_en: 'Automatically provision and manage TLS certificates in Kubernetes'

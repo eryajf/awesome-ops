@@ -1,0 +1,5 @@
+kind: 机器镜像
+owner: GoogleContainerTools
+repo: kaniko
+desc: '在 Kubernetes 中构建容器镜像'
+desc_en: 'Build Container Images In Kubernetes'
