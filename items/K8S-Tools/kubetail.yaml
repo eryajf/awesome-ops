@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: johanhaleby
+repo: kubetail
+desc: '可以同时监控 Kubernetes 多个 pods 日志的 Bash 脚本。'
+desc_en: 'Bash script to tail Kubernetes logs from multiple pods at the same time'

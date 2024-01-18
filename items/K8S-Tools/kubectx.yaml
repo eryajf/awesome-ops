@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: ahmetb
+repo: kubectx
+desc: '在 kubectl 中更快速地切换不同集群和命名空间的方法'
+desc_en: 'Faster way to switch between clusters and namespaces in kubectl'

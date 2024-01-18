@@ -1,0 +1,5 @@
+kind: CICD
+owner: kbst
+repo: terraform-kubestack
+desc: 'Kubestack 是一个面向 Kubernetes 平台工程团队的框架，它允许在一个 Terraform 代码库中定义完整的云原生技术栈，并通过 GitOps 实现平台的安全持续发展。'
+desc_en: 'Kubestack is a framework for Kubernetes platform engineering teams to define the entire cloud native stack in one Terraform code base and continuously evolve the platform safely through GitOps.'
