@@ -1,0 +1,5 @@
+kind: 消息队列
+owner: apache
+repo: pulsar
+desc: 'Pulsar 是一个分布式 pub-sub 消息传递平台，具有非常灵活的消息传递模型和直观的客户端 API。'
+desc_en: 'Pulsar is a distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API.'

@@ -1,0 +1,5 @@
+kind: Kafka-Manage
+owner: xxd763795151
+repo: kafka-console-ui
+desc: ' 一款轻量级的 kafka 可视化管理平台，安装配置快捷、简单易用。'
+desc_en: 'A lightweight kafka visual management platform, easy to install and configure.'

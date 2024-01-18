@@ -1,5 +1,5 @@
 kind: 性能分析
 owner: grafana
 repo: pyroscope
-desc: '性能分析平台，用于分析 CPU 利用率和内存泄漏等应用性能问题'
+desc: ' 性能分析平台，用于分析 CPU 利用率和内存泄漏等应用性能问题'
 desc_en: 'Continuous Profiling Platform! CPU, memory, latency, errors, and more.'
