@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: jrhouston
+repo: tfk8s
+desc: '一个用于将 Kubernetes 的 YAML 清单转换为 Terraform 的 HCL 的工具。'
+desc_en: 'A tool for converting Kubernetes YAML manifests to Terraform HCL'
