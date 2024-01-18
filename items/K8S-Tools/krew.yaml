@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: kubernetes-sigs
+repo: krew
+desc: '寻找并安装 kubectl 插件'
+desc_en: 'Find and install kubectl plugins'

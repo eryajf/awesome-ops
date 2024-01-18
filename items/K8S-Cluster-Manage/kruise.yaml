@@ -1,0 +1,5 @@
+kind: K8S-Cluster-Manage
+owner: openkruise
+repo: kruise
+desc: '在 Kubernetes 上自动管理大规模应用程序（属于 CNCF 的孵化项目）'
+desc_en: 'Automated management of large-scale applications on Kubernetes (incubating project under CNCF)'

@@ -1,0 +1,5 @@
+kind: CICD
+owner: box
+repo: kube-applier
+desc: 'kube-applier 能为您的 Kubernetes 集群提供自动化部署和声明式配置的功能。'
+desc_en: 'kube-applier enables automated deployment and declarative configuration for your Kubernetes cluster.'

@@ -1,0 +1,5 @@
+kind: CICD
+owner: argoproj
+repo: argo-cd
+desc: '针对 Kubernetes 的声明式持续部署'
+desc_en: 'Declarative Continuous Deployment for Kubernetes'
