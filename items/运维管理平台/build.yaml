@@ -1,0 +1,5 @@
+kind: 运维管理平台
+owner: TeaWeb
+repo: build
+desc: 'TeaWeb 是一款集静态资源、缓存、代理、统计、日志、安全、监控于一体的可视化智能 WebServer。'
+desc_en: 'TeaWeb is a visual intelligent WebServer that integrates static resources, caching, proxy, statistics, logs, security, and monitoring.'

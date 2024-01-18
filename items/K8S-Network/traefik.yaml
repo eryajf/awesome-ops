@@ -1,0 +1,5 @@
+kind: K8S-Network
+owner: traefik
+repo: traefik
+desc: '一种现代 HTTP 反向代理和负载均衡器，可以轻松部署微服务'
+desc_en: 'A modern HTTP reverse proxy and load balancer that makes it easy to deploy microservices'

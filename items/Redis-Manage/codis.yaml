@@ -1,0 +1,5 @@
+kind: Redis-Manage
+owner: CodisLabs
+repo: codis
+desc: '基于代理的 Redis 集群解决方案，支持管道和动态扩展。但已 6 年没有更新了'
+desc_en: 'Proxy-based Redis cluster solution, support pipeline and dynamic expansion. But it has not been updated for 6 years'

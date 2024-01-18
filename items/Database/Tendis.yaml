@@ -1,0 +1,5 @@
+kind: Database
+owner: Tencent
+repo: Tendis
+desc: 'Tendis 是一个完全兼容Redis协议的高性能分布式存储系统。'
+desc_en: 'Tendis is a high-performance distributed storage system fully compatible with the Redis protocol.'

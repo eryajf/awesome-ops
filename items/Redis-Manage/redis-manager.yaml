@@ -1,0 +1,5 @@
+kind: Redis-Manage
+owner: ngbdf
+repo: redis-manager
+desc: 'Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作'
+desc_en: 'Redis one-stop management platform, support cluster monitoring, installation, management, alarm and basic data operation'

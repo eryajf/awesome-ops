@@ -1,0 +1,5 @@
+kind: Redis-Manage
+owner: tair-opensource
+repo: RedisShake
+desc: 'RedisShake 是一个 Redis 数据处理和迁移工具。'
+desc_en: 'RedisShake is a Redis data processing and migration tool.'

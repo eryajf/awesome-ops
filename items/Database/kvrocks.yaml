@@ -1,0 +1,5 @@
+kind: Database
+owner: apache
+repo: kvrocks
+desc: '一个分布式键值 NoSQL 数据库，使用 RocksDB 作为存储引擎，兼容 Redis 协议。'
+desc_en: 'A distributed key-value NoSQL database, using RocksDB as the storage engine, compatible with the Redis protocol.'

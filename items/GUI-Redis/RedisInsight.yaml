@@ -1,0 +1,5 @@
+kind: GUI-Redis
+owner: RedisInsight
+repo: RedisInsight
+desc: 'Redis 官方开源的一个可视化工具，提供设计、开发和优化 Redis 应用程序的功能。查询、分析您的 Redis 数据并与之交互。'
+desc_en: 'An open source visualization tool officially released by Redis, which provides the functions of designing, developing and optimizing Redis applications. Query, analyze your Redis data and interact with it.'

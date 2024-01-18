@@ -1,0 +1,5 @@
+kind: Redis-Manage
+owner: sohutv
+repo: cachecloud
+desc: '支持 Redis 多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模 redis 运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能'
+desc_en: 'Support Redis multi-architecture (Standalone, Sentinel, Cluster) efficient management, effectively reduce the large-scale redis operation and maintenance costs, improve resource management capabilities and utilization. The platform provides fast build/migration, operation and maintenance management, elastic scaling, statistical monitoring, client integration access and other functions'
