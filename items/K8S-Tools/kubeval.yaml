@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: instrumenta
+repo: kubeval
+desc: '验证您的 Kubernetes 配置文件，支持多个不同版本的 Kubernetes'
+desc_en: 'Validate your Kubernetes configuration files, supports multiple Kubernetes versions'
