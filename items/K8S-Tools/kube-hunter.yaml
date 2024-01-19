@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: aquasecurity
+repo: kube-hunter
+desc: '在 Kubernetes 集群中追踪安全弱点'
+desc_en: 'Hunt for security weaknesses in Kubernetes clusters'

@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: telepresenceio
+repo: telepresence
+desc: '面向远程 Kubernetes 或 OpenShift 集群的本地开发工具'
+desc_en: 'Local development against a remote Kubernetes or OpenShift cluster'

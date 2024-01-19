@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: kubernetes
+repo: kompose
+desc: '将 Docker Compose 转换为 Kubernetes'
+desc_en: 'Convert Docker Compose to Kubernetes'
