@@ -1,5 +1,7 @@
 name: Yaml Lint
+
 on: [push, pull_request]
+
 jobs:
     yamllint:
         runs-on: ubuntu-latest
@@ -12,4 +14,4 @@ jobs:
             with:
               token: ${{ secrets.GH_TOKEN }}
               ## The target path is processed recursively
-              target-path: items/*/*.yaml
+              target-path: items

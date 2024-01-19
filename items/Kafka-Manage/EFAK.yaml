@@ -1,5 +1,5 @@
 kind: Kafka-Manage
-owner: obsidiandynamics
+owner: smartloli
 repo: EFAK
 desc: '一个开源的 Kafka 集群管理和监控工具，旨在帮助用户更好地管理和监控其 Kafka 集群。'
 desc_en: 'A easy and high-performance monitoring system, for comprehensive monitoring and management of kafka cluster.'
