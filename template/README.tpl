@@ -26,7 +26,7 @@
 
 📢 如果你打算应用在自己所在的生产环境，请结合项目的开源协议，Star数，最后更新时间等综合评估之后进行选型。
 
-🧐 分设类目 {{lenGroupNum}} 个。📥 收录项目 {{lenItemNum}} 个。
+🧐 分设类目 {{lenGroupNum}} 个。📥 收录项目 {{lenItemNum "eryajf" "awesome-ops"}} 个。
 
 {{- range $key, $val := .}}
 

@@ -26,7 +26,7 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 
 📢 If you plan to apply it in your production environment, please evaluate the selection based on the project's open source license, star count, last update time and other factors.
 
-🧐 Divided into {{lenGroupNum}} categories. 📥 Includes {{lenItemNum}} entries.
+🧐 Divided into {{lenGroupNum}} categories. 📥 Includes {{lenItemNum "eryajf" "awesome-ops"}} entries.
 
 {{- range $key, $val := .}}
 

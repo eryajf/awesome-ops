@@ -2,4 +2,4 @@ kind: Database
 owner: dragonflydb
 repo: dragonfly
 desc: 'Dragonfly是一种针对现代应用程序负荷需求而构建的内存数据库，完全兼容Redis和Memcached的 API，迁移时无需修改任何代码。相比于这些传统的内存数据库，Dragonfly提供了其25倍的吞吐量，高缓存命中率和低尾延迟，并且对于相同大小的工作负载运行资源最多可减少80%。'
-desc_en: 'Dragonfly is an in-memory database built for modern applications' load demands, fully compatible with Redis and Memcached APIs, and no code changes are required when migrating. Compared to these traditional in-memory databases, Dragonfly offers 25 times the throughput, high cache hit rates and low tail latency, and can reduce resources for the same size workload by up to 80%.'
+desc_en: 'Dragonfly is an in-memory database built for modern applications load demands, fully compatible with Redis and Memcached APIs, and no code changes are required when migrating. Compared to these traditional in-memory databases, Dragonfly offers 25 times the throughput, high cache hit rates and low tail latency, and can reduce resources for the same size workload by up to 80%.'
