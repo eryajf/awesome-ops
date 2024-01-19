@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: kubernetes-sigs
+repo: kubespray
+desc: '部署一个生产環境的 Kubernetes 集群'
+desc_en: 'Deploy a Production Ready Kubernetes Cluster'

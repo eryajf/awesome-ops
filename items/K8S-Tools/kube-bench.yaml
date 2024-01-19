@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: aquasecurity
+repo: kube-bench
+desc: '检查 Kubernetes 是否根据 CIS Kubernetes Benchmark 定义的安全最佳实践进行部署'
+desc_en: 'Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark'

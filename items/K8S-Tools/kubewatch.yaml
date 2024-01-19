@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: robusta-dev
+repo: kubewatch
+desc: '监控 k8s 事件并触发相应的处理器'
+desc_en: 'Watch k8s events and trigger Handlers'
