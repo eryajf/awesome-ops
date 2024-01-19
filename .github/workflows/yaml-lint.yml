@@ -1,5 +1,9 @@
 name: Yaml Lint
-on: [pull_request]
+
+on:
+  push:
+  pull_request:
+
 jobs:
     yamllint:
         runs-on: ubuntu-latest
