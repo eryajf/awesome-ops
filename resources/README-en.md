@@ -66,9 +66,9 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [TencentBlueKing/bk-cmdb](https://github.com/TencentBlueKing/bk-cmdb) | NOASSERTION | 5238 | 2016-12-12 | 2024-01-19 | Tencent BlueKing Configuration Platform is an enterprise-level configuration management platform for assets and applications |
-| [veops/cmdb](https://github.com/veops/cmdb) | AGPL-3.0 | 1089 | 2015-12-29 | 2024-01-13 | Simple, lightweight, and universal operation and maintenance configuration management database |
+| [veops/cmdb](https://github.com/veops/cmdb) | AGPL-3.0 | 1090 | 2015-12-29 | 2024-01-13 | Simple, lightweight, and universal operation and maintenance configuration management database |
 | [opendevops-cn/opendevops](https://github.com/opendevops-cn/opendevops) | GPL-3.0 | 3556 | 2018-11-15 | 2023-03-06 | One-stop DevOps, automation operation and maintenance, fully open source cloud management platform, automation operation and maintenance platform |
-| [WeBankPartners/we-cmdb](https://github.com/WeBankPartners/we-cmdb) | Apache-2.0 | 724 | 2019-08-15 | 2024-01-11 | WeBank Configuration Management Database System |
+| [WeBankPartners/we-cmdb](https://github.com/WeBankPartners/we-cmdb) | Apache-2.0 | 725 | 2019-08-15 | 2024-01-11 | WeBank Configuration Management Database System |
 
 
 ## ClickHouse
@@ -159,9 +159,9 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [cosmtrek/air](https://github.com/cosmtrek/air) | GPL-3.0 | 13594 | 2017-10-12 | 2024-01-13 | ☁️ A hot-reloading CLI tool designed for Go applications development |
+| [cosmtrek/air](https://github.com/cosmtrek/air) | GPL-3.0 | 13595 | 2017-10-12 | 2024-01-13 | ☁️ A hot-reloading CLI tool designed for Go applications development |
 | [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) | MIT | 6902 | 2014-12-25 | 2024-01-05 | A tool that can convert curl commands into requests in various languages |
-| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | GPL-3.0 | 13892 | 2018-05-04 | 2024-01-18 | Fast linters runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config. Highly customizable. Many linters. Fewer mistakes. CI-integrated. Used by Uber, The New York Times, GitLab, HashiCorp, OpenShift and others. |
+| [golangci/golangci-lint](https://github.com/golangci/golangci-lint) | GPL-3.0 | 13892 | 2018-05-04 | 2024-01-19 | Fast linters runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config. Highly customizable. Many linters. Fewer mistakes. CI-integrated. Used by Uber, The New York Times, GitLab, HashiCorp, OpenShift and others. |
 | [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | GPL-3.0 | 26992 | 2022-01-30 | 2024-01-15 | A tool that converts various data formats such as JSON, YAML, XML, CSV, etc. into interactive charts |
 | [massCodeIO/massCode](https://github.com/massCodeIO/massCode) | AGPL-3.0 | 5256 | 2022-03-29 | 2023-12-31 | An open source local code snippet management tool |
 | [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) | BSD-3-Clause | 44267 | 2018-06-25 | 2023-11-29 | A simple zero-config tool to make locally trusted development certificates with any names you d like |
@@ -359,7 +359,7 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 | [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi) | GPL-3.0 | 2334 | 2021-05-20 | 2024-01-19 | Support importing multiple K8s clusters, through permission control, assign permissions of different cluster and namespace to specified users |
 | [yunionio/cloudpods](https://github.com/yunionio/cloudpods) | Apache-2.0 | 2194 | 2018-07-27 | 2024-01-19 | Open source, cloud-native multi-cloud and hybrid cloud fusion platform |
 | [gotomicro/k8z](https://github.com/gotomicro/k8z) | N/A | 85 | 2023-01-10 | 2023-02-16 | Provides management capabilities for k8s cluster resources, and also integrates packet capture, debug and other functions |
-| [derailed/k9s](https://github.com/derailed/k9s) | Apache-2.0 | 23590 | 2019-01-25 | 2024-01-19 | Kubernetes CLI To Manage Your Clusters In Style! |
+| [derailed/k9s](https://github.com/derailed/k9s) | Apache-2.0 | 23591 | 2019-01-25 | 2024-01-19 | Kubernetes CLI To Manage Your Clusters In Style! |
 | [openkruise/kruise](https://github.com/openkruise/kruise) | NOASSERTION | 4243 | 2019-05-30 | 2024-01-16 | Automated management of large-scale applications on Kubernetes (incubating project under CNCF) |
 | [kubegems/kubegems](https://github.com/kubegems/kubegems) | Apache-2.0 | 385 | 2022-01-20 | 2024-01-02 | A general-purpose open source PaaS cloud management platform built around K8s through self-research and integration of cloud-native projects, supporting multi-cluster multi-tenant |
 | [noovertime7/kubemanage](https://github.com/noovertime7/kubemanage) | MIT | 127 | 2022-07-24 | 2023-11-23 | A simple and easy-to-use K8s management platform, the front end uses Vue3, the back end uses Gin&#43;Gorm, and multi-cluster access will be supported in the future |
@@ -463,7 +463,7 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 | [prymitive/karma](https://github.com/prymitive/karma) | Apache-2.0 | 2133 | 2018-09-09 | 2024-01-17 | A panel that displays AlertManager alarm information, which can be used for screen projection |
 | [ccfos/nightingale](https://github.com/ccfos/nightingale) | Apache-2.0 | 8284 | 2020-03-03 | 2024-01-19 | All-in-One cloud native monitoring tool, which combines the advantages of Prometheus and Grafana. You can manage and configure alarm strategies on the WebUI, and you can also visualize and analyze metrics, logs, and link tracking data distributed in multiple regions |
 | [SigNoz/signoz](https://github.com/SigNoz/signoz) | NOASSERTION | 15985 | 2021-01-03 | 2024-01-19 | SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. Open source Application Performance Monitoring (APM) &amp; Observability tool |
-| [mikecao/umami](https://github.com/mikecao/umami) | MIT | 18264 | 2020-07-17 | 2024-01-19 | Easy to build and configure, elegant and beautiful site access statistics tool |
+| [mikecao/umami](https://github.com/mikecao/umami) | MIT | 18265 | 2020-07-17 | 2024-01-19 | Easy to build and configure, elegant and beautiful site access statistics tool |
 | [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) | Apache-2.0 | 4817 | 2018-07-04 | 2024-01-09 | Lightweight front-end performance monitoring system, also a buried point system, private deployment, easy to use |
 
 
@@ -477,7 +477,7 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [dromara/MaxKey](https://github.com/dromara/MaxKey) | Apache-2.0 | 1068 | 2016-11-16 | 2024-01-10 | The industry-leading IAM-IDaas identity management and authentication product supports standard protocols such as OAuth 2.x/OpenID Connect, SAML 2.0, JWT, CAS, SCIM, etc., providing secure, standard and open user identity management (IDM), identity authentication (AM), Single sign-on (SSO), RBAC permission management and resource management, etc. |
 | [logto-io/logto](https://github.com/logto-io/logto) | MPL-2.0 | 6749 | 2021-06-19 | 2024-01-19 | An Auth0 alternative designed for modern applications and SaaS products. It provides a seamless developer experience and is great for individuals and growing companies |
-| [zitadel/zitadel](https://github.com/zitadel/zitadel) | Apache-2.0 | 5973 | 2020-03-16 | 2024-01-19 | Enterprise-level unified identity authentication management system |
+| [zitadel/zitadel](https://github.com/zitadel/zitadel) | Apache-2.0 | 5974 | 2020-03-16 | 2024-01-19 | Enterprise-level unified identity authentication management system |
 
 
 ## OpenLDAP
@@ -585,7 +585,7 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | MIT | 41266 | 2018-04-23 | 2024-01-18 | ⚡ Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine written in Rust 🔍 |
 | [openobserve/openobserve](https://github.com/openobserve/openobserve) | AGPL-3.0 | 7934 | 2023-02-02 | 2024-01-19 | A cloud-native observability platform, built for logs, metrics, traces, analytics, and RUM (Real User Monitoring - performance, errors, session replay), designed for PB scale workloads |
-| [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) | NOASSERTION | 15954 | 2021-12-02 | 2024-01-14 | A search engine for full-text indexing. It is a lightweight alternative to Elasticsearch and uses only a small fraction of resources at runtime. It uses blue as the underlying index library |
+| [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) | NOASSERTION | 15955 | 2021-12-02 | 2024-01-14 | A search engine for full-text indexing. It is a lightweight alternative to Elasticsearch and uses only a small fraction of resources at runtime. It uses blue as the underlying index library |
 
 
 ## Shell-Scripts
@@ -651,7 +651,7 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 | [voidint/g](https://github.com/voidint/g) | MIT | 1457 | 2019-04-25 | 2023-12-27 | Another one for managing and switching multiple Golang versions |
 | [moovweb/gvm](https://github.com/moovweb/gvm) | MIT | 9230 | 2011-12-03 | 2023-11-11 | A simple tool for managing and switching multiple Golang versions |
 | [jenv/jenv](https://github.com/jenv/jenv) | MIT | 5318 | 2013-01-24 | 2023-11-07 | A simple tool for managing and switching multiple JDK versions |
-| [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) | MIT | 32823 | 2014-09-20 | 2024-01-18 | For managing and switching multiple Node versions in Windows system |
+| [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) | MIT | 32824 | 2014-09-20 | 2024-01-18 | For managing and switching multiple Node versions in Windows system |
 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | MIT | 73141 | 2010-04-15 | 2024-01-19 | A simple tool for managing and switching multiple Node versions |
 | [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) | Apache-2.0 | 5704 | 2012-08-27 | 2024-01-11 | A tool for managing multiple software development kits of multiple versions on any Unix based system |
 | [stefanmaric/g](https://github.com/stefanmaric/g) | MIT | 849 | 2018-04-08 | 2023-07-10 | Another tool for managing and switching multiple Golang versions, package based on binary installation |
@@ -668,9 +668,9 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) | MIT | 13114 | 2015-08-29 | 2024-01-19 | A platform to create documentation/wiki content built with PHP &amp; Laravel |
 | [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) | GPL-3.0 | 2701 | 2020-04-10 | 2024-01-17 | online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes.  |
-| [facebook/docusaurus](https://github.com/facebook/docusaurus) | MIT | 50815 | 2017-06-20 | 2024-01-19 | A project for easily building, deploying, and maintaining open source project websites |
+| [facebook/docusaurus](https://github.com/facebook/docusaurus) | MIT | 50816 | 2017-06-20 | 2024-01-19 | A project for easily building, deploying, and maintaining open source project websites |
 | [halo-dev/halo](https://github.com/halo-dev/halo) | GPL-3.0 | 30277 | 2018-03-21 | 2024-01-19 | Powerful and easy-to-use open source website building tools, more biased towards blog style |
-| [usememos/memos](https://github.com/usememos/memos) | MIT | 22361 | 2021-12-08 | 2024-01-19 | A privacy-first, lightweight note service, easily capture and share your wonderful ideas, [flomo](https://flomoapp.com/) open source alternative |
+| [usememos/memos](https://github.com/usememos/memos) | MIT | 22362 | 2021-12-08 | 2024-01-19 | A privacy-first, lightweight note service, easily capture and share your wonderful ideas, [flomo](https://flomoapp.com/) open source alternative |
 | [fantasticit/think](https://github.com/fantasticit/think) | MIT | 1759 | 2022-02-20 | 2023-09-07 | An open source knowledge management tool, through an independent knowledge base space, structurally organize online collaborative documents, realize the accumulation and precipitation of knowledge, and promote the reuse and circulation of knowledge |
 | [mylxsw/wizard](https://github.com/mylxsw/wizard) | Apache-2.0 | 2115 | 2017-07-27 | 2023-03-22 | An open source document management tool that supports Markdown/Swagger/Table types of documents |
 
@@ -750,7 +750,7 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [ZFSNYJ/VFD](https://github.com/ZFSNYJ/VFD) | LGPL-3.0 | 516 | 2019-08-23 | 2022-12-14 | A online flowchart drawing tool based on Vue |
+| [ZFSNYJ/VFD](https://github.com/ZFSNYJ/VFD) | LGPL-3.0 | 517 | 2019-08-23 | 2022-12-14 | A online flowchart drawing tool based on Vue |
 | [wansenai/flow](https://github.com/wansenai/flow) | Apache-2.0 | 658 | 2021-05-27 | 2023-12-27 | Out-of-the-box process engine integrated solution |
 
 
@@ -827,7 +827,7 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 | [brokercap/Bifrost](https://github.com/brokercap/Bifrost) | Apache-2.0 | 1764 | 2018-04-12 | 2023-12-31 | MySQL,MariaDB,kafka synchronization to Redis,MongoDB,ClickHouse,StarRocks,Doris,Kafka and other services |
 | [go-mysql-org/go-mysql-elasticsearch](https://github.com/go-mysql-org/go-mysql-elasticsearch) | MIT | 4040 | 2015-01-15 | 2023-10-22 | A tool that automatically synchronizes MySQL data to ES. It first uses mysqldump to get the original data, and then uses binlog to incrementally synchronize the data |
 | [alibaba/ilogtail](https://github.com/alibaba/ilogtail) | Apache-2.0 | 1438 | 2021-11-08 | 2024-01-19 | Lightweight, high-performance, automatically configured telemetry data (logs, traces, metrics) collection tool |
-| [vectordotdev/vector](https://github.com/vectordotdev/vector) | MPL-2.0 | 15297 | 2018-08-27 | 2024-01-19 | A high-performance, high-reliability, observable data pipeline, much more powerful than Logstash |
+| [vectordotdev/vector](https://github.com/vectordotdev/vector) | MPL-2.0 | 15298 | 2018-08-27 | 2024-01-19 | A high-performance, high-reliability, observable data pipeline, much more powerful than Logstash |
 
 
 ## 文件管理系统
@@ -859,7 +859,7 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 | [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) | MIT | 2367 | 2022-05-07 | 2023-12-28 | Organize and record the good mirrors of various package managers, system images, and commonly used software |
 | [doocs/advanced-java](https://github.com/doocs/advanced-java) | CC-BY-SA-4.0 | 73081 | 2018-10-06 | 2024-01-11 | A complete introduction to Java engineers advanced knowledge of the Internet: covering high-concurrency, distributed, high-availability, microservices, massive data processing and other fields of knowledge |
 | [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) | N/A | 8254 | 2019-12-23 | 2023-11-19 | Discuss how to build a reliable large-scale distributed system |
-| [xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily) | N/A | 4711 | 2021-01-06 | 2023-12-23 | A collection of super Golang interview questions &#43; Golang learning guides &#43; Golang knowledge map &#43; entry growth route |
+| [xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily) | N/A | 4712 | 2021-01-06 | 2023-12-23 | A collection of super Golang interview questions &#43; Golang learning guides &#43; Golang knowledge map &#43; entry growth route |
 | [lifei6671/interview-go](https://github.com/lifei6671/interview-go) | Apache-2.0 | 4614 | 2018-02-26 | 2023-10-16 | Golang common interview questions collection |
 | [chaseSpace/k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) | NOASSERTION | 772 | 2023-10-26 | 2024-01-19 | Chinese k8s tutorial, suitable for beginners to read |
 | [caicloud/kube-ladder](https://github.com/caicloud/kube-ladder) | N/A | 2413 | 2019-07-15 | 2022-11-28 | The document aims to provide a Kubernetes learning path for practitioners and provide some guidance |
@@ -946,14 +946,14 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) | N/A | 18738 | 2019-10-09 | 2023-07-21 | Free terminal tool, SSH, Telnet, TCP, Shell, serial, support multi-platform |
-| [withfig/autocomplete](https://github.com/withfig/autocomplete) | MIT | 23723 | 2020-09-29 | 2024-01-19 | A very powerful terminal command parameter auto-completion tool |
+| [withfig/autocomplete](https://github.com/withfig/autocomplete) | MIT | 23722 | 2020-09-29 | 2024-01-19 | A very powerful terminal command parameter auto-completion tool |
 | [aristocratos/btop](https://github.com/aristocratos/btop) | Apache-2.0 | 14719 | 2021-05-06 | 2024-01-19 | A monitor of resources displaying usage and stats for processor, memory, disks, network and processes |
 | [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) | NOASSERTION | 210 | 2023-09-03 | 2024-01-19 | A tool for changing sources of various languages written in C |
-| [cli/cli](https://github.com/cli/cli) | MIT | 34318 | 2019-10-03 | 2024-01-19 | GitHub&#39;s official command line interaction tool |
+| [cli/cli](https://github.com/cli/cli) | MIT | 34319 | 2019-10-03 | 2024-01-19 | GitHub&#39;s official command line interaction tool |
 | [chenquan/diskusage](https://github.com/chenquan/diskusage) | Apache-2.0 | 245 | 2022-08-04 | 2024-01-15 | 💥 A tool for displaying disk usage (Linux, MacOS and Windows), which is a very fast tool for finding the largest directory or file |
 | [muesli/duf](https://github.com/muesli/duf) | NOASSERTION | 11936 | 2020-09-20 | 2023-11-16 | A better df alternative |
 | [eryajf/eryajfctl](https://github.com/eryajf/eryajfctl) | MIT | 12 | 2023-06-04 | 2023-08-02 | 🚀 Quickly build a command line toolbox like kubectl based on the Cobra library 🧰 |
-| [antonmedv/fx](https://github.com/antonmedv/fx) | MIT | 17958 | 2018-01-25 | 2023-11-10 | Terminal JSON viewer &amp; processor |
+| [antonmedv/fx](https://github.com/antonmedv/fx) | MIT | 17959 | 2018-01-25 | 2023-11-10 | Terminal JSON viewer &amp; processor |
 | [heppu/gkill](https://github.com/heppu/gkill) | MIT | 312 | 2017-03-15 | 2017-04-11 | Run gkill to search and select the process to terminate |
 | [orf/gping](https://github.com/orf/gping) | MIT | 9848 | 2015-10-17 | 2024-01-17 | Command line tool that pings and graphs |
 | [http-party/http-server](https://github.com/http-party/http-server) | MIT | 13120 | 2011-06-16 | 2023-11-23 | A simple, zero-config command-line static HTTP server |
@@ -992,7 +992,7 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) | GPL-3.0 | 14909 | 2022-07-19 | 2024-01-19 | Modern, open source Linux server operation and maintenance management panel |
+| [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) | GPL-3.0 | 14910 | 2022-07-19 | 2024-01-19 | Modern, open source Linux server operation and maintenance management panel |
 | [TeaOSLab/EdgeAdmin](https://github.com/TeaOSLab/EdgeAdmin) | BSD-3-Clause | 870 | 2020-06-27 | 2024-01-16 | CDN &amp; WAF cluster management system |
 | [welliamcao/OpsManage](https://github.com/welliamcao/OpsManage) | GPL-2.0 | 3186 | 2017-04-30 | 2024-01-13 | Code deployment, application deployment, scheduled tasks, equipment asset management platform |
 | [alibaba/SREWorks](https://github.com/alibaba/SREWorks) | Apache-2.0 | 1642 | 2022-03-16 | 2023-10-16 | An operation and maintenance SaaS application open sourced by Alibaba Big Data SRE team, with the characteristics of cloud native, data intelligence |
@@ -1002,7 +1002,7 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 | [512team/dhorse](https://github.com/512team/dhorse) | Apache-2.0 | 342 | 2022-10-16 | 2024-01-03 | A lightweight, easy-to-use cloud application management platform with functions such as multi-cloud and multi-environment management, application management and deployment, and service governance |
 | [mouday/domain-admin](https://github.com/mouday/domain-admin) | MIT | 1169 | 2022-09-23 | 2024-01-19 | Domain and SSL certificate monitoring platform based on Python &#43; Vue3.js technology stack |
 | [rock-app/fabu.love](https://github.com/rock-app/fabu.love) | Apache-2.0 | 990 | 2018-06-13 | 2023-10-11 | Application release platform similar to fir.im/pugongying, support check update, gray release, etc. |
-| [harness/gitness](https://github.com/harness/gitness) | Apache-2.0 | 31036 | 2014-02-07 | 2024-01-19 | Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. |
+| [harness/gitness](https://github.com/harness/gitness) | Apache-2.0 | 31037 | 2014-02-07 | 2024-01-19 | Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. |
 | [dromara/mayfly-go](https://github.com/dromara/mayfly-go) | Apache-2.0 | 1460 | 2021-04-16 | 2024-01-19 | Web version Linux (terminal, file script, process, scheduled task), database (MySQL, Postgres, Daming), Redis (single machine, sentinel, cluster), MongoDB unified management operation platform |
 | [CloudWise-OpenSource/omp](https://github.com/CloudWise-OpenSource/omp) | GPL-3.0 | 234 | 2021-11-30 | 2023-09-28 | Lightweight, aggregated, intelligent operation and maintenance management platform |
 | [ssbeatty/oms](https://github.com/ssbeatty/oms) | AGPL-3.0 | 142 | 2020-08-20 | 2023-12-20 | A simple and easy-to-use operation and maintenance management platform developed by Golang, which implements asset management, file browser, batch command, batch upload file, VNC connection and the ability to execute in parallel based on self-built scripts |
