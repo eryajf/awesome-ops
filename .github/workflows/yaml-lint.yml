@@ -1,15 +1,24 @@
-name: Yaml Lint
+name: yaml-validate
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
 
-on: [push, pull_request]
+permissions:
+  contents: read
+  pull-requests: write # enable write permissions for pull request comments
 
 jobs:
-    yamllint:
-        runs-on: ubuntu-latest
-        steps:
-          - name: Checkout
-            uses: actions/checkout@v4.1.0
+  json-yaml-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
 
-          - name: Run yamllint
-            uses: ansible-actions/yamllint-action@v0.0.1
-            with:
-              target: "items"
+      - name: json-yaml-validate
+        id: json-yaml-validate
+        uses: GrantBirki/json-yaml-validate@v2.6.0 # replace with the latest version
+        with:
+          comment: "true" # enable comment mode
+          base_dir: "items"
