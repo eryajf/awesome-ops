@@ -1,0 +1,5 @@
+kind: 运维自动化
+owner: puppetlabs
+repo: puppet
+desc: '服务器自动化框架和应用程序'
+desc_en: 'Server automation framework and application'
