@@ -1,0 +1,5 @@
+kind: CICD
+owner: dagger
+repo: dagger
+desc: '代码形式的应用交付，可在任何地方运行'
+desc_en: 'Application Delivery as Code that Runs Anywhere'

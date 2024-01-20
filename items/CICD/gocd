@@ -1,0 +1,5 @@
+kind: CICD
+owner: gocd
+repo: gocd
+desc: 'GoCD 主要仓库 - 持续交付服务器'
+desc_en: 'Main repository for GoCD - Continuous Delivery server'
