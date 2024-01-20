@@ -3,6 +3,7 @@ English | [简体中文](../README.md)
 <div align="center">
 <h1>Awesome Ops</h1>
 
+<p>🧐 Divided into {{lenGroupNum}} categories. 📥 Includes {{lenItemNum}} entries.</p>
 <p>🧰 Record every excellent project related to operation and maintenance, The table in the project is automatically generated through GitHub Action. 🧰</p>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -20,13 +21,11 @@ The field of operations and maintenance is vast, with many pioneers in each spec
 
 Whether you are in the field of operations and maintenance or any other technical field, this carefully curated and categorized collection of projects will be your treasure trove.
 
-We warmly welcome friends to share their own projects or recommend excellent projects. Before contributing, please read the [PR Contribution Guidelines](CONTRIBUTING-en.md).
-
 Special welcome to all friends to surf, learn, reference in the project list. When someone's project is helpful to you, please remember to give the project a star ⭐️. By the way, give this project a star ⭐️.
 
-📢 If you plan to apply it in your production environment, please evaluate the selection based on the project's open source license, star count, last update time and other factors.
+We warmly welcome friends to share their own projects or recommend excellent projects. Before contributing, please read the [PR Contribution Guidelines](CONTRIBUTING-en.md).
 
-🧐 Divided into {{lenGroupNum}} categories. 📥 Includes {{lenItemNum "eryajf" "awesome-ops"}} entries.
+📢 If you plan to apply it in your production environment, please evaluate the selection based on the project's open source license, star count, last update time and other factors.
 
 {{- range $key, $val := .}}
 
@@ -42,3 +41,5 @@ Special welcome to all friends to surf, learn, reference in the project list. Wh
 | [{{$item.owner}}/{{$item.repo}}](https://github.com/{{$item.owner}}/{{$item.repo}}) | {{ghLicense $item.owner $item.repo}} | {{ghStar $item.owner $item.repo}} | {{ghCreate $item.owner $item.repo}} | {{ghUpdate $item.owner $item.repo}} | {{$item.desc_en}} |
 {{- end}}
 {{end}}
+
+{{updateDesc "eryajf" "awesome-ops"}}
