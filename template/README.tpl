@@ -3,7 +3,8 @@
 <div align="center">
 <h1>Awesome Ops</h1>
 
-<p>🧰 记录每一个与运维相关的优秀项目，项目内表格通过 GitHub Action 自动生成 🧰</p>
+<p> 🧐 共分设类目 {{lenGroupNum}} 个，📥 计收录项目 {{lenItemNum}} 个。</p>
+<p> 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成。</p>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
@@ -20,13 +21,12 @@
 
 不论你是做运维的，还是其他的，只要在技术领域，那么这个经过精心挑选并分门别类的项目，都将会是你的一册宝典。
 
-特别欢迎广大朋友分享自己的项目或者推荐优秀项目，参与贡献之前，请阅读 [PR 贡献指南](resources/CONTRIBUTING.md)。
-
 欢迎所有朋友在这些项目列表中进行冲浪，学习，借鉴，当某个人的项目对你有帮助的时候，请别忘了，给那个项目一个star ⭐️。顺便，给这个项目一个 star ⭐️。
+
+特别欢迎广大朋友分享自己的项目或者推荐优秀项目，以及针对错漏的修复，参与贡献之前，请阅读 [PR 贡献指南](resources/CONTRIBUTING.md)。
 
 📢 如果你打算应用在自己所在的生产环境，请结合项目的开源协议，Star数，最后更新时间等综合评估之后进行选型。
 
-🧐 分设类目 {{lenGroupNum}} 个。📥 收录项目 {{lenItemNum "eryajf" "awesome-ops"}} 个。
 
 {{- range $key, $val := .}}
 
@@ -42,3 +42,5 @@
 | [{{$item.owner}}/{{$item.repo}}](https://github.com/{{$item.owner}}/{{$item.repo}}) | {{ghLicense $item.owner $item.repo}} | {{ghStar $item.owner $item.repo}} | {{ghCreate $item.owner $item.repo}} | {{ghUpdate $item.owner $item.repo}} | {{$item.desc}} |
 {{- end}}
 {{end}}
+
+{{updateDesc "eryajf" "awesome-ops"}}
