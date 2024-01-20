@@ -1,0 +1,5 @@
+kind: K8S-Cluster-Manage
+owner: redkubes
+repo: otomi-core
+desc: '适用于 Kubernetes 的自托管 DevOps 平台'
+desc_en: 'Self-hosted DevOps Platform for Kubernetes'

@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: easzlab
+repo: kubeasz
+desc: ' 使用 Ansible 脚本安装 K8S 集群，介绍组件交互原理，方便直接，不受国内网络环境影响 '
+desc_en: ' Install K8S cluster with Ansible script, introduce component interaction principle, convenient and direct, not affected by domestic network environment '

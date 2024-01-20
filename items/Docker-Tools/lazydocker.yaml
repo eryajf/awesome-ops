@@ -1,0 +1,5 @@
+kind: Docker-Tools
+owner: jesseduffield
+repo: lazydocker
+desc: '适用于 docker 和 docker-compose 的简单终端 UI，使用Gocui库用 Go 编写。'
+desc_en: 'A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.'

@@ -1,0 +1,5 @@
+kind: Docker-Tools
+owner: dragonflyoss
+repo: Dragonfly2
+desc: ' 基于 p2p 技术提供高效、稳定、安全的文件分发和图像加速，成为云原生架构的最佳实践和标准解决方案。'
+desc_en: 'Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.'

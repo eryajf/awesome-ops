@@ -1,0 +1,5 @@
+kind: 数据管道
+owner: alibaba
+repo: canal
+desc: ' 阿里巴巴 MySQL binlog 增量订阅&消费组件'
+desc_en: 'Alibaba MySQL binlog incremental subscription & consumption component'

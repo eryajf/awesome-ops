@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: 1Panel-dev
+repo: webkubectl
+desc: ' Web Kubectl 帮助您管理 kubernetes 集群的凭据，并在 Web 浏览器中运行 kubectl 命令，从而不必在本地 PC 或其他服务器上安装 kubectl，并且 Web Kubectl 也适用于团队多人同时使用，此外还可以使用 API 集成到您自己的应用中。'
+desc_en: 'Web Kubectl helps you manage kubernetes credentials and run kubectl command in web browser, so that you don't have to install kubectl on your local PC or some other servers, furthermore Web Kubectl can be used for a team.'

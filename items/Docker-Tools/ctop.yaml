@@ -1,0 +1,5 @@
+kind: Docker-Tools
+owner: bcicen
+repo: ctop
+desc: ' 一个用于在容器中执行类似 top 命令的命令行工具 '
+desc_en: ' A command line tool for container metrics '

@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: gocrane
+repo: crane
+desc: 'Crane 是一个基于 FinOps 的云资源分析与成本优化平台。它的愿景是在保证客户应用运行质量的前提下实现极致的降本。'
+desc_en: 'Crane is a FinOps Platform for Cloud Resource Analytics and Economics in Kubernetes clusters. The goal is not only help user to manage cloud cost easier but also ensure the quality of applications.'

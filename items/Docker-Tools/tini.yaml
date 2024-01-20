@@ -1,0 +1,5 @@
+kind: Docker-Tools
+owner: krallin
+repo: tini
+desc: '一个最小化的 init 系统，运行在容器内部，用于启动一个子进程，并等待进程退出时清理僵尸和执行信号转发。'
+desc_en: 'A tiny but valid init for containers, PID 1, or init for short, is the first process launched in a new Unix session. It typically executes the init system, which is responsible for starting and managing services.'

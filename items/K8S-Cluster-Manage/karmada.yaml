@@ -1,0 +1,5 @@
+kind: K8S-Cluster-Manage
+owner: karmada-io
+repo: karmada
+desc: 'Karmada 旨在为多云和混合云场景中的多集群应用管理提供统包自动化，具有集中式多云管理、高可用性、故障恢复和流量调度等关键功能。'
+desc_en: 'Karmada aims to provide unified packaging automation for multi-cluster application management in multi-cloud and hybrid cloud scenarios, with key functions such as centralized multi-cloud management, high availability, fault recovery and traffic scheduling.'
