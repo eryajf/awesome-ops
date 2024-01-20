@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: komodorio
+repo: helm-dashboard
+desc: 'Helm 缺失的用户界面 - 可视化你的发布'
+desc_en: 'The missing UI for Helm - visualize your releases'
