@@ -1,0 +1,5 @@
+kind: Docker-Tools
+owner: amir20
+repo: dozzle
+desc: ' Dozzle 是一个小型轻量级应用程序，具有基于 Web 的界面来监视 Docker 日志。它不存储任何日志文件。它仅用于实时监控您的容器日志。 '
+desc_en: 'Dozzle is a small lightweight application with a web based interface to monitor Docker logs. It doesn’t store any log files. It is for live monitoring of your container logs only.'

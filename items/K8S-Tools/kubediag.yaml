@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: kubediag
+repo: kubediag
+desc: '将 Kubernetes 事件、审计日志、通知者等各种数据源聚合成传统追踪的形式，通过 Jaeger UI 实现可视化和自动分析。'
+desc_en: 'Kelemetry aggregates various data sources including Kubernetes events, audit log, informers into the form of traditional tracing, enabling visualization through Jaeger UI and automatic analysis.'

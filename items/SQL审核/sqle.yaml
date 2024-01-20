@@ -1,0 +1,5 @@
+kind: SQL审核
+owner: actiontech
+repo: sqle
+desc: '一个支持多种不同类型数据库，覆盖事前控制、事后监督、标准发布场景，帮助您建立质量规范的SQL全生命周期质量管理平台。'
+desc_en: 'A SQL quality management platform that supports multiple types of different databases, covering pre-control, post-supervision, and standard release scenarios, helping you build a quality management platform for the full life cycle of SQL.'

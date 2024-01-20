@@ -1,0 +1,5 @@
+kind: GUI-MongoDB
+owner: mongo-express
+repo: mongo-express
+desc: '基于 Web 的 MongoDB 管理界面，使用 Node.js 和 Express 编写'
+desc_en: 'Web-based MongoDB admin interface, written with Node.js and express'

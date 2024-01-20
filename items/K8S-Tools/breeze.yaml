@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: wise2c-devops
+repo: breeze
+desc: ' 可用于生产环境的图形化 Kubernetes 集群部署工具 '
+desc_en: ' A graphical Kubernetes cluster deployment tool for production environments '

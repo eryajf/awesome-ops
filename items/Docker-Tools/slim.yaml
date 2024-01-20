@@ -1,0 +1,5 @@
+kind: Docker-Tools
+owner: slimtoolkit
+repo: slim
+desc: '不更改容器映像中的任何内容，并将其缩小最多 30 倍（对于编译语言甚至更多），使其也更安全！'
+desc_en: 'Do not change anything in your Docker container image and shrink it by up to 30x (for compiled languages even more) making it secure too!'

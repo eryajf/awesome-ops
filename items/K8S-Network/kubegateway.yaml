@@ -1,0 +1,5 @@
+kind: K8S-Network
+owner: kubewharf
+repo: kubegateway
+desc: 'kube-gateway 是字节跳动内部管理海量 kubernetes 集群的最佳实践。 它是为 kube-apiserver 的 HTTP2 流量专门设计并定制的七层负载均衡代理。 目标是为海量的大规模 kubernetes 集群（千级 node 以上）提供灵活的稳定的流量治理方案。'
+desc_en: 'kube-gateway is the best practice for managing massive kubernetes clusters within ByteDance. It is a layer 7 load balancing proxy designed and customized for HTTP2 traffic of kube-apiserver. The goal is to provide a flexible and stable traffic governance solution for massive large-scale kubernetes clusters (thousands of nodes or more).'

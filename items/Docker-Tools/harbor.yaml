@@ -1,0 +1,5 @@
+kind: Docker-Tools
+owner: goharbor
+repo: harbor
+desc: '最为知名，且大概是在企业内部使用最多的 Docker 镜像仓库'
+desc_en: 'The most well-known and probably the most widely used Docker image repository within the enterprise'

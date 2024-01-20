@@ -1,0 +1,5 @@
+kind: GUI-SQL
+owner: sqlitebrowser
+repo: sqlitebrowser
+desc: '一个高质量、可视化、开源工具，用于创建、设计和编辑与 SQLite 兼容的数据库文件。'
+desc_en: 'A high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.'

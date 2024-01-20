@@ -1,0 +1,5 @@
+kind: K8S-Cluster-Manage
+owner: goodrain
+repo: rainbond
+desc: 'k8s 集群管理应用平台'
+desc_en: 'k8s cluster management application platform'

@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: labring
+repo: sealos
+desc: '专为管理云原生应用程序而设计的云操作系统'
+desc_en: 'A Cloud Operating System designed for managing cloud-native applications'

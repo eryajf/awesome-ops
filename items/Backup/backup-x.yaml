@@ -1,0 +1,5 @@
+kind: Backup
+owner: jeessy2
+repo: backup-x
+desc: '带Web界面的数据库/文件备份增强工具'
+desc_en: 'A database/file backup tool with web interfaces'
