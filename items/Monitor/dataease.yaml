@@ -1,0 +1,5 @@
+kind: Monitor
+owner: dataease
+repo: dataease
+desc: 'DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化。DataEase 支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。'
+desc_en: 'DataEase is an open source data visualization analysis tool that helps users quickly analyze data and gain insight into business trends, thereby improving and optimizing business. DataEase supports a wealth of data source connections, can quickly create charts through drag and drop, and can easily share with others.'

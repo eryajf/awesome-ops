@@ -1,0 +1,5 @@
+kind: Crontab
+owner: whyour
+repo: qinglong
+desc: '支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台'
+desc_en: 'Timed task management platform supporting Python3, JavaScript, Shell, Typescript'

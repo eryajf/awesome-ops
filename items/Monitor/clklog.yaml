@@ -1,0 +1,5 @@
+kind: Monitor
+owner: clklog
+repo: clklog
+desc: '一款记录用户行为分析和画像的免费可商用开源软件，技术人员可快速搭建私有的应用系统。'
+desc_en: 'A free and commercially available open source software for recording user behavior analysis and portraits, technical personnel can quickly build private application systems.'
