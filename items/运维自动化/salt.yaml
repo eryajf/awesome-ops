@@ -1,0 +1,5 @@
+kind: 运维自动化
+owner: saltstack
+repo: salt
+desc: '该软件能自动化管理和配置任何规模的基础设施或应用程序。'
+desc_en: 'Software to automate the management and configuration of any infrastructure or application at scale.'

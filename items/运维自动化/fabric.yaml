@@ -1,0 +1,5 @@
+kind: 运维自动化
+owner: fabric
+repo: fabric
+desc: '一种简单、具有 Python 风格的远程执行和部署方法。'
+desc_en: 'Simple, Pythonic remote execution and deployment.'
