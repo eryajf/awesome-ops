@@ -1,0 +1,5 @@
+kind: 运维自动化
+owner: chef
+repo: chef
+desc: 'Chef Infra 是一个高效的自动化平台，它将基础设施转化成可编程代码，实现了基础设施配置、部署和管理在任何环境、任何规模下的自动化。'
+desc_en: 'Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale'

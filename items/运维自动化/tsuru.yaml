@@ -1,0 +1,5 @@
+kind: 运维自动化
+owner: tsuru
+repo: tsuru
+desc: '这是一个开源并且具备扩展性的平台即服务 (PaaS)。'
+desc_en: 'Open source and extensible Platform as a Service (PaaS).'
