@@ -1,0 +1,5 @@
+kind: 配置中心
+owner: alibaba
+repo: nacos
+desc: '一个易于使用的动态服务发现、配置和服务管理平台，用于构建云原生应用程序。'
+desc_en: 'an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.'

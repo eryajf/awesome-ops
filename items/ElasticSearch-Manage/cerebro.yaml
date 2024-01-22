@@ -1,0 +1,5 @@
+kind: ElasticSearch-Manage
+owner: lmenezes
+repo: cerebro
+desc: 'cerebro 是一个开源的 elasticsearch Web 管理工具，使用 Scala、Play Framework、AngularJS 和 Bootstrap 构建。'
+desc_en: 'cerebro is an open source elasticsearch web admin tool built using Scala, Play Framework, AngularJS and Bootstrap.'

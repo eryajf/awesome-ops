@@ -1,0 +1,5 @@
+kind: 数据管道
+owner: loggie-io
+repo: loggie
+desc: ' 一个基于 Golang 的轻量级、高性能、云原生日志采集 Agent 和中转处理 Aggregator，支持多 Pipeline 和组件热插拔 '
+desc_en: ' A lightweight, high-performance, cloud-native log collection agent and intermediate processing aggregator based on Golang, supporting multiple pipelines and component hot swap'
