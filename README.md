@@ -499,6 +499,7 @@
 | [SigNoz/signoz](https://github.com/SigNoz/signoz) | NOASSERTION | 16014 | 2021-01-03 | 2024-01-22 | SigNoz 是 OpenTelemetry 原生的开源可观察性平台，在单个应用程序中提供日志、跟踪和指标。DataDog、NewRelic 等的开源替代品。开源应用程序性能监控（APM）和可观察性工具 |
 | [mikecao/umami](https://github.com/mikecao/umami) | MIT | 18303 | 2020-07-17 | 2024-01-19 | 搭建配置简单，界面优雅美观的站点访问统计工具 |
 | [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) | Apache-2.0 | 4819 | 2018-07-04 | 2024-01-22 | 轻量级的前端性能监控系统，也是一款埋点系统，私有化部署，简单易用 |
+| [starsliao/TenSunS](https://github.com/starsliao/TenSunS) | WTFPL | 1000 | 2022-01-28 | 2024-01-22 | 基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer&ECS/MySQL/Redis云监控指标采集&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示 |
 
 
 ## OAuth2
