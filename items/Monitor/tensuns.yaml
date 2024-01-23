@@ -1,0 +1,5 @@
+kind: Monitor
+owner: starsliao
+repo: TenSunS
+desc: '基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer&ECS/MySQL/Redis云监控指标采集&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示'
+desc_en: 'Consul-based Operations Platform: A More Elegant Consul Management UI & Syncing Prometheus/JumpServer Metrics for Multi-cloud and Self-hosted ECS/MySQL/Redis & Cloud Monitoring for ECS/MySQL/Redis & Blackbox Site Monitoring Maintenance & Vulnerability Notifications/Resource Expiry Balance Alerts & Various Resource Dashboards Displayed in Grafana'
