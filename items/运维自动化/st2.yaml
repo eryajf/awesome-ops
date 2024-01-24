@@ -2,4 +2,4 @@ kind: 运维自动化
 owner: StackStorm
 repo: st2
 desc: 'StackStorm (俗称"运维领域的 IFTTT") 是一个事件驱动的自动化工具，用于自动修复、应对突发事件、故障排查、软件部署等多种运维任务，特别适用于 DevOps 和 SREs。'
-desc_en: 'StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs.'
+desc_en: 'StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation,  incident responses,  troubleshooting,  deployments,  and more for DevOps and SREs.'

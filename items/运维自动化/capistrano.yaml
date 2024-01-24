@@ -2,4 +2,4 @@ kind: 运维自动化
 owner: capistrano
 repo: capistrano
 desc: '一个利用 Ruby、Rake 和 SSH 构建的部署自动化工具。'
-desc_en: 'A deployment automation tool built on Ruby, Rake, and SSH.'
+desc_en: 'A deployment automation tool built on Ruby,  Rake,  and SSH.'

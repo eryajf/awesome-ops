@@ -2,4 +2,4 @@ kind: K8S-Tools
 owner: kubesphere
 repo: kubeeye
 desc: 'KubeEye 是为 Kubernetes 设计的巡检工具，用于发现 Kubernetes 资源（使用 OPA ）、集群组件、集群节点（使用Node-Problem-Detector）等配置是否符合最佳实践，对于不符合最佳实践的，将给出修改建议。'
-desc_en: 'KubeEye is a Kubernetes inspection tool designed to discover whether Kubernetes resources (using OPA), cluster components, and cluster nodes (using Node-Problem-Detector) are configured to meet best practices. For those that do not meet best practices, modification suggestions will be given.'
+desc_en: 'KubeEye is a Kubernetes inspection tool designed to discover whether Kubernetes resources (using OPA),  cluster components,  and cluster nodes (using Node-Problem-Detector) are configured to meet best practices. For those that do not meet best practices,  modification suggestions will be given.'

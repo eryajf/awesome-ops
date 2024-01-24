@@ -2,4 +2,4 @@ kind: K8S-Tools
 owner: FairwindsOps
 repo: polaris
 desc: 'Polaris 是 Kubernetes 的开源策略引擎，用于验证和修复资源配置。它包括 30 多个内置配置策略，以及使用 JSON 架构构建自定义策略的能力。'
-desc_en: 'Polaris is an open source project for validating and enforcing best practices for Kubernetes resources. It includes 30+ built-in configuration checks, as well as the ability to create custom checks using JSON schema.'
+desc_en: 'Polaris is an open source project for validating and enforcing best practices for Kubernetes resources. It includes 30+ built-in configuration checks,  as well as the ability to create custom checks using JSON schema.'

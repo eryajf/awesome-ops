@@ -2,4 +2,4 @@ kind: 混沌测试
 owner: chaosblade-io
 repo: chaosblade
 desc: '阿里巴巴开源的一款遵循混沌工程原理和混沌实验模型的实验注入工具，帮助企业提升分布式系统的容错能力，并且在企业上云或往云原生系统迁移过程中业务连续性保障'
-desc_en: 'An experiment injection tool that follows the chaos engineering principle and chaos experiment model, helps enterprises improve the fault tolerance of distributed systems, and ensures business continuity during the enterprise cloud or migration to cloud native systems'
+desc_en: 'An experiment injection tool that follows the chaos engineering principle and chaos experiment model,  helps enterprises improve the fault tolerance of distributed systems,  and ensures business continuity during the enterprise cloud or migration to cloud native systems'

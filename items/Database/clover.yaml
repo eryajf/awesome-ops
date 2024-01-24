@@ -2,4 +2,4 @@ kind: Database
 owner: ostafen
 repo: clover
 desc: '基于 Golang 编写，一个轻量级的NoSQL数据库，由于它的代码库很小，所以设计得简单且易于维护'
-desc_en: 'Written in Golang, a lightweight NoSQL database, because its codebase is small, so it is designed to be simple and easy to maintain'
+desc_en: 'Written in Golang,  a lightweight NoSQL database,  because its codebase is small,  so it is designed to be simple and easy to maintain'

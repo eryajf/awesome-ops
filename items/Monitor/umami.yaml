@@ -2,4 +2,4 @@ kind: Monitor
 owner: mikecao
 repo: umami
 desc: '搭建配置简单，界面优雅美观的站点访问统计工具'
-desc_en: 'Easy to build and configure, elegant and beautiful site access statistics tool'
+desc_en: 'Easy to build and configure,  elegant and beautiful site access statistics tool'

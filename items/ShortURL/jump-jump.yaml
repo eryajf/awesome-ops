@@ -2,4 +2,4 @@ kind: ShortURL
 owner: jwma
 repo: jump-jump
 desc: '开箱即用，Golang 开发的一个功能完善的短链接系统'
-desc_en: 'Out of the box, a fully functional short link system developed by Golang'
+desc_en: 'Out of the box,  a fully functional short link system developed by Golang'

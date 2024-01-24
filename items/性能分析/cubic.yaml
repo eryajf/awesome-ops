@@ -1,0 +1,5 @@
+kind: 性能分析
+owner: alibaba
+repo: cubic
+desc: '一站式问题定位平台，以 agent 的方式无侵入接入应用，提供各种指标，动态线程堆栈追踪，完整集成 arthas 功能模块，致力于应用级监控，帮助开发人员快速定位问题。'
+desc_en: 'A one-stop problem location platform,  access to applications in a non-intrusive way in the form of agents,  providing various indicators,  dynamic thread stack tracking,  complete integration of arthas functional modules,  dedicated to application-level monitoring,  helping developers quickly locate problems.'

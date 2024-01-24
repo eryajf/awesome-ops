@@ -2,4 +2,4 @@ kind: 终端命令行工具
 owner: http-party
 repo: http-server
 desc: '一个简单的、零配置的命令行静态 HTTP 服务器'
-desc_en: 'A simple, zero-config command-line static HTTP server'
+desc_en: 'A simple,  zero-config command-line static HTTP server'

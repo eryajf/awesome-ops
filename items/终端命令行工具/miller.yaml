@@ -2,4 +2,4 @@ kind: 终端命令行工具
 owner: johnkerl
 repo: miller
 desc: '类似于 awk、sed、cut、join 和 sort，用于 CSV、TSV 和表格 JSON 等名称索引数据'
-desc_en: 'Similar to awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON'
+desc_en: 'Similar to awk,  sed,  cut,  join,  and sort for name-indexed data such as CSV,  TSV,  and tabular JSON'

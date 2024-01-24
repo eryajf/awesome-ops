@@ -2,4 +2,4 @@ kind: CICD
 owner: pipe-cd
 repo: pipecd
 desc: '一个 CD 适用于所有 {应用程序、平台、操作}'
-desc_en: 'The One CD for All {applications, platforms, operations}'
+desc_en: 'The One CD for All {applications,  platforms,  operations}'

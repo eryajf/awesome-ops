@@ -2,4 +2,4 @@ kind: RPM
 owner: goreleaser
 repo: nfpm
 desc: '一个用 Go 编写的简单且 0 依赖项的 deb、rpm、apk 和 arch Linux 打包器'
-desc_en: 'A simple and 0-dependencies deb, rpm, apk and arch linux packager written in Go'
+desc_en: 'A simple and 0-dependencies deb,  rpm,  apk and arch linux packager written in Go'

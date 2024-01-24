@@ -2,4 +2,4 @@ kind: Database
 owner: OpenAtomFoundation
 repo: pika
 desc: 'Pika 是一个以 RocksDB 为存储引擎的的大容量、高性能、多租户、数据可持久化的弹性 KV 数据存储系统，完全兼容 Redis 协议，支持其常用的数据结构。'
-desc_en: 'Pika is a large-capacity, high-performance, multi-tenant, data-persistent elastic KV data storage system based on RocksDB. It is fully compatible with the Redis protocol and supports its common data structures.'
+desc_en: 'Pika is a large-capacity,  high-performance,  multi-tenant,  data-persistent elastic KV data storage system based on RocksDB. It is fully compatible with the Redis protocol and supports its common data structures.'

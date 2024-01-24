@@ -2,4 +2,4 @@ kind: Notification
 owner: LeslieLeung
 repo: heimdallr
 desc: "一个非常轻量的通知网关，可以聚合各种推送渠道，使用 Serverless 部署，几乎零成本运行。"
-desc_en: "A very lightweight notification gateway that can aggregate various push channels, deploy with Serverless, and run at almost zero cost."
+desc_en: "A very lightweight notification gateway that can aggregate various push channels,  deploy with Serverless,  and run at almost zero cost."

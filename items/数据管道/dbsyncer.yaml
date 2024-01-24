@@ -2,4 +2,4 @@ kind: 数据管道
 owner: 86dbs
 repo: dbsyncer
 desc: ' 一款开源的数据同步中间件，提供 MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch (ES)、Kafka、File、SQL 等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。'
-desc_en: 'An open source data synchronization middleware that provides MySQL, Oracle, SqlServer, PostgreSQL, Elasticsearch (ES), Kafka, File, SQL and other synchronization scenarios. Support upload plug-in custom synchronization conversion business, provide monitoring of full and incremental data statistics chart, application performance early warning, etc.'
+desc_en: 'An open source data synchronization middleware that provides MySQL,  Oracle,  SqlServer,  PostgreSQL,  Elasticsearch (ES),  Kafka,  File,  SQL and other synchronization scenarios. Support upload plug-in custom synchronization conversion business,  provide monitoring of full and incremental data statistics chart,  application performance early warning,  etc.'

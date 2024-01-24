@@ -1,0 +1,5 @@
+kind: Dev-Tools
+owner: Ealenn
+repo: Echo-Server
+desc: '一个简便的请求调试工具。通过请求参数，配置返回的内容。'
+desc_en: 'A simple request debugging tool. Configure the content returned by the request parameters.'

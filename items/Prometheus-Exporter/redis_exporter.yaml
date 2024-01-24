@@ -2,4 +2,4 @@ kind: Prometheus-Exporter
 owner: oliver006
 repo: redis_exporter
 desc: '用于 Redis 指标的 Prometheus Exporter。支持 Redis 2.x、3.x、4.x、5.x、6.x 和 7.x 版本'
-desc_en: 'Prometheus Exporter for Redis Metrics. Supports Redis 2.x, 3.x, 4.x, 5.x, 6.x, and 7.x'
+desc_en: 'Prometheus Exporter for Redis Metrics. Supports Redis 2.x,  3.x,  4.x,  5.x,  6.x,  and 7.x'

@@ -2,4 +2,4 @@ kind: 接口管理
 owner: Postcatlab
 repo: postcat
 desc: '一个可扩展的 API 工具平台，支持多平台'
-desc_en: 'An extensible API tool platform, support multi-platform'
+desc_en: 'An extensible API tool platform,  support multi-platform'

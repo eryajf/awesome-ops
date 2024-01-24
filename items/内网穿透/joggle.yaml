@@ -2,4 +2,4 @@ kind: 内网穿透
 owner: joggle-cn
 repo: joggle
 desc: 'Joggle 是基于 Ngrok 二开的开源内网穿透项目，支持多节点、私有部署、云服务。'
-desc_en: 'Joggle is an open source intranet penetration project based on Ngrok, which supports multi-node, private deployment and cloud services.'
+desc_en: 'Joggle is an open source intranet penetration project based on Ngrok,  which supports multi-node,  private deployment and cloud services.'

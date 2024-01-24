@@ -2,4 +2,4 @@ kind: 运维管理平台
 owner: harness
 repo: gitness
 desc: 'Gitness 是一个开发者用的开源平台，具备源代码控制管理、持续集成和持续交付等功能。'
-desc_en: 'Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.'
+desc_en: 'Gitness is an Open Source developer platform with Source Control management,  Continuous Integration and Continuous Delivery.'

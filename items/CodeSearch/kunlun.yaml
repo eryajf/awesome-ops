@@ -2,4 +2,4 @@ kind: CodeSearch
 owner: huichen
 repo: kunlun
 desc: '基于 Golang 实现的 Git 仓库代码搜索引擎，只支持检索本地代码仓库'
-desc_en: 'Git repository code search engine based on Golang, only supports searching local code repositories'
+desc_en: 'Git repository code search engine based on Golang,  only supports searching local code repositories'

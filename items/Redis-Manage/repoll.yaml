@@ -2,4 +2,4 @@ kind: Redis-Manage
 owner: NaNShaner
 repo: repoll
 desc: '使用 django 框架编写的 redis 的管理平台，基于 redis3.x，支持单机、哨兵以及集群模式'
-desc_en: 'Redis management platform written using the django framework, based on redis3.x, supports standalone, sentinel and cluster mode'
+desc_en: 'Redis management platform written using the django framework,  based on redis3.x,  supports standalone,  sentinel and cluster mode'

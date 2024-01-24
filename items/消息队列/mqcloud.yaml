@@ -2,4 +2,4 @@ kind: 消息队列
 owner: sohutv
 repo: mqcloud
 desc: ' 集客户端 SDK，运维，监控，预警等功能的 RocketMQ 企业级一站式服务平台'
-desc_en: 'RocketMQ enterprise one-stop service platform with client SDK, operation and maintenance, monitoring, early warning and other functions'
+desc_en: 'RocketMQ enterprise one-stop service platform with client SDK,  operation and maintenance,  monitoring,  early warning and other functions'

@@ -2,4 +2,4 @@ kind: K8S-Tools
 owner: stakater
 repo: Reloader
 desc: '一款 Kubernetes 控制器，用于监视 ConfigMap 和 Secrets 的更改，并对其关联的 Deployment、StatefulSet、DaemonSet 和 DeploymentConfig 中的 Pods 进行滚动升级'
-desc_en: 'A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig'
+desc_en: 'A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment,  StatefulSet,  DaemonSet and DeploymentConfig'

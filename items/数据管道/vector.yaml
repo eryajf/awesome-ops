@@ -1,5 +1,5 @@
 kind: 数据管道
 owner: vectordotdev
 repo: vector
-desc: '高性能、高可靠、可观察的数据管道,性能比 Logstash 强很多'
-desc_en: 'A high-performance, high-reliability, observable data pipeline, much more powerful than Logstash'
+desc: '高性能、高可靠、可观察的数据管道, 性能比 Logstash 强很多'
+desc_en: 'A high-performance,  high-reliability,  observable data pipeline,  much more powerful than Logstash'

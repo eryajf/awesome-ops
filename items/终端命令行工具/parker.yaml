@@ -2,4 +2,4 @@ kind: 终端命令行工具
 owner: weiwenhao
 repo: parker
 desc: '一款基于 go 语言编写的轻量级打包工具，能够将可执行文件与其依赖的工作目录打包成一个可执行文件'
-desc_en: 'A lightweight packaging tool written in go language, which can package executable files and their dependent working directories into an executable file'
+desc_en: 'A lightweight packaging tool written in go language,  which can package executable files and their dependent working directories into an executable file'

@@ -2,4 +2,4 @@ kind: 安全扫描
 owner: SonarSource
 repo: sonarqube
 desc: 'SonarQube 不仅能够显示应用程序的运行状况，还能够突出显示新引入的问题。有了质量门，您就可以实现干净的代码，从而系统地提高代码质量。'
-desc_en: 'SonarQube not only shows the health of an application but also highlights newly introduced issues. With a Quality Gate in place, you can fix the leak and therefore improve code quality systematically.'
+desc_en: 'SonarQube not only shows the health of an application but also highlights newly introduced issues. With a Quality Gate in place,  you can fix the leak and therefore improve code quality systematically.'

@@ -2,4 +2,4 @@ kind: Docker-Tools
 owner: louislam
 repo: dockge
 desc: '一个时髦、易于使用且响应迅速的自托管式 docker compose.yaml 管理器'
-desc_en: 'A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager'
+desc_en: 'A fancy,  easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager'

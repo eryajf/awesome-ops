@@ -2,4 +2,4 @@ kind: K8S-Tools
 owner: Soluto
 repo: kamus
 desc: '一种适用于 Kubernetes 应用的开源、基于 Git-ops、零信任的秘密加密和解密方案'
-desc_en: 'An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications'
+desc_en: 'An open source,  git-ops,  zero-trust secret encryption and decryption solution for Kubernetes applications'

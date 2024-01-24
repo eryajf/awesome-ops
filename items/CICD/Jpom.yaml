@@ -2,4 +2,4 @@ kind: CICD
 owner: dromara
 repo: Jpom
 desc: '简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件'
-desc_en: 'Simple and light low-intrusion online build, automatic deployment, daily operation and maintenance, project monitoring software'
+desc_en: 'Simple and light low-intrusion online build,  automatic deployment,  daily operation and maintenance,  project monitoring software'

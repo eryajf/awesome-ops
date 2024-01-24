@@ -2,4 +2,4 @@ kind: Dev-Tools
 owner: AykutSarac
 repo: jsoncrack.com
 desc: '将 JSON、YAML、XML、CSV 等各种数据格式转换为交互式图表的工具'
-desc_en: 'A tool that converts various data formats such as JSON, YAML, XML, CSV, etc. into interactive charts'
+desc_en: 'A tool that converts various data formats such as JSON,  YAML,  XML,  CSV,  etc. into interactive charts'

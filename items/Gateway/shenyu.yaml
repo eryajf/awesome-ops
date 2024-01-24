@@ -2,4 +2,4 @@ kind: Gateway
 owner: apache
 repo: shenyu
 desc: '一个异步的，高性能的，跨语言的，响应式的 API 网关'
-desc_en: 'An asynchronous, high-performance, cross-language, responsive API gateway'
+desc_en: 'An asynchronous,  high-performance,  cross-language,  responsive API gateway'

@@ -2,4 +2,4 @@ kind: 文件管理系统
 owner: helloxz
 repo: zdir
 desc: '使用 Golang + Vue3 开发的轻量级目录列表程序，支持 Linux、Docker、Windows 部署，支持视频、音频、代码等常规文件预览，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用'
-desc_en: 'Lightweight directory list program developed using Golang + Vue3, support Linux, Docker, Windows deployment, support video, audio, code and other conventional file preview, suitable for personal or start-up company file sharing use, can also be used as a lightweight network disk'
+desc_en: 'Lightweight directory list program developed using Golang + Vue3,  support Linux,  Docker,  Windows deployment,  support video,  audio,  code and other conventional file preview,  suitable for personal or start-up company file sharing use,  can also be used as a lightweight network disk'

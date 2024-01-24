@@ -2,4 +2,4 @@ kind: Monitor
 owner: grafana
 repo: grafana
 desc: '开放且可组合的可观测性和数据可视化平台。可视化来自 Prometheus、Loki、Elasticsearch、InfluxDB、Postgres 等多个来源的指标、日志和跟踪。'
-desc_en: 'The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.'
+desc_en: 'The open and composable observability and data visualization platform. Visualize metrics,  logs,  and traces from multiple sources like Prometheus,  Loki,  Elasticsearch,  InfluxDB,  Postgres and many more.'

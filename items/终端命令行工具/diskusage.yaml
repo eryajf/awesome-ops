@@ -2,4 +2,4 @@ kind: 终端命令行工具
 owner: chenquan
 repo: diskusage
 desc: '💥 显示磁盘使用情况的工具（Linux、MacOS 和 Windows），是一个查找最大目录或文件的非常快速的工具'
-desc_en: '💥 A tool for displaying disk usage (Linux, MacOS and Windows), which is a very fast tool for finding the largest directory or file'
+desc_en: '💥 A tool for displaying disk usage (Linux,  MacOS and Windows),  which is a very fast tool for finding the largest directory or file'

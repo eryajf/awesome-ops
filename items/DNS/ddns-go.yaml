@@ -1,5 +1,5 @@
 kind: DNS
 owner: jeessy2
 repo: ddns-go
-desc: '自动获得你的公网IP地址，并解析到对应的域名服务，支持阿里云,腾讯云,DNSpod,Cloudflare,华为云,Callback,百度云,Porkbun,GoDaddy,Google,Domain,Namecheap,NameSilo'
-desc_en: 'Automatically get your public IP address and resolve it to the corresponding domain name service, support Aliyun, Tencent Cloud, DNSpod, Cloudflare, Huawei Cloud, Callback, Baidu Cloud, Porkbun, GoDaddy, Google, Domain, Namecheap, NameSilo'
+desc: '自动获得你的公网IP地址，并解析到对应的域名服务，支持阿里云, 腾讯云, DNSpod, Cloudflare, 华为云, Callback, 百度云, Porkbun, GoDaddy, Google, Domain, Namecheap, NameSilo'
+desc_en: 'Automatically get your public IP address and resolve it to the corresponding domain name service,  support Aliyun,  Tencent Cloud,  DNSpod,  Cloudflare,  Huawei Cloud,  Callback,  Baidu Cloud,  Porkbun,  GoDaddy,  Google,  Domain,  Namecheap,  NameSilo'
