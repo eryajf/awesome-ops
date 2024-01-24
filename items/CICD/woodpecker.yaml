@@ -1,0 +1,5 @@
+kind: CICD
+owner: woodpecker-ci
+repo: woodpecker
+desc: '一个简单而强大具有很强的可扩展性的 CI/CD 引擎'
+desc_en: 'A simple yet powerful CI/CD engine with great extensibility'
