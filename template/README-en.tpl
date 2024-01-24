@@ -38,8 +38,6 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 {{- range $item := $val}}
-| [{{$item.owner}}/{{$item.repo}}](https://github.com/{{$item.owner}}/{{$item.repo}}) | {{ghLicense $item.owner $item.repo}} | {{ghStar $item.owner $item.repo}} | {{ghCreate $item.owner $item.repo}} | {{ghUpdate $item.owner $item.repo}} | {{$item.desc_en}} |
+| [{{$item.owner}}/{{$item.repo}}](https://github.com/{{$item.owner}}/{{$item.repo}}) | {{ghCustom $item.owner $item.repo}} | {{$item.desc_en}} |
 {{- end}}
 {{end}}
-
-{{updateDesc "eryajf" "awesome-ops"}}
