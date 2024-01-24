@@ -1,0 +1,5 @@
+kind: Notification
+owner: novuhq
+repo: novu
+desc: "开源的通知基础设施，可以使用一个 API 管理多个渠道的通知。"
+desc_en: "The ultimate service for managing multi-channel notifications with a single API."
