@@ -2,4 +2,4 @@ kind: 内网穿透
 owner: fatedier
 repo: frp
 desc: '一个专注于内网穿透的高性能的反向代理应用，支持 TCP、UDP、HTTP、HTTPS 等多种协议。可以将内网服务以安全、便捷的方式通过具有公网 IP 节点的中转暴露到公网'
-desc_en: 'A high-performance reverse proxy application focused on intranet penetration, supporting multiple protocols such as TCP, UDP, HTTP, and HTTPS. Can expose intranet services to the public network through nodes with public IP in a safe and convenient way'
+desc_en: 'A high-performance reverse proxy application focused on intranet penetration,  supporting multiple protocols such as TCP,  UDP,  HTTP,  and HTTPS. Can expose intranet services to the public network through nodes with public IP in a safe and convenient way'

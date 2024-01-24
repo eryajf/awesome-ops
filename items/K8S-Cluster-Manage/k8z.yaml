@@ -2,4 +2,4 @@ kind: K8S-Cluster-Manage
 owner: gotomicro
 repo: k8z
 desc: '提供k8s集群资源的管理能力，还集成了抓包，debug等功能'
-desc_en: 'Provides management capabilities for k8s cluster resources, and also integrates packet capture, debug and other functions'
+desc_en: 'Provides management capabilities for k8s cluster resources,  and also integrates packet capture,  debug and other functions'

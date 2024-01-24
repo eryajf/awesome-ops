@@ -2,4 +2,4 @@ kind: K8S-Cluster-Manage
 owner: Qihoo360
 repo: wayne
 desc: '一个通用的、基于Web的Kubernetes多集群管理平台。通过可视化Kubernetes对象模板编辑，降低服务访问成本。拥有完善的权限管理体系，适应多租户场景，是适合企业级集群的发布平台。'
-desc_en: 'Wayne is a universal, web-based Kubernetes multi-cluster management platform. It reduces service access costs by visualizing Kubernetes object template editing. With a complete permission management system and adapting to multi-tenant scenarios, it is a publish platform suitable for enterprise-level clusters.'
+desc_en: 'Wayne is a universal,  web-based Kubernetes multi-cluster management platform. It reduces service access costs by visualizing Kubernetes object template editing. With a complete permission management system and adapting to multi-tenant scenarios,  it is a publish platform suitable for enterprise-level clusters.'

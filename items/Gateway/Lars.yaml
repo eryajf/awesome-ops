@@ -2,4 +2,4 @@ kind: Gateway
 owner: aceld
 repo: Lars
 desc: 'Lars是一个简单、易用、高性能的服务间远程调用管理、调度、负载均衡系统。'
-desc_en: 'Lars is a simple, easy-to-use, high-performance inter-service remote call management, scheduling, and load balancing system.'
+desc_en: 'Lars is a simple,  easy-to-use,  high-performance inter-service remote call management,  scheduling,  and load balancing system.'

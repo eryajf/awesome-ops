@@ -1,5 +1,5 @@
 kind: CodeSearch
 owner: eryajf
 repo: gitlabCodeSearch
-desc: '🔎 使用关键字搜索所有 Gitlab 项目,并将结果输出为 Excel'
-desc_en: '🔎 Use keywords to search all gitlab projects, and output the results as Excel'
+desc: '🔎 使用关键字搜索所有 Gitlab 项目, 并将结果输出为 Excel'
+desc_en: '🔎 Use keywords to search all gitlab projects,  and output the results as Excel'

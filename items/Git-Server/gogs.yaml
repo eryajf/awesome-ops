@@ -2,4 +2,4 @@ kind: Git-Server
 owner: gogs
 repo: gogs
 desc: '一个最简单、最快速和最轻松的方式搭建自助 Git 服务，基于 Golang 开发，支持多平台。'
-desc_en: 'The simplest, fastest and easiest way to build a self-service Git service, developed on Golang and supporting multiple platforms.'
+desc_en: 'The simplest,  fastest and easiest way to build a self-service Git service,  developed on Golang and supporting multiple platforms.'

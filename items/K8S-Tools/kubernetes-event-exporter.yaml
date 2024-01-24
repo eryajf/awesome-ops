@@ -2,4 +2,4 @@ kind: K8S-Tools
 owner: resmoio
 repo: kubernetes-event-exporter
 desc: '将 K8s 的事件同步到其他平台中，比如 ES，Kafka，file，Webhook 等'
-desc_en: 'Synchronize K8s events to other platforms, such as ES, Kafka, file, Webhook, etc.'
+desc_en: 'Synchronize K8s events to other platforms,  such as ES,  Kafka,  file,  Webhook,  etc.'

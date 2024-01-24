@@ -1,5 +1,5 @@
 kind: 数据管道
 owner: alibaba
 repo: ilogtail
-desc: '轻量级、高性能、自动化配置的遥测数据(logs,traces,metrics)采集工具'
-desc_en: 'Lightweight, high-performance, automatically configured telemetry data (logs, traces, metrics) collection tool'
+desc: '轻量级、高性能、自动化配置的遥测数据(logs, traces, metrics)采集工具'
+desc_en: 'Lightweight,  high-performance,  automatically configured telemetry data (logs,  traces,  metrics) collection tool'

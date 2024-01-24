@@ -2,4 +2,4 @@ kind: 文档
 owner: isno
 repo: theByteBook
 desc: '深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，经历实践检验的 DevOps、SRE指南'
-desc_en: 'In-depth explanation of kernel network, Kubernetes, ServiceMesh, containers and other cloud native related technologies, DevOps, SRE guide verified by practice'
+desc_en: 'In-depth explanation of kernel network,  Kubernetes,  ServiceMesh,  containers and other cloud native related technologies,  DevOps,  SRE guide verified by practice'

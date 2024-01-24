@@ -1,5 +1,5 @@
 kind: OAuth2
 owner: dromara
 repo: MaxKey
-desc: '业界领先的IAM-IDaas身份管理和认证产品,支持OAuth 2.x/OpenID Connect、SAML 2.0、JWT、CAS、SCIM等标准协议，提供安全、标准和开放的用户身份管理(IDM)、身份认证(AM)、单点登录(SSO)、RBAC权限管理和资源管理等'
-desc_en: 'The industry-leading IAM-IDaas identity management and authentication product supports standard protocols such as OAuth 2.x/OpenID Connect, SAML 2.0, JWT, CAS, SCIM, etc., providing secure, standard and open user identity management (IDM), identity authentication (AM), Single sign-on (SSO), RBAC permission management and resource management, etc.'
+desc: '业界领先的IAM-IDaas身份管理和认证产品, 支持OAuth 2.x/OpenID Connect、SAML 2.0、JWT、CAS、SCIM等标准协议，提供安全、标准和开放的用户身份管理(IDM)、身份认证(AM)、单点登录(SSO)、RBAC权限管理和资源管理等'
+desc_en: 'The industry-leading IAM-IDaas identity management and authentication product supports standard protocols such as OAuth 2.x/OpenID Connect,  SAML 2.0,  JWT,  CAS,  SCIM,  etc.,  providing secure,  standard and open user identity management (IDM),  identity authentication (AM),  Single sign-on (SSO),  RBAC permission management and resource management,  etc.'

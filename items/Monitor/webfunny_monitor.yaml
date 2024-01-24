@@ -2,4 +2,4 @@ kind: Monitor
 owner: a597873885
 repo: webfunny_monitor
 desc: '轻量级的前端性能监控系统，也是一款埋点系统，私有化部署，简单易用'
-desc_en: 'Lightweight front-end performance monitoring system, also a buried point system, private deployment, easy to use'
+desc_en: 'Lightweight front-end performance monitoring system,  also a buried point system,  private deployment,  easy to use'

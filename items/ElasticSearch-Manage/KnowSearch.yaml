@@ -2,4 +2,4 @@ kind: ElasticSearch-Manage
 owner: didi
 repo: KnowSearch
 desc: '面向 Elasticsearch 研发与运维人员，围绕集群、索引构建的零侵入、多租户的 Elasticsearch GUI 管控平台'
-desc_en: 'Elasticsearch GUI control platform for Elasticsearch R&D and operation and maintenance personnel, zero intrusion and multi-tenant around cluster and index construction'
+desc_en: 'Elasticsearch GUI control platform for Elasticsearch R&D and operation and maintenance personnel,  zero intrusion and multi-tenant around cluster and index construction'

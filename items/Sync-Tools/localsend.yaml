@@ -2,4 +2,4 @@ kind: Sync-Tools
 owner: localsend
 repo: localsend
 desc: '一个免费、开源的应用程序，允许你在本地网络上安全地与附近设备共享文件和消息，无需互联网连接'
-desc_en: 'A free, open-source application that allows you to securely share files and messages with nearby devices on your local network without an internet connection'
+desc_en: 'A free,  open-source application that allows you to securely share files and messages with nearby devices on your local network without an internet connection'

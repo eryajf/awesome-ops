@@ -2,4 +2,4 @@ kind: DNS
 owner: PowerDNS
 repo: pdns
 desc: 'PowerDNS 权威、PowerDNS 递归、dnsdist'
-desc_en: 'PowerDNS Authoritative, PowerDNS Recursor, dnsdist'
+desc_en: 'PowerDNS Authoritative,  PowerDNS Recursor,  dnsdist'

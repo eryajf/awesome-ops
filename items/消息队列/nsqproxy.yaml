@@ -2,4 +2,4 @@ kind: 消息队列
 owner: changba
 repo: nsqproxy
 desc: 'NSQProxy 是 NSQ 和 Worker 之间的中间件，根据配置负责消息转发。然后通过 HTTP/FastCGI/CBNSQ 等协议转发给 Worker 机执行。'
-desc_en: 'NSQProxy is a middleware between NSQ and Worker, which is responsible for message forwarding according to the configuration. Then forward to the worker machine for execution via HTTP/FastCGI/CBNSQ and other protocols.'
+desc_en: 'NSQProxy is a middleware between NSQ and Worker,  which is responsible for message forwarding according to the configuration. Then forward to the worker machine for execution via HTTP/FastCGI/CBNSQ and other protocols.'

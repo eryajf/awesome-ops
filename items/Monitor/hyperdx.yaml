@@ -2,4 +2,4 @@ kind: Monitor
 owner: hyperdxio
 repo: hyperdx
 desc: '一个开源可观察性平台，统一会话重放、日志、指标、跟踪和错误'
-desc_en: 'An open source observability platform unifying session replays, logs, metrics, traces and errors.'
+desc_en: 'An open source observability platform unifying session replays,  logs,  metrics,  traces and errors.'

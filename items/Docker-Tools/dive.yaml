@@ -2,4 +2,4 @@ kind: Docker-Tools
 owner: wagoodman
 repo: dive
 desc: '用于探索分析 docker 镜像、分层内容以及发现缩小 Docker/OCI 镜像大小的方法的工具'
-desc_en: 'A tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image'
+desc_en: 'A tool for exploring a docker image,  layer contents,  and discovering ways to shrink the size of your Docker/OCI image'

@@ -2,4 +2,4 @@ kind: Monitor
 owner: grafana
 repo: loki
 desc: '水平可扩展、高可用、多租户日志聚合系统。它的设计非常经济高效且易于操作。它不索引日志的内容，而是为每个日志流建立一组标签。'
-desc_en: 'Horizontally scalable, highly available, multi-tenant log aggregation system. Its design is very economical and efficient and easy to operate. It does not index the content of the log, but establishes a set of tags for each log stream.'
+desc_en: 'Horizontally scalable,  highly available,  multi-tenant log aggregation system. Its design is very economical and efficient and easy to operate. It does not index the content of the log,  but establishes a set of tags for each log stream.'

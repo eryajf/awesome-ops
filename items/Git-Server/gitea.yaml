@@ -2,4 +2,4 @@ kind: Git-Server
 owner: go-gitea
 repo: gitea
 desc: '包括 Git 托管、代码审查、团队协作、包注册和 CI/CD，功能强大，值得一试。fork 自 Gogs'
-desc_en: 'Includes git repository hosting, code review, issue tracking, team collaboration, and CI/CD. Powerful, worth a try. Fork from Gogs'
+desc_en: 'Includes git repository hosting,  code review,  issue tracking,  team collaboration,  and CI/CD. Powerful,  worth a try. Fork from Gogs'

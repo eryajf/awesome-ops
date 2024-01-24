@@ -2,4 +2,4 @@ kind: K8S-Cluster-Manage
 owner: kubeclipper
 repo: kubeclipper
 desc: 'KubeClipper 是一个轻量级的 Web 服务，为 Kubernetes 集群生命周期管理 提供友好的 Web 控制台 GUI、API 和 CLI 工具。'
-desc_en: 'KubeClipper is a lightweight web service that provides a friendly web console GUI, API, and CLI tools for Kubernetes cluster lifecycle management.'
+desc_en: 'KubeClipper is a lightweight web service that provides a friendly web console GUI,  API,  and CLI tools for Kubernetes cluster lifecycle management.'

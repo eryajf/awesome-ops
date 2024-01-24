@@ -2,4 +2,4 @@ kind: Search-Engine
 owner: meilisearch
 repo: meilisearch
 desc: '⚡ Rust 语言编写，快如闪电的搜索引擎，可轻松融入您的应用程序、网站和工作流程 🔍'
-desc_en: '⚡ Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine written in Rust 🔍'
+desc_en: '⚡ Lightning Fast,  Ultra Relevant,  and Typo-Tolerant Search Engine written in Rust 🔍'

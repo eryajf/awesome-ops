@@ -2,4 +2,4 @@ kind: 文件管理系统
 owner: alist-org
 repo: alist
 desc: '🗂️ 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs'
-desc_en: '🗂️ A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs.'
+desc_en: '🗂️ A file list/WebDAV program that supports multiple storages,  powered by Gin and Solidjs.'

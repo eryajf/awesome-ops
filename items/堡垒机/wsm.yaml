@@ -2,4 +2,4 @@ kind: 堡垒机
 owner: axetroy
 repo: wsm
 desc: '通过 Web 来管理远端服务器，简易的堡垒机'
-desc_en: 'Manage remote servers via Web, simple bastion machine'
+desc_en: 'Manage remote servers via Web,  simple bastion machine'

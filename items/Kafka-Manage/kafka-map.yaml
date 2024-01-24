@@ -2,4 +2,4 @@ kind: Kafka-Manage
 owner: dushixiang
 repo: kafka-map
 desc: '一个美观简洁且强大的 Kafka Web 管理工具'
-desc_en: 'A beautiful, simple and powerful Kafka Web management tool'
+desc_en: 'A beautiful,  simple and powerful Kafka Web management tool'

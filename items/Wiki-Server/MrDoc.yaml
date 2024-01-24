@@ -2,4 +2,4 @@ kind: Wiki-Server
 owner: zmister2016
 repo: MrDoc
 desc: '觅思文档，适合于个人和中小型团队的在线文档、知识库系统'
-desc_en: 'online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. '
+desc_en: 'online document system developed based on python. It is suitable for individuals and small teams to manage documents,  wiki,  knowledge and notes. '

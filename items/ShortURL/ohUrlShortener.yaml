@@ -2,4 +2,4 @@ kind: ShortURL
 owner: barats
 repo: ohUrlShortener
 desc: '企业级短链接服务系统，支持短链接生产、查询及302转向，并自带点击量统计、独立 IP 数统计、访问日志'
-desc_en: 'Enterprise-level short link service system, support short link production, query and 302 redirection, and comes with click statistics, independent IP number statistics, access logs'
+desc_en: 'Enterprise-level short link service system,  support short link production,  query and 302 redirection,  and comes with click statistics,  independent IP number statistics,  access logs'

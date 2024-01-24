@@ -2,4 +2,4 @@ kind: 压测
 owner: Runner-Go-Team
 repo: runnerGo
 desc: '一款全栈式测试平台，可以进行接口测试、场景自动化测试、性能压测等一系列功能'
-desc_en: 'A full-stack test platform that can perform a series of functions such as interface testing, scenario automation testing, performance testing, etc.'
+desc_en: 'A full-stack test platform that can perform a series of functions such as interface testing,  scenario automation testing,  performance testing,  etc.'

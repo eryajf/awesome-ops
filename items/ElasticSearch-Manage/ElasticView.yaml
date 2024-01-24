@@ -2,4 +2,4 @@ kind: ElasticSearch-Manage
 owner: "1340691923"
 repo: ElasticView
 desc: '一个简单好用的 ElasticSearch 可视化客户端，支持连接6，7，8版本的ES'
-desc_en: 'A simple and easy-to-use ElasticSearch visualization client, which supports connecting to ES versions 6, 7, 8'
+desc_en: 'A simple and easy-to-use ElasticSearch visualization client,  which supports connecting to ES versions 6,  7,  8'

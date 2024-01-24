@@ -2,4 +2,4 @@ kind: Search-Engine
 owner: openobserve
 repo: openobserve
 desc: '一个云原生可观察性平台，专为日志、指标、跟踪、分析、RUM（真实用户监控 - 性能、错误、会话重放）而构建，设计用于 PB 级工作'
-desc_en: 'A cloud-native observability platform, built for logs, metrics, traces, analytics, and RUM (Real User Monitoring - performance, errors, session replay), designed for PB scale workloads'
+desc_en: 'A cloud-native observability platform,  built for logs,  metrics,  traces,  analytics,  and RUM (Real User Monitoring - performance,  errors,  session replay),  designed for PB scale workloads'

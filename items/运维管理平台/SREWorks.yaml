@@ -2,4 +2,4 @@ kind: 运维管理平台
 owner: alibaba
 repo: SREWorks
 desc: '阿里巴巴大数据 SRE 团队开源的一个运维 SaaS 应用，特点有云原生，数智华'
-desc_en: 'An operation and maintenance SaaS application open sourced by Alibaba Big Data SRE team, with the characteristics of cloud native, data intelligence'
+desc_en: 'An operation and maintenance SaaS application open sourced by Alibaba Big Data SRE team,  with the characteristics of cloud native,  data intelligence'

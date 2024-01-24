@@ -2,4 +2,4 @@ kind: 堡垒机
 owner: trzsz
 repo: trzsz-ssh
 desc: '支持 trzsz ( trz / tsz ) 的 ssh 客户端，支持搜索和选择服务器进行批量登录，支持记住密码'
-desc_en: 'Support trzsz (trz / tsz) ssh client, support search and select server for batch login, support remember password'
+desc_en: 'Support trzsz (trz / tsz) ssh client,  support search and select server for batch login,  support remember password'

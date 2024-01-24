@@ -2,4 +2,4 @@ kind: Database
 owner: Snapchat
 repo: KeyDB
 desc: 'KeyDB 是 Redis 的高性能分支，专注于多线程、内存效率和高吞吐量。除了性能改进之外，KeyDB 还提供主动复制、闪存存储和子密钥过期等功能。'
-desc_en: 'KeyDB is a high performance fork of Redis with a focus on multithreading, memory efficiency, and high throughput. In addition to performance improvements, KeyDB offers features such as Active Replication, FLASH Storage and Subkey Expires.'
+desc_en: 'KeyDB is a high performance fork of Redis with a focus on multithreading,  memory efficiency,  and high throughput. In addition to performance improvements,  KeyDB offers features such as Active Replication,  FLASH Storage and Subkey Expires.'

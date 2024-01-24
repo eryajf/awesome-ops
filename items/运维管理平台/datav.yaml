@@ -1,5 +1,5 @@
 kind: 运维管理平台
 owner: data-observe
 repo: datav
-desc: '一个现代化的数据可视化平台，构建于 2023 年，可以对 Metrics, Traces 和 Logs 数据进行深度可视化和交互操作'
-desc_en: 'A modern data visualization platform, built in 2023, can perform deep visualization and interactive operations on Metrics, Traces and Logs data'
+desc: '一个现代化的数据可视化平台，构建于 2023 年，可以对 Metrics,  Traces 和 Logs 数据进行深度可视化和交互操作'
+desc_en: 'A modern data visualization platform,  built in 2023,  can perform deep visualization and interactive operations on Metrics,  Traces and Logs data'

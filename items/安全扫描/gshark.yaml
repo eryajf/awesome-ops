@@ -2,4 +2,4 @@ kind: 安全扫描
 owner: madneal
 repo: gshark
 desc: '根据关键字等规则，从 GitHub、GitLab 等扫描代码泄露、敏感信息泄露等安全问题'
-desc_en: 'Scan code leaks, sensitive information leaks and other security issues from GitHub, GitLab, etc. according to keywords and other rules'
+desc_en: 'Scan code leaks,  sensitive information leaks and other security issues from GitHub,  GitLab,  etc. according to keywords and other rules'

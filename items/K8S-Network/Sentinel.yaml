@@ -2,4 +2,4 @@ kind: K8S-Network
 owner: alibaba
 repo: Sentinel
 desc: '面向云原生微服务的高可用流控防护组件'
-desc_en: 'A powerful flow control component enabling reliability, resilience and monitoring for microservices.'
+desc_en: 'A powerful flow control component enabling reliability,  resilience and monitoring for microservices.'

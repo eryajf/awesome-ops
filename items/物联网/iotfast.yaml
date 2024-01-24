@@ -2,4 +2,4 @@ kind: 物联网
 owner: xiaodingding
 repo: iotfast
 desc: '基于 Goframe2.0 + Vue3.x 开发的物联网平台，支持跨语言，跨平台接入'
-desc_en: 'Iotfast is a lightweight, high-performance, cross-language, cross-platform IoT platform'
+desc_en: 'Iotfast is a lightweight,  high-performance,  cross-language,  cross-platform IoT platform'

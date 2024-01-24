@@ -2,4 +2,4 @@ kind: 文件管理系统
 owner: songquanpeng
 repo: go-file
 desc: '文件分享工具，仅单个可执行文件，开箱即用，可用于局域网内分享文件和文件夹，直接跑满本地带宽'
-desc_en: 'File sharing tool, only a single executable file, ready to use, can be used to share files and folders in the LAN, directly run full local bandwidth'
+desc_en: 'File sharing tool,  only a single executable file,  ready to use,  can be used to share files and folders in the LAN,  directly run full local bandwidth'

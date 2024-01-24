@@ -2,4 +2,4 @@ kind: Docker-Tools
 owner: abiosoft
 repo: colima
 desc: 'MacOS 和 Linux 上的容器运行时，只需最少的设置'
-desc_en: 'Container runtime for MacOS and Linux, with minimal setup'
+desc_en: 'Container runtime for MacOS and Linux,  with minimal setup'

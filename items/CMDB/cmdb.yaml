@@ -2,4 +2,4 @@ kind: CMDB
 owner: veops
 repo: cmdb
 desc: '简单、轻量、通用的运维配置管理数据库'
-desc_en: 'Simple, lightweight, and universal operation and maintenance configuration management database'
+desc_en: 'Simple,  lightweight,  and universal operation and maintenance configuration management database'

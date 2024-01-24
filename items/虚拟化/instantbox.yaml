@@ -2,4 +2,4 @@ kind: 虚拟化
 owner: instantbox
 repo: instantbox
 desc: '在不到 30s 内得到一个干净、开箱即用的临时 Linux 系统'
-desc_en: 'Get a clean, ready-to-go Linux box in seconds.'
+desc_en: 'Get a clean,  ready-to-go Linux box in seconds.'

@@ -2,4 +2,4 @@ kind: 安全扫描
 owner: reviewdog
 repo: reviewdog
 desc: 'reviewdog 提供了一种通过轻松与任何 linter 工具集成来自动将审阅评论发布到代码托管服务（例如 GitHub）的方法。它使用 lint 工具的输出，并将其作为评论发布（如果发现的结果位于要审查的补丁的差异中）。'
-desc_en: 'reviewdog provides a way to post review comments to code hosting service, such as GitHub, automatically by integrating with any linter tools with ease. It uses an output of lint tools and posts them as a comment if findings are in diff of patches to review.'
+desc_en: 'reviewdog provides a way to post review comments to code hosting service,  such as GitHub,  automatically by integrating with any linter tools with ease. It uses an output of lint tools and posts them as a comment if findings are in diff of patches to review.'

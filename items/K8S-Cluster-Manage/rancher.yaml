@@ -2,4 +2,4 @@ kind: K8S-Cluster-Manage
 owner: rancher
 repo: rancher
 desc: '一个开源容器管理平台，专为在生产中部署容器的组织而构建。Rancher 让您可以轻松地在任何地方运行 Kubernetes、满足 IT 要求并为 DevOps 团队提供支持'
-desc_en: 'Rancher is an open source container management platform built for organizations that deploy containers in production. Rancher makes it easy to run Kubernetes everywhere, meet IT requirements, and empower DevOps teams.'
+desc_en: 'Rancher is an open source container management platform built for organizations that deploy containers in production. Rancher makes it easy to run Kubernetes everywhere,  meet IT requirements,  and empower DevOps teams.'

@@ -2,4 +2,4 @@ kind: 运维管理平台
 owner: chaitin
 repo: safeline
 desc: '一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击'
-desc_en: 'A free WAF that is simple enough, easy to use, and powerful enough. Based on the industry-leading semantic engine detection technology, it is accessed as a reverse proxy to protect your website from hacker attacks'
+desc_en: 'A free WAF that is simple enough,  easy to use,  and powerful enough. Based on the industry-leading semantic engine detection technology,  it is accessed as a reverse proxy to protect your website from hacker attacks'

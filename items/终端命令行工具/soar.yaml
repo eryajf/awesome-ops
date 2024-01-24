@@ -2,4 +2,4 @@ kind: 终端命令行工具
 owner: XiaoMi
 repo: soar
 desc: '一个对 SQL 进行优化和改写的自动化工具，支持多平台'
-desc_en: 'SQL Optimising And Rewriting tool, support multiple databases'
+desc_en: 'SQL Optimising And Rewriting tool,  support multiple databases'

@@ -2,4 +2,4 @@ kind: GUI-Redis
 owner: hunter-ji
 repo: RedisFish
 desc: '一款便捷、跨平台、专注于数据的 Redis GUI 客户端，支持多平台'
-desc_en: 'A convenient, cross-platform, data-focused Redis GUI client, support multi-platform'
+desc_en: 'A convenient,  cross-platform,  data-focused Redis GUI client,  support multi-platform'

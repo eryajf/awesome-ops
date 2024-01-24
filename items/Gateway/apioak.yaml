@@ -2,4 +2,4 @@ kind: Gateway
 owner: apioak
 repo: apioak
 desc: 'APIOAK 提供API发布、管理、运维的全生命周期管理。辅助用户简单、快速、低成本、低风险的实现微服务聚合、前后端分离、系统集成，向合作伙伴、开发者开放功能和数据。'
-desc_en: 'APIOAK provides full life cycle management of API release, management and operation and maintenance. Assist users to realize microservice aggregation, front-end and back-end separation, system integration simply, quickly, at low cost and low risk, and open functions and data to partners and developers.'
+desc_en: 'APIOAK provides full life cycle management of API release,  management and operation and maintenance. Assist users to realize microservice aggregation,  front-end and back-end separation,  system integration simply,  quickly,  at low cost and low risk,  and open functions and data to partners and developers.'

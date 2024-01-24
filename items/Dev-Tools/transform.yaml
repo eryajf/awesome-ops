@@ -2,4 +2,4 @@ kind: Dev-Tools
 owner: ritz078
 repo: transform
 desc: '多种格式文件转换工具，比如 JSON 转 struct 等'
-desc_en: 'Multi-format file conversion tool, such as JSON to struct, etc.'
+desc_en: 'Multi-format file conversion tool,  such as JSON to struct,  etc.'

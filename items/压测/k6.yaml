@@ -2,4 +2,4 @@ kind: 压测
 owner: grafana
 repo: k6
 desc: '一款现代化的负载测试工具，使用 Go 和 JavaScript 实现'
-desc_en: 'A modern load testing tool, using Go and JavaScript'
+desc_en: 'A modern load testing tool,  using Go and JavaScript'

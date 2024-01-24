@@ -2,4 +2,4 @@ kind: Backup
 owner: noovertime7
 repo: gin-mysqlbak
 desc: '一款分布式高性能的备份系统，支持 MySQL、ElasticSearch 备份，多集群任务统一，数据集中存储'
-desc_en: 'A distributed high-performance backup system that supports MySQL, ElasticSearch backup, unified multi-cluster tasks, and centralized data storage'
+desc_en: 'A distributed high-performance backup system that supports MySQL,  ElasticSearch backup,  unified multi-cluster tasks,  and centralized data storage'

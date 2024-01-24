@@ -1,5 +1,5 @@
 kind: 数据管道
 owner: brokercap
 repo: Bifrost
-desc: '面向生产环境的 MySQL,MariaDB,kafka 同步到Redis,MongoDB,ClickHouse,StarRocks,Doris,Kafka等服务的异构中间件'
-desc_en: 'MySQL,MariaDB,kafka synchronization to Redis,MongoDB,ClickHouse,StarRocks,Doris,Kafka and other services'
+desc: '面向生产环境的 MySQL, MariaDB, kafka 同步到Redis, MongoDB, ClickHouse, StarRocks, Doris, Kafka等服务的异构中间件'
+desc_en: 'MySQL, MariaDB, kafka synchronization to Redis, MongoDB, ClickHouse, StarRocks, Doris, Kafka and other services'

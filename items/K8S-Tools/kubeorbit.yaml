@@ -1,5 +1,5 @@
 kind: K8S-Tools
 owner: teamcode-inc
 repo: kubeorbit
-desc: '轻量高效的微服务本地联调测试工具,轻松将集群内流量转发到本地开发环境'
-desc_en: 'Lightweight and efficient microservice local joint debugging test tool, easily forward traffic in the cluster to the local development environment'
+desc: '轻量高效的微服务本地联调测试工具, 轻松将集群内流量转发到本地开发环境'
+desc_en: 'Lightweight and efficient microservice local joint debugging test tool,  easily forward traffic in the cluster to the local development environment'
