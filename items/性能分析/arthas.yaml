@@ -1,0 +1,5 @@
+kind: 性能分析
+owner: alibaba
+repo: arthas
+desc: 'Arthas 是一款线上监控诊断产品，通过全局视角实时查看应用 load、内存、gc、线程的状态信息，并能在不修改应用代码的情况下，对业务问题进行诊断，包括查看方法调用的出入参、异常，监测方法执行耗时，类加载信息等，大大提升线上问题排查效率。'
+desc_en: 'Arthas is an online monitoring and diagnostic product. It can view the status information of application load, memory, gc, and threads in real time from a global perspective. It can diagnose business problems without modifying the application code, including viewing the input and output of method calls, exceptions, monitoring method execution time, class loading information, etc., greatly improving the efficiency of online problem diagnosis.'

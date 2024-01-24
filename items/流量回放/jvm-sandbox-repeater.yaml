@@ -1,0 +1,5 @@
+kind: 流量回放
+owner: alibaba
+repo: jvm-sandbox-repeater
+desc: '基于 JVM-Sandbox 的录制/回放通用解决方案'
+desc_en: 'Recording/playback general solution based on JVM-Sandbox'

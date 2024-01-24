@@ -1,0 +1,5 @@
+kind: Etcd
+owner: nikfoundas
+repo: etcdWp
+desc: '一个 Java Web 应用程序，允许您导航和修改etcd分布式键值存储。'
+desc_en: 'A Java Web application that allows you to navigate and modify the etcd distributed key-value store.'
