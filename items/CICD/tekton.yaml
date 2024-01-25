@@ -1,0 +1,5 @@
+kind: CICD
+owner: tektoncd
+repo: pipeline
+desc: 'Tekton是一个强大而灵活的开源框架，用于创建CI/CD系统，允许开发人员跨云提供商和本地系统构建、测试和部署。'
+desc_en: 'Tekton is a powerful and flexible open-source framework for creating CI/CD systems, allowing developers to build, test, and deploy across cloud providers and on-premise systems.'
