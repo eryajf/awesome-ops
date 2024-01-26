@@ -1,0 +1,5 @@
+kind: Monitor
+owner: pinpoint-apm
+repo: pinpoint
+desc: ' APM，（应用程序性能管理）大规模分布式系统的工具。'
+desc_en: ' APM,  (Application Performance Management) tools for large-scale distributed systems.'
