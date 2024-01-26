@@ -1,0 +1,5 @@
+kind: OpenResty
+owner: NginxProxyManager
+repo: nginx-proxy-manager
+desc: '该项目是一个预构建的Docker镜像，可以让您轻松地将您在家中或其他地方运行的网站转发出去，包括免费SSL，而无需对Nginx或Letsencrypt有太多了解。'
+desc_en: 'This project comes as a pre-built docker image that enables you to easily forward to your websites running at home or otherwise, including free SSL, without having to know too much about Nginx or Letsencrypt.'
