@@ -1,0 +1,5 @@
+kind: Docker-Tools
+owner: go-sigma
+repo: sigma
+desc: 'Sigma是一个无痛自托管的一体化软件开发服务，它包括OCI构件管理器、垃圾回收、命名空间配额、多架构构件和OCI镜像构建。它类似于Harbor，但分发由其自身实现，所有服务都可以通过一个命令启动。'
+desc_en: 'Sigma is a painless self-hosted all in one software development service, it includes OCI artifact manager, garbage collection, namespace quota, multiarch artifact, OCI image build. It is similar to Harbor, but distribution is implement by itself, all of the service can be startup with one command.'
