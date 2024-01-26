@@ -1,0 +1,5 @@
+kind: 防火墙
+owner: apernet
+repo: OpenGFW
+desc: 'OpenGFW 是一个 Linux 上灵活、易用、开源的 GFW 实现，并且在许多方面比真正的 GFW 更强大'
+desc_en: 'OpenGFW is a flexible, user-friendly, open-source GFW implementation on Linux that is more powerful than the real GFW in many ways'
