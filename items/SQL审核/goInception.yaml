@@ -1,0 +1,5 @@
+kind: SQL审核
+owner: hanchuanchuan
+repo: goInception
+desc: 'goInception 是一个集审核、执行、备份及生成回滚语句于一身的MySQL运维工具， 通过对执行SQL的语法解析，返回基于自定义规则的审核结果，并提供执行和备份及生成回滚语句的功能。'
+desc_en: 'goInception is a MySQL maintenance tool, which can be used to review, implement, backup, and generate SQL statements for rollback. It parses SQL syntax and returns the result of the review based on custom rules.'
