@@ -1,0 +1,5 @@
+kind: Monitor
+owner: apache
+repo: skywalking
+desc: ' 一个开源的 APM 系统，为云原生架构中的分布式系统提供监控、跟踪和诊断功能。'
+desc_en: '  An open source APM system that provides monitoring,  tracking and diagnostic capabilities for distributed systems in cloud native architecture.'

@@ -1,0 +1,5 @@
+kind: Monitor
+owner: jaegertracing
+repo: jaeger
+desc: '开源、分布式跟踪平台'
+desc_en: 'open source, distributed tracing platform'

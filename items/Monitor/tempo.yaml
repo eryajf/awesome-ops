@@ -1,0 +1,5 @@
+kind: Monitor
+owner: grafana
+repo: tempo
+desc: ' Grafana Tempo 是一个高容量、最小依赖的分布式跟踪后端。'
+desc_en: ' Grafana Tempo is a high volume, minimal dependency distributed tracing backend.'

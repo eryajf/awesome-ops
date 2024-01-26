@@ -1,4 +1,4 @@
-kind: 压测
+kind: 测试压测
 owner: JoeDog
 repo: siege
 desc: 'Siege 是一款用于 http 负载测试和基准测试的工具'

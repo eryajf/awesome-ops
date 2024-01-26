@@ -1,0 +1,5 @@
+kind: 测试压测
+owner: seagull1985
+repo: LuckyFrameWeb
+desc: '一款免费开源的测试平台，最大的特点是全纬度覆盖了接口自动化、 WEB UI自动化、 APP自动化，并且支持分布式测试，测试关键字驱动也很大程度上解决了测试同学代码基础弱的问题。'
+desc_en: 'A free and open source test platform, the biggest feature is the full dimension coverage of interface automation, WEB UI automation, APP automation, and support for distributed testing, test keyword-driven also largely solves the problem of weak code base of test colleagues.'
