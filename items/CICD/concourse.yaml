@@ -1,0 +1,5 @@
+kind: CICD
+owner: concourse
+repo: concourse
+desc: 'Concourse 是一个用 Go 编写的基于容器的自动化系统。它最常用于 CI/CD，并且可以扩展到从简单到复杂的任何类型的自动化管道。'
+desc_en: 'Concourse is a container-based automation system written in Go. It is most commonly used for CI/CD, and is flexible enough to define a diverse set of pipelines.'

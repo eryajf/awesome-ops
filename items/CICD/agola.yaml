@@ -1,0 +1,5 @@
+kind: CICD
+owner: agola-io
+repo: agola
+desc: '以容器化形式运行的 CI/CD 工具'
+desc_en: 'CI/CD tool running in containers'

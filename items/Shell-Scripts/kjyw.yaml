@@ -1,0 +1,5 @@
+kind: Shell-Scripts
+owner: aqzt
+repo: kjyw
+desc: '项目基于shell、 python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装nginx、 mysql、 php、 redis、 nagios、 运维经常使用的脚本等'
+desc_en: 'The project is based on shell, python, operation and maintenance script tool library, collects various operation and maintenance commonly used tool scripts, realizes fast installation of nginx, mysql, PHP, redis, nagios, operation and maintenance frequently used scripts, etc.'

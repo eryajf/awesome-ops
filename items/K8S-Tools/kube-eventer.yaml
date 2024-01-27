@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: AliyunContainerService
+repo: kube-eventer
+desc: '一个 K8S 事件同步工具，支持将事件同步到 DingDing， ES， Kafka，MySQL，Webhook 等'
+desc_en: 'A K8S event synchronization tool that supports synchronizing events to DingDing,  ES,  Kafka,  MySQL,  Webhook,  etc.'

@@ -1,0 +1,5 @@
+kind: CICD
+owner: jenkinsci
+repo: jenkins
+desc: 'Jenkins 是领先的开源自动化服务器。它使用 Java 构建，提供超过 1800 个插件来支持几乎所有事情的自动化，以便人类可以将时间花在机器无法完成的事情上。'
+desc_en: 'Jenkins is the leading open-source automation server. Built with Java, it provides over 1800 plugins to support automating virtually anything, so that humans can actually spend their time doing things machines cannot.'

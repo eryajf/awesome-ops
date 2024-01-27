@@ -1,0 +1,5 @@
+kind: Monitor
+owner: cilium
+repo: hubble
+desc: 'Hubble - 使用 eBPF 的 Kubernetes 网络、服务和安全可观测性'
+desc_en: 'Hubble - Network, Service & Security Observability for Kubernetes using eBPF'
