@@ -1,0 +1,5 @@
+kind: Monitor
+owner: zmops
+repo: ArgusDBM
+desc: 'Argus 开源数据库一体化监控平台。致力于监控所有数据库。'
+desc_en: 'Argus open source database integrated monitoring platform. Committed to monitoring all databases.'

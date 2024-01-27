@@ -1,0 +1,5 @@
+kind: Monitor
+owner: feiyu563
+repo: PrometheusAlert
+desc: ' 开源的运维告警中心消息转发系统，支持主流的监控系统 Prometheus, Zabbix,  日志系统 Graylog 和数据可视化系统 Grafana 发出的预警消息，支持钉钉，微信，华为云短信，腾讯云短信，腾讯云电话，阿里云短信，阿里云电话等 '
+desc_en: 'Open source operation and maintenance alarm center message forwarding system, supporting mainstream monitoring system Prometheus, Zabbix, log system Graylog and data visualization system Grafana to send warning messages, supporting DingTalk, WeChat, Huawei Cloud SMS, Tencent Cloud SMS, Tencent Cloud Phone, Aliyun SMS, Aliyun Phone, etc.'

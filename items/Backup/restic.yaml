@@ -1,0 +1,5 @@
+kind: Backup
+owner: restic
+repo: restic
+desc: 'Restic 是一款快速、高效且安全的备份程序。它支持多系统。'
+desc_en: 'Restic is a fast, efficient and secure backup program. It supports multiple systems.'

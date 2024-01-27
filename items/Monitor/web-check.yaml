@@ -1,0 +1,5 @@
+kind: Monitor
+owner: lissy93
+repo: web-check
+desc: '网站的各种信息检查工具，包括 DNS、HTTP、HTTPS、SSL、Ping、端口等'
+desc_en: 'A collection of various website information checking tools, including DNS, HTTP, HTTPS, SSL, Ping, Port, etc.'

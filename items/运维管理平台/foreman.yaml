@@ -1,0 +1,5 @@
+kind: 运维管理平台
+owner: theforeman
+repo: foreman
+desc: '一个免费的开源项目，使您能够轻松地自动执行重复性任务、快速部署应用程序并主动管理本地或云中的服务器生命周期。'
+desc_en: 'A free open source project that enables you to easily automate repetitive tasks,  quickly deploy applications,  and proactively manage the lifecycle of servers,  on-premises VMs,  or in the cloud.'

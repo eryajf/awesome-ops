@@ -1,0 +1,5 @@
+kind: Monitor
+owner: deepflowio
+repo: deepflow
+desc: 'DeepFlow 开源项目旨在为复杂的云基础设施及云原生应用提供深度可观测性。'
+desc_en: 'The DeepFlow open source project aims to provide deep observability for complex cloud infrastructure and cloud-native applications.'
