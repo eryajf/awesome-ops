@@ -1,0 +1,5 @@
+kind: ClickHouse
+owner: TongchengOpenSource
+repo: ckibana
+desc: 'CKibana是一款可以在原生kibana查询Clickhouse的服务'
+desc_en: 'CKibana is a service for convenient analysis of ClickHouse data using native Kibana.'
