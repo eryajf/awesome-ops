@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: kubernetes-sigs
+repo: kwok
+desc: '一个没有 Kubelet 的 Kubernetes， 你可以在笔记本电脑上在几秒钟内模拟数千个节点，而不会大量消耗 CPU 或内存资源。且兼容 K8S API'
+desc_en: 'A Kubernetes without Kubelet, you can simulate thousands of nodes on a laptop in seconds without consuming a lot of CPU or memory resources. And compatible with K8S API'

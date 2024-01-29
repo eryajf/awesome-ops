@@ -1,0 +1,5 @@
+kind: CICD
+owner: spinnaker
+repo: spinnaker
+desc: 'Spinnaker 是一个开源、多云持续交付平台，用于高速、自信地发布软件变更。'
+desc_en: 'Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.'

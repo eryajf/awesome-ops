@@ -1,0 +1,5 @@
+kind: 运维管理平台
+owner: chaos-zhu
+repo: easynode
+desc: ' 一个简易的个人 Linux 服务器 ssh 管理面板 ( WEBSSH, WEBSFTP)'
+desc_en: 'A simple personal Linux server ssh management panel (WEBSSH, WEBSFTP)'

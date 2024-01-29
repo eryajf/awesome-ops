@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: sqshq
+repo: sampler
+desc: 'Sampler 是一个用于 shell 命令执行、可视化和警报的工具。使用简单的 YAML 文件进行配置。'
+desc_en: 'Sampler is a tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.'

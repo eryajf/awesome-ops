@@ -1,0 +1,5 @@
+kind: Monitor
+owner: louislam
+repo: uptime-kuma
+desc: 'Uptime Kuma 是一款易于使用的自托管监控工具。'
+desc_en: 'Uptime Kuma is an easy-to-use self-hosted monitoring tool.'

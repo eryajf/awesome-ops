@@ -1,0 +1,5 @@
+kind: 测试压测
+owner: metersphere
+repo: metersphere
+desc: ' 一站式开源持续测试平台，涵盖测试跟踪、接口测试、UI 测试和性能测试等功能，全面兼容 JMeter、Selenium 等主流开源标准 '
+desc_en: ' A one-stop open source continuous testing platform,  covering test tracking,  interface testing,  UI testing and performance testing,  fully compatible with mainstream open source standards such as JMeter,  Selenium '

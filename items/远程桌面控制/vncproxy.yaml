@@ -1,0 +1,5 @@
+kind: 运维管理平台
+owner: vprix
+repo: vncproxy
+desc: 'VncProxy 是使用 Golang 实现的 Vnc 远程桌面代理组件，完全解析 rfb 协议，支持远程桌面代理，rbs 文件录屏，rbs 文件回放，截图，录制视频 '
+desc_en: 'VncProxy is a Vnc remote desktop proxy component implemented using Golang, which completely parses the rfb protocol, supports remote desktop proxy, rbs file recording, rbs file playback, screenshots, and video recording'

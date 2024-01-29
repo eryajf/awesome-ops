@@ -1,0 +1,5 @@
+kind: Monitor
+owner: dianping
+repo: cat
+desc: 'CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端'
+desc_en: 'As a basic component of the server project,  CAT provides Java, C/C++, Node.js, Python, Go and other multi-language clients'
