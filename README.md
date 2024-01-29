@@ -90,7 +90,7 @@
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) | MIT|1342|2021-12-29|2024-01-18 | 一个轻量级的基于浏览器的日志分析和查询平台，底层数据存储采用 ClickHouse |
-
+| [TongchengOpenSource/ckibana](https://github.com/TongchengOpenSource/ckibana) | Apache-2.0|56|2024-01-01|2024-01-28 | 一个可以在原生kibana上面直接查询ClickHouse的服务 |
 
 ## CodeSearch
 
