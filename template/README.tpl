@@ -30,11 +30,8 @@
 
 ## 目录
 
-{{- range $key, $val := .}}
-
-- [{{$key}}](#{{$key}})
-
-{{end}}
+{{- range $key, $val := .}} 
+- [{{$key}}](#{{$key}})  {{end}}
 
 {{- range $key, $val := .}}
 
