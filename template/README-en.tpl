@@ -27,6 +27,12 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 
 📢 If you plan to apply it in your production environment, please evaluate the selection based on the project's open source license, star count, last update time and other factors.
 
+## Contents
+
+{{- range $key, $val := .}} 
+- [{{$key}}](#{{$key}})
+{{- end}}
+
 {{- range $key, $val := .}}
 
 ## {{$key}}
