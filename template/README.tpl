@@ -31,7 +31,8 @@
 ## 目录
 
 {{- range $key, $val := .}} 
-- [{{$key}}](#{{$key}})  {{end}}
+- [{{$key}}](#{{$key}})
+{{- end}}
 
 {{- range $key, $val := .}}
 

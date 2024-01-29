@@ -30,7 +30,8 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 ## Contents
 
 {{- range $key, $val := .}} 
-- [{{$key}}](#{{$key}})  {{end}}
+- [{{$key}}](#{{$key}})
+{{- end}}
 
 {{- range $key, $val := .}}
 
