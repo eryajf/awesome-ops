@@ -1,0 +1,5 @@
+kind: K8S-Tools
+owner: jonmosco
+repo: kube-ps1
+desc: 'Kubernetes Bash/Zsh提示符插件。'
+desc_en: 'Kubernetes prompt for bash and zsh'
