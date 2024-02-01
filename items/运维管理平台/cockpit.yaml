@@ -1,0 +1,5 @@
+kind: 运维管理平台
+owner: cockpit-project
+repo: cockpit
+desc: 'Cockpit 是一个基于 Web 的服务器图形界面'
+desc_en: 'Cockpit is a web-based graphical interface for servers'
