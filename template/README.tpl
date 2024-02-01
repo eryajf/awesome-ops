@@ -30,7 +30,7 @@
 
 ## 目录
 
-{{- range $key, $val := .}} 
+{{- range $key, $val := .}}
 - [{{$key}}](#{{$key}})
 {{- end}}
 
@@ -47,6 +47,12 @@
 {{- range $item := $val}}
 | [{{$item.owner}}/{{$item.repo}}](https://github.com/{{$item.owner}}/{{$item.repo}}) | {{ghCustom $item.owner $item.repo}} | {{$item.desc}} |
 {{- end}}
+
+<div align="right">
+
+🔝[回到顶部](#目录)
+</div>
+
 {{end}}
 
 {{updateDesc "eryajf" "awesome-ops"}}
