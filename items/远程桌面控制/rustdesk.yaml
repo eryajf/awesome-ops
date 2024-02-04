@@ -1,0 +1,5 @@
+kind: 运维管理平台
+owner: rustdesk
+repo: rustdesk
+desc: '一个远程桌面软件，用 Rust 编写。开箱即用，无需配置。您可以完全控制您的数据，无需担心安全性。'
+desc_en: 'A remote desktop software written in Rust. Out of the box, no configuration required. You have full control of your data without worrying about security.'

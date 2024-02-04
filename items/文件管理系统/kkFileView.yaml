@@ -1,0 +1,5 @@
+kind: 文件管理系统
+owner: kekingcn
+repo: kkFileView
+desc: '文档在线预览项目解决方案，使用流行的 Spring Boot 框架构建，可轻松设置和部署。'
+desc_en: 'Document online preview project solution, built using the popular Spring Boot framework, easy to set up and deploy.'
