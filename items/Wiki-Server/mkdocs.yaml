@@ -1,0 +1,5 @@
+kind: Wiki-Server
+owner: mkdocs
+repo: mkdocs
+desc: 'MkDocs 是一个快速、简单且华丽的静态站点生成器，适用于构建项目文档。文档源文件是用 Markdown 编写的，并使用单个 YAML 配置文件进行配置。它的设计易于使用，并且可以通过第三方主题、插件和 Markdown 扩展进行扩展。'
+desc_en: 'MkDocs is a fast,  simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown,  and configured with a single YAML configuration file. It is designed to be easy to use and can be extended with themes,  plugins and Markdown extensions.'
