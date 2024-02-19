@@ -1,0 +1,5 @@
+kind: Http-Server
+owner: caddyserver
+repo: caddy
+desc: 'Caddy是一款基于Go语言编写的强大且可扩展的平台，可以给你的站点、服务和应用程序提供服务。'
+desc_en: 'Caddy is a powerful, extensible platform to serve your sites, services, and apps, written in Go.'
