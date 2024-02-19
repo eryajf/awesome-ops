@@ -1,0 +1,5 @@
+kind: Sync-Tools
+owner: deajan
+repo: osync
+desc: '基于 rsync 的强大双向（双向）文件同步脚本，具有容错功能、POSIX ACL 支持、时间控制和近实时同步'
+desc_en: 'A powerful bidirectional (two-way) file synchronization script based on rsync,  with fault tolerance,  POSIX ACL support,  time control,  and near real-time synchronization'

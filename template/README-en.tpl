@@ -29,7 +29,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 
 ## Contents
 
-{{- range $key, $val := .}} 
+{{- range $key, $val := .}}
 - [{{$key}}](#{{$key}})
 {{- end}}
 
@@ -46,4 +46,10 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 {{- range $item := $val}}
 | [{{$item.owner}}/{{$item.repo}}](https://github.com/{{$item.owner}}/{{$item.repo}}) | {{ghCustom $item.owner $item.repo}} | {{$item.desc_en}} |
 {{- end}}
+
+<div align="right">
+
+🔝[Back To Top](#Contents)
+</div>
+
 {{end}}

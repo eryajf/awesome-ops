@@ -1,0 +1,5 @@
+kind: Sync-Tools
+owner: rdiff-backup
+repo: rdiff-backup
+desc: 'rdiff-backup 是一个简单的备份工具，可以在本地和远程、Linux 和 Windows 上使用，甚至可以在两者之间跨平台使用。'
+desc_en: 'rdiff-backup is a simple backup tool that can be used locally and remotely, on Linux and Windows, and even cross-platform between the two.'
