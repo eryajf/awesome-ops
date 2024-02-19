@@ -1,0 +1,5 @@
+kind: 文件管理系统
+owner: minio
+repo: minio
+desc: 'MinIO 是一个高性能、兼容 S3 的对象存储'
+desc_en: 'MinIO is a high-performance, S3 compatible object store.'
