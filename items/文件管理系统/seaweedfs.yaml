@@ -1,0 +1,5 @@
+kind: 文件管理系统
+owner: seaweedfs
+repo: seaweedfs
+desc: 'SeaweedFS 是一个快速的分布式存储系统，用于 Blob、对象、文件和数据湖，适用于数十亿个文件！'
+desc_en: 'SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files!'
