@@ -18,7 +18,7 @@ jobs:
           pattern: 'items/*/*.yaml'
           template: 'template/README.tpl'
           output: 'README.md'
-          username: eryajf
+          username: "github-actions[bot]"
           org: eryajf
           repo: awesome-ops
           sortby: '!zh'
@@ -30,7 +30,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           pattern: 'items/*/*.yaml'
-          username: eryajf
+          username: "github-actions[bot]"
           org: eryajf
           repo: awesome-ops
           sortby: '!zh'
