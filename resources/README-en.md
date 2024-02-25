@@ -3,7 +3,7 @@ English | [简体中文](../README.md)
 <div align="center">
 <h1>Awesome Ops</h1>
 
-<p>🧐 Divided into 72 categories. 📥 Includes 480 entries.</p>
+<p>🧐 Divided into 72 categories. 📥 Includes 468 entries.</p>
 <p>🧰 Record every excellent project related to operation and maintenance, The table in the project is automatically generated through GitHub Action. 🧰</p>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -330,7 +330,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 | [P3GLEG/Whaler](https://github.com/P3GLEG/Whaler) | GPL-3.0|1010|2018-06-05|2022-06-25 | A tool that can view the Dockerfile of the running container |
 | [moby/buildkit](https://github.com/moby/buildkit) | Apache-2.0|7513|2017-05-31|2024-02-24 | Enhance the function of Docker build,  support parallel build,  cache,  image export and other functions |
 | [abiosoft/colima](https://github.com/abiosoft/colima) | MIT|15911|2021-09-04|2024-02-12 | Container runtime for MacOS and Linux,  with minimal setup |
-| [bcicen/ctop](https://github.com/bcicen/ctop) | MIT|15021|2016-12-27|2023-10-18 |  A command line tool for container metrics  |
+| [bcicen/ctop](https://github.com/bcicen/ctop) | MIT|15022|2016-12-27|2023-10-18 |  A command line tool for container metrics  |
 | [wagoodman/dive](https://github.com/wagoodman/dive) | MIT|42679|2018-05-13|2024-02-23 | A tool for exploring a docker image,  layer contents,  and discovering ways to shrink the size of your Docker/OCI image |
 | [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) | Apache-2.0|1575|2016-11-30|2023-12-20 | A small command line utility to wait for other docker images to be started while using docker-compose(or dockerized environment in general) |
 | [FX-Max/docker-install-everything](https://github.com/FX-Max/docker-install-everything) | MIT|147|2022-04-05|2024-01-23 | Use Docker-compose to install various services |
@@ -338,7 +338,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 | [amir20/dozzle](https://github.com/amir20/dozzle) | MIT|3934|2018-10-30|2024-02-24 | Dozzle is a small lightweight application with a web based interface to monitor Docker logs. It doesn’t store any log files. It is for live monitoring of your container logs only. |
 | [goharbor/harbor](https://github.com/goharbor/harbor) | Apache-2.0|21803|2016-01-28|2024-02-25 | The most well-known and probably the most widely used Docker image repository within the enterprise |
 | [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) | MIT|32499|2019-05-18|2024-02-17 | A simple terminal UI for both docker and docker-compose,  written in Go with the gocui library. |
-| [portainer/portainer](https://github.com/portainer/portainer) | Zlib|28150|2016-05-19|2024-02-25 | Making Docker and Kubernetes management easy. |
+| [portainer/portainer](https://github.com/portainer/portainer) | Zlib|28151|2016-05-19|2024-02-25 | Making Docker and Kubernetes management easy. |
 | [quay/quay](https://github.com/quay/quay) | Apache-2.0|2334|2019-11-08|2024-02-23 | Red Hat open source Docker image repository,  similar to Harbor |
 | [lavie/runlike](https://github.com/lavie/runlike) | NOASSERTION|1810|2015-06-04|2023-02-26 | A tool that can view the startup command of the running container |
 | [go-sigma/sigma](https://github.com/go-sigma/sigma) | Apache-2.0|73|2022-09-05|2024-02-24 | Sigma is a painless self-hosted all in one software development service, it includes OCI artifact manager, garbage collection, namespace quota, multiarch artifact, OCI image build. It is similar to Harbor, but distribution is implement by itself, all of the service can be startup with one command. |
@@ -361,7 +361,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | GPL-3.0|9983|2019-04-21|2024-02-23 | A high-speed downloader developed by Golang &#43; Flutter,  supports (HTTP,  BitTorrent,  Magnet) protocol,  and supports all platforms. In addition to basic download functions,  Gopeed is also a highly customizable downloader that supports implementing more features through integration with APIs or installation and development of extensions. |
+| [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | GPL-3.0|9984|2019-04-21|2024-02-23 | A high-speed downloader developed by Golang &#43; Flutter,  supports (HTTP,  BitTorrent,  Magnet) protocol,  and supports all platforms. In addition to basic download functions,  Gopeed is also a highly customizable downloader that supports implementing more features through integration with APIs or installation and development of extensions. |
 | [Code-Hex/pget](https://github.com/Code-Hex/pget) | MIT|1081|2016-06-30|2023-10-19 | Golang written file download client that can be resumed |
 
 <div align="right">
@@ -487,7 +487,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 | [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) | NOASSERTION|4810|2021-07-30|2024-02-23 | An open source visualization tool officially released by Redis,  which provides the functions of designing,  developing and optimizing Redis applications. Query,  analyze your Redis data and interact with it. |
 | [quick123official/quick_redis_blog](https://github.com/quick123official/quick_redis_blog) | MIT|1643|2020-05-25|2023-10-27 | A free forever Redis Desktop manager. It supports direct connection,  sentinel,  and cluster mode,  supports multiple languages,  supports hundreds of millions of keys,  and has an amazing UI. Supports both Windows,  Mac OS X and Linux platform. |
 | [cmushroom/redis-pro](https://github.com/cmushroom/redis-pro) | GPL-3.0|637|2021-01-19|2024-02-08 | A lightweight Redis client management tool,  written in SwiftUI,  only supports the Mac platform |
-| [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) | GPL-3.0|5052|2023-06-27|2024-02-23 | A modern lightweight cross-platform Redis desktop manager,  suitable for Mac,  Windows and Linux. High face value,  rich in functions. |
+| [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) | GPL-3.0|5053|2023-06-27|2024-02-23 | A modern lightweight cross-platform Redis desktop manager,  suitable for Mac,  Windows and Linux. High face value,  rich in functions. |
 
 <div align="right">
 
@@ -507,7 +507,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 | [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) | NOASSERTION|6291|2020-06-11|2024-02-22 | MySQL/MariaDB database management for macOS |
 | [antares-sql/antares](https://github.com/antares-sql/antares) | MIT|1425|2020-04-30|2024-02-23 | Support MySQL/MariaDB,  PostgreSQL,  SQLite and Firebird SQL,  support multi-platform |
 | [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) | GPL-3.0|14865|2019-07-23|2024-02-23 | Modern and easy to use SQL client for MySQL,  Postgres,  SQLite,  SQL Server,  and more. Written with Electron &amp; Vue.js |
-| [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) | NOASSERTION|19651|2014-05-04|2024-02-23 | A high quality,  visual,  open source tool to create,  design,  and edit database files compatible with SQLite. |
+| [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) | NOASSERTION|19652|2014-05-04|2024-02-23 | A high quality,  visual,  open source tool to create,  design,  and edit database files compatible with SQLite. |
 
 <div align="right">
 
@@ -552,7 +552,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [PGYER/codefever](https://github.com/PGYER/codefever) | MIT|2572|2022-01-19|2023-12-12 | Self-hosted Git server with CI/CD and Kanban |
 | [go-gitea/gitea](https://github.com/go-gitea/gitea) | MIT|40880|2016-11-01|2024-02-25 | Includes git repository hosting,  code review,  issue tracking,  team collaboration,  and CI/CD. Powerful,  worth a try. Fork from Gogs |
-| [gogs/gogs](https://github.com/gogs/gogs) | MIT|43830|2014-02-12|2024-02-21 | The simplest,  fastest and easiest way to build a self-service Git service,  developed on Golang and supporting multiple platforms. |
+| [gogs/gogs](https://github.com/gogs/gogs) | MIT|43831|2014-02-12|2024-02-21 | The simplest,  fastest and easiest way to build a self-service Git service,  developed on Golang and supporting multiple platforms. |
 | [theonedev/onedev](https://github.com/theonedev/onedev) | MIT|12384|2018-11-06|2024-02-24 | A completely free and open source Git code hosting service that supports one-line command installation to your own server |
 
 <div align="right">
@@ -620,7 +620,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 | [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) | N/A|20590|2019-07-24|2024-01-10 | K8s multi-cluster management platform,  the open source free version only supports up to 3 clusters |
 | [redkubes/otomi-core](https://github.com/redkubes/otomi-core) | Apache-2.0|2104|2019-08-01|2024-02-23 | Self-hosted DevOps Platform for Kubernetes |
 | [goodrain/rainbond](https://github.com/goodrain/rainbond) | LGPL-3.0|4633|2017-11-05|2024-02-22 | k8s cluster management application platform |
-| [rancher/rancher](https://github.com/rancher/rancher) | Apache-2.0|22338|2014-11-07|2024-02-24 | Rancher is an open source container management platform built for organizations that deploy containers in production. Rancher makes it easy to run Kubernetes everywhere,  meet IT requirements,  and empower DevOps teams. |
+| [rancher/rancher](https://github.com/rancher/rancher) | Apache-2.0|22339|2014-11-07|2024-02-24 | Rancher is an open source container management platform built for organizations that deploy containers in production. Rancher makes it easy to run Kubernetes everywhere,  meet IT requirements,  and empower DevOps teams. |
 | [Qihoo360/wayne](https://github.com/Qihoo360/wayne) | NOASSERTION|3700|2018-11-13|2022-05-31 | Wayne is a universal,  web-based Kubernetes multi-cluster management platform. It reduces service access costs by visualizing Kubernetes object template editing. With a complete permission management system and adapting to multi-tenant scenarios,  it is a publish platform suitable for enterprise-level clusters. |
 
 <div align="right">
@@ -770,7 +770,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 | [apache/skywalking](https://github.com/apache/skywalking) | Apache-2.0|23017|2015-11-07|2024-02-24 |   An open source APM system that provides monitoring,  tracking and diagnostic capabilities for distributed systems in cloud native architecture. |
 | [grafana/tempo](https://github.com/grafana/tempo) | AGPL-3.0|3511|2020-01-24|2024-02-24 |  Grafana Tempo is a high volume, minimal dependency distributed tracing backend. |
 | [starsliao/TenSunS](https://github.com/starsliao/TenSunS) | WTFPL|1029|2022-01-28|2024-02-23 | Consul-based Operations Platform: A More Elegant Consul Management UI ,  Syncing Prometheus/JumpServer Metrics for Multi-cloud and Self-hosted ECS/MySQL/Redis ,  Cloud Monitoring for ECS/MySQL/Redis ,  Blackbox Site Monitoring Maintenance ,  Vulnerability Notifications/Resource Expiry Balance Alerts ,  Various Resource Dashboards Displayed in Grafana |
-| [mikecao/umami](https://github.com/mikecao/umami) | MIT|18728|2020-07-17|2024-02-24 | Easy to build and configure,  elegant and beautiful site access statistics tool |
+| [mikecao/umami](https://github.com/mikecao/umami) | MIT|18729|2020-07-17|2024-02-24 | Easy to build and configure,  elegant and beautiful site access statistics tool |
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | MIT|46435|2021-07-03|2024-02-24 | Uptime Kuma is an easy-to-use self-hosted monitoring tool. |
 | [lissy93/web-check](https://github.com/lissy93/web-check) | MIT|6851|2023-06-25|2024-02-25 | A collection of various website information checking tools, including DNS, HTTP, HTTPS, SSL, Ping, Port, etc. |
 | [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) | Apache-2.0|4842|2018-07-04|2024-02-21 | Lightweight front-end performance monitoring system,  also a buried point system,  private deployment,  easy to use |
@@ -1046,7 +1046,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 | [knoxite/knoxite](https://github.com/knoxite/knoxite) | AGPL-3.0|274|2016-07-28|2023-08-29 | A secure data storage and backup system. |
 | [kopia/kopia](https://github.com/kopia/kopia) | Apache-2.0|5903|2015-12-19|2024-02-24 | Cross-platform backup tool for Windows, macOS, and Linux, with fast incremental backup, client-side end-to-end encryption, compression, and deduplication. Includes CLI and GUI. |
 | [localsend/localsend](https://github.com/localsend/localsend) | MIT|29016|2022-12-16|2024-02-25 | A free,  open-source application that allows you to securely share files and messages with nearby devices on your local network without an internet connection |
-| [lra/mackup](https://github.com/lra/mackup) | GPL-3.0|14034|2013-04-06|2024-02-25 | A tool that keeps your application configuration in sync |
+| [lra/mackup](https://github.com/lra/mackup) | GPL-3.0|14035|2013-04-06|2024-02-25 | A tool that keeps your application configuration in sync |
 | [deajan/osync](https://github.com/deajan/osync) | BSD-3-Clause|894|2013-06-18|2023-09-12 | A powerful bidirectional (two-way) file synchronization script based on rsync,  with fault tolerance,  POSIX ACL support,  time control,  and near real-time synchronization |
 | [mtlynch/picoshare](https://github.com/mtlynch/picoshare) | NOASSERTION|2019|2022-02-14|2024-02-18 | A file sharing service that supports multiple types,  easy to deploy and easy to use |
 | [rdiff-backup/rdiff-backup](https://github.com/rdiff-backup/rdiff-backup) | GPL-2.0|1011|2016-02-12|2024-02-25 | rdiff-backup is a simple backup tool that can be used locally and remotely, on Linux and Windows, and even cross-platform between the two. |
@@ -1150,7 +1150,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [fatedier/frp](https://github.com/fatedier/frp) | Apache-2.0|77494|2015-12-21|2024-02-22 | A high-performance reverse proxy application focused on intranet penetration,  supporting multiple protocols such as TCP,  UDP,  HTTP,  and HTTPS. Can expose intranet services to the public network through nodes with public IP in a safe and convenient way |
+| [fatedier/frp](https://github.com/fatedier/frp) | Apache-2.0|77495|2015-12-21|2024-02-22 | A high-performance reverse proxy application focused on intranet penetration,  supporting multiple protocols such as TCP,  UDP,  HTTP,  and HTTPS. Can expose intranet services to the public network through nodes with public IP in a safe and convenient way |
 | [go-gost/gost](https://github.com/go-gost/gost) | MIT|3064|2020-02-12|2024-02-01 | Secure tunnel implemented in GO language |
 | [joggle-cn/joggle](https://github.com/joggle-cn/joggle) | Apache-2.0|113|2017-12-06|2023-12-28 | Joggle is an open source intranet penetration project based on Ngrok,  which supports multi-node,  private deployment and cloud services. |
 | [dromara/neutrino-proxy](https://github.com/dromara/neutrino-proxy) | MIT|396|2022-06-10|2024-02-19 | An open source Java intranet penetration project based on Netty. |
@@ -1528,7 +1528,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 ## 终端命令行工具
 
 <p align="right">
-📥 This category contains 51 items.
+📥 This category contains 39 items.
 </p>
 
 | Repository  | License | Star  |CreatedAt | UpdatedAt  | Description |
@@ -1542,32 +1542,21 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 | [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) | NOASSERTION|221|2023-09-03|2024-01-19 | A tool for changing sources of various languages written in C |
 | [cli/cli](https://github.com/cli/cli) | MIT|34645|2019-10-03|2024-02-25 | GitHub&#39;s official command line interaction tool |
 | [chenquan/diskusage](https://github.com/chenquan/diskusage) | Apache-2.0|250|2022-08-04|2024-02-19 | 💥 A tool for displaying disk usage (Linux,  MacOS and Windows),  which is a very fast tool for finding the largest directory or file |
-| [ogham/dog](https://github.com/ogham/dog) | EUPL-1.2|5697|2020-04-25|2024-02-18 | A DNS tool similar to the dig command, it has colorful output, understands normal command line argument syntax, and supports the DNS-over-TLS and DNS-over-HTTPS protocols. |
 | [Byron/dua-cli](https://github.com/Byron/dua-cli) | MIT|3319|2019-05-29|2024-01-26 | A tool to conveniently understand the disk space usage of a given directory. Can choose to delete redundant data. |
 | [muesli/duf](https://github.com/muesli/duf) | NOASSERTION|12080|2020-09-20|2024-02-18 | A better df alternative |
-| [bootandy/dust](https://github.com/bootandy/dust) | Apache-2.0|7310|2018-03-16|2024-02-25 | A modern du (disk usage) command-line tool with more intuitive output |
+| [bootandy/dust](https://github.com/bootandy/dust) | Apache-2.0|7309|2018-03-16|2024-02-25 | A modern du (disk usage) command-line tool with more intuitive output |
 | [eryajf/eryajfctl](https://github.com/eryajf/eryajfctl) | MIT|13|2023-06-04|2023-08-02 | 🚀 Quickly build a command line toolbox like kubectl based on the Cobra library 🧰 |
-| [eza-community/eza](https://github.com/eza-community/eza) | MIT|5739|2023-07-28|2024-02-24 | Similar to the ls command, but more powerful, supporting color output, Git status, icons, etc |
-| [sharkdp/fd](https://github.com/sharkdp/fd) | Apache-2.0|30858|2017-05-09|2024-02-12 | A simple, fast and user-friendly alternative to find |
-| [jhspetersson/fselect](https://github.com/jhspetersson/fselect) | Apache-2.0|3742|2018-01-26|2024-02-25 | Find files with SQL-like queries |
 | [antonmedv/fx](https://github.com/antonmedv/fx) | MIT|18056|2018-01-25|2023-11-10 | Terminal JSON viewer &amp; processor |
-| [junegunn/fzf](https://github.com/junegunn/fzf) | MIT|57971|2013-10-23|2024-02-25 | An interactive Unix command-line filter that can be used with any list: files, command history, processes, host names, bookmarks, git submissions, etc |
-| [jhawthorn/fzy](https://github.com/jhawthorn/fzy) | MIT|2873|2014-07-12|2024-01-03 | A fast, simple fuzzy text selector for the terminal with an advanced scoring algorithm. |
 | [heppu/gkill](https://github.com/heppu/gkill) | MIT|312|2017-03-15|2017-04-11 | Run gkill to search and select the process to terminate |
-| [orf/gping](https://github.com/orf/gping) | MIT|10106|2015-10-17|2024-02-19 | Command line tool that pings and graphs |
-| [htop-dev/htop](https://github.com/htop-dev/htop) | GPL-2.0|5733|2020-08-17|2024-02-24 | htop is an interactive process viewer for Unix systems. It is a text-mode application (for console or X terminals) and requires ncurses. htop is a cross-platform interactive process viewer. It allows vertical and horizontal scrolling of the process list, so you can see all the processes and complete command lines, as well as memory and CPU consumption. It also displays system-wide information, such as average load, or swap usage. |
+| [orf/gping](https://github.com/orf/gping) | MIT|10105|2015-10-17|2024-02-19 | Command line tool that pings and graphs |
 | [http-party/http-server](https://github.com/http-party/http-server) | MIT|13192|2011-06-16|2024-02-15 | A simple,  zero-config command-line static HTTP server |
 | [davecheney/httpstat](https://github.com/davecheney/httpstat) | MIT|6456|2016-09-23|2023-10-17 | A tool that displays the details of the HTTP request chain,  so that we can see where the request time is spent |
-| [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) | MIT|7405|2019-10-15|2024-02-20 | Convert the output of many terminal commands to JSON |
 | [typicode/json-server](https://github.com/typicode/json-server) | NOASSERTION|70578|2013-11-27|2024-02-21 | Get a full fake REST API with zero coding in less than 30 seconds (seriously) |
-| [tstack/lnav](https://github.com/tstack/lnav) | BSD-2-Clause|6411|2009-09-14|2024-02-23 | A log file viewer for the terminal, easy to merge, tail, search, filter and query log files. |
-| [swsnr/mdcat](https://github.com/swsnr/mdcat) | MPL-2.0|1994|2018-01-07|2024-02-08 | A tool to view markdown files in the terminal |
 | [johnkerl/miller](https://github.com/johnkerl/miller) | NOASSERTION|8460|2015-05-03|2024-02-25 | Similar to awk,  sed,  cut,  join,  and sort for name-indexed data such as CSV,  TSV,  and tabular JSON |
-| [traviscross/mtr](https://github.com/traviscross/mtr) | GPL-2.0|2483|2013-02-02|2023-10-24 | A tool that can probe network links, used to diagnose network link problems |
 | [voidcosmos/npkill](https://github.com/voidcosmos/npkill) | MIT|7818|2019-06-30|2023-12-02 | This tool can list any node_modules directory in the system and the space they occupy. Then,  you can choose which files to clear to free up space |
 | [weiwenhao/parker](https://github.com/weiwenhao/parker) | MIT|77|2023-09-15|2023-09-25 | A lightweight packaging tool written in go language,  which can package executable files and their dependent working directories into an executable file |
 | [lenye/pmsg](https://github.com/lenye/pmsg) | Apache-2.0|34|2022-09-11|2024-02-20 | A small tool for sending messages: WeChat Work group robot message,  DingTalk custom robot message,  Feishu custom robot message,  Slack bot,  WeChat message,  WeChat customer service message,  WeChat Work message,  WeChat Work customer service message |
-| [dalance/procs](https://github.com/dalance/procs) | MIT|4578|2019-01-28|2024-02-20 | Modern replacement for ps written in Rust |
+| [dalance/procs](https://github.com/dalance/procs) | MIT|4577|2019-01-28|2024-02-20 | Modern replacement for ps written in Rust |
 | [pterm/pterm](https://github.com/pterm/pterm) | MIT|4453|2020-09-17|2024-02-13 | A modern go module to beautify console output. Featuring charts,  progressbars,  tables,  trees,  and many more 🚀 It s completely configurable and 100% cross-platform compatible. |
 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | Unlicense|43557|2016-03-11|2024-02-22 | A line-oriented search tool that recursively searches your current directory for a regex pattern. By default, ripgrep will respect your gitignore rules and automatically skip hidden files/directories and binary files. |
 | [sqshq/sampler](https://github.com/sqshq/sampler) | GPL-3.0|11966|2019-01-25|2024-02-22 | Sampler is a tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. |
@@ -1579,7 +1568,6 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 | [voidint/tsdump](https://github.com/voidint/tsdump) | Apache-2.0|114|2017-11-25|2023-06-15 | Supports output of metadata of database (currently only MySQL) and its table structure in text,  markdown,  json,  csv,  xlsx format |
 | [schachmat/wego](https://github.com/schachmat/wego) | ISC|7634|2014-11-21|2024-02-08 | Golang version of the terminal weather tool |
 | [chubin/wttr.in](https://github.com/chubin/wttr.in) | Apache-2.0|23267|2015-12-26|2024-01-05 | Execute curl wttr.in to display the weather forecast in the terminal |
-| [ducaale/xh](https://github.com/ducaale/xh) | MIT|4564|2020-09-10|2024-02-24 | A friendly and fast tool for sending HTTP requests, similar to curl |
 | [BurntSushi/xsv](https://github.com/BurntSushi/xsv) | Unlicense|9944|2014-09-02|2024-02-24 | A command-line program for indexing, slicing, analyzing, splitting and joining CSV files. |
 | [mikefarah/yq](https://github.com/mikefarah/yq) | MIT|10373|2015-09-26|2024-02-24 | A lightweight and portable command-line YAML processor |
 | [bvaisvil/zenith](https://github.com/bvaisvil/zenith) | MIT|2078|2019-09-16|2023-11-21 | Similar to top or htop, but with the ability to scale charts, CPU, GPU, network, and disk usage |
@@ -1645,7 +1633,7 @@ We warmly welcome friends to share their own projects or recommend excellent pro
 | [team-ide/teamide](https://github.com/team-ide/teamide) | Apache-2.0|538|2021-11-30|2024-02-23 | Integrated MySQL,  Oracle,  Golden Warehouse,  Daming,  Shentong and other databases,  SSH,  FTP,  Redis,  Zookeeper,  Kafka,  Elasticsearch and other management tools |
 | [test-instructor/yangfan](https://github.com/test-instructor/yangfan) | Apache-2.0|101|2022-07-23|2023-11-16 | An efficient and reliable automated testing platform designed to help teams improve testing efficiency and reduce testing costs |
 | [MirrorX-Desktop/MirrorX](https://github.com/MirrorX-Desktop/MirrorX) | GPL-3.0|767|2022-03-09|2023-05-16 | Remote desktop control software based on Rust |
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | AGPL-3.0|59984|2020-09-28|2024-02-25 | A remote desktop software written in Rust. Out of the box, no configuration required. You have full control of your data without worrying about security. |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | AGPL-3.0|59985|2020-09-28|2024-02-25 | A remote desktop software written in Rust. Out of the box, no configuration required. You have full control of your data without worrying about security. |
 | [vprix/vncproxy](https://github.com/vprix/vncproxy) | Apache-2.0|212|2022-05-31|2023-07-18 | VncProxy is a Vnc remote desktop proxy component implemented using Golang, which completely parses the rfb protocol, supports remote desktop proxy, rbs file recording, rbs file playback, screenshots, and video recording |
 
 <div align="right">
