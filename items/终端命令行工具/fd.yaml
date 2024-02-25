@@ -1,5 +1,0 @@
-kind: 终端命令行工具
-owner: sharkdp
-repo: fd
-desc: 'find 命令的替代方案，更加易用'
-desc_en: 'A simple, fast and user-friendly alternative to find'

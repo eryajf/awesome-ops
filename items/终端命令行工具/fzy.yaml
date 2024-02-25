@@ -1,5 +1,0 @@
-kind: 终端命令行工具
-owner: jhawthorn
-repo: fzy
-desc: '一款快速、简单的终端模糊文本选择器，具有先进的评分算法。'
-desc_en: 'A fast, simple fuzzy text selector for the terminal with an advanced scoring algorithm.'

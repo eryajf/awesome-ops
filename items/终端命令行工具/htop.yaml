@@ -1,5 +1,0 @@
-kind: 终端命令行工具
-owner: htop-dev
-repo: htop
-desc: 'htop是一个跨平台的交互式流程查看器。htop允许垂直和水平滚动进程列表以查看其完整命令行以及内存和 CPU 消耗等相关信息。还显示系统范围的信息，例如平均负载或交换使用情况。'
-desc_en: 'htop is an interactive process viewer for Unix systems. It is a text-mode application (for console or X terminals) and requires ncurses. htop is a cross-platform interactive process viewer. It allows vertical and horizontal scrolling of the process list, so you can see all the processes and complete command lines, as well as memory and CPU consumption. It also displays system-wide information, such as average load, or swap usage.'

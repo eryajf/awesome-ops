@@ -1,5 +1,0 @@
-kind: 终端命令行工具
-owner: ducaale
-repo: xh
-desc: '类似 curl 的用于发送 HTTP 请求的友好且快速的工具'
-desc_en: 'A friendly and fast tool for sending HTTP requests, similar to curl'
