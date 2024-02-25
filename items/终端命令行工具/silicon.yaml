@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: Aloxaf
+repo: silicon
+desc: '一款能够将代码创建为漂亮的图片渲染的工具'
+desc_en: 'A tool that can render code into beautiful images'

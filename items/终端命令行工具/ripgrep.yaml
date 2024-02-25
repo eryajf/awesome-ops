@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: BurntSushi
+repo: ripgrep
+desc: '一个面向行的搜索工具，它递归地搜索当前目录中的正则表达式模式。默认情况下，ripgrep 将遵守 gitignore 规则并自动跳过隐藏文件/目录和二进制文件。'
+desc_en: 'A line-oriented search tool that recursively searches your current directory for a regex pattern. By default, ripgrep will respect your gitignore rules and automatically skip hidden files/directories and binary files.'

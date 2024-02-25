@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: wting
+repo: autojump
+desc: 'autojump 是一个快速跳转到目录的命令行工具，它可以记住你经常访问的目录并通过模糊匹配的方式快速跳转到目标目录'
+desc_en: 'autojump is a command line tool for quickly jumping to directories. It remembers the directories you visit and allows you to jump to them quickly by fuzzy matching'

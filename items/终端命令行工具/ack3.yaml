@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: beyondgrep
+repo: ack3
+desc: 'ack 是一个代码搜索工具，类似于 grep，但针对搜索大型源代码树的程序员进行了优化。'
+desc_en: 'ack is a code search tool, similar to grep, but optimized for programmers searching large source code trees.'
