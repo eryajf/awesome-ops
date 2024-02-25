@@ -1,5 +1,0 @@
-kind: 终端命令行工具
-owner: junegunn
-repo: fzf
-desc: '一个交互式 Unix 命令行过滤器，可以与任何列表一起使用: 文件、命令历史记录、进程、主机名、书签、git 提交等'
-desc_en: 'An interactive Unix command-line filter that can be used with any list: files, command history, processes, host names, bookmarks, git submissions, etc'

@@ -1,5 +1,0 @@
-kind: 终端命令行工具
-owner: ogham
-repo: dog
-desc: '一个类似 dig 命令的 DNS 工具，它具有丰富多彩的输出，理解正常的命令行参数语法，支持 DNS-over-TLS 和 DNS-over-HTTPS 协议。'
-desc_en: 'A DNS tool similar to the dig command, it has colorful output, understands normal command line argument syntax, and supports the DNS-over-TLS and DNS-over-HTTPS protocols.'

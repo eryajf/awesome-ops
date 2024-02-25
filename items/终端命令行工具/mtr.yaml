@@ -1,5 +1,0 @@
-kind: 终端命令行工具
-owner: traviscross
-repo: mtr
-desc: '一款能够探测网络链路的工具，用于诊断网络链路的问题'
-desc_en: 'A tool that can probe network links, used to diagnose network link problems'

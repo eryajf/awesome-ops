@@ -1,5 +1,0 @@
-kind: 终端命令行工具
-owner: eza-community
-repo: eza
-desc: '类似 ls 命令，但功能更强大，支持彩色输出、Git 状态、图标等'
-desc_en: 'Similar to the ls command, but more powerful, supporting color output, Git status, icons, etc'
