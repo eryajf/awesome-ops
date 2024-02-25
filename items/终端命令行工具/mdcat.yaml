@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: swsnr
+repo: mdcat
+desc: '一个可以在终端查看渲染 markdown 格式文件的工具'
+desc_en: 'A tool to view markdown files in the terminal'
