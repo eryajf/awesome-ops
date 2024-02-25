@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: tomnomnom
+repo: gron
+desc: 'gron 将 JSON 转换为离散分配，以便更轻松地 grep 获得想要的字段并查看它的绝对路径。它简化了对返回大量 JSON 但文档很糟糕的 API 的探索。'
+desc_en: 'gron transforms JSON into discrete assignments to make it easier to grep for what you want and see the absolute 'path to it. It eases the exploration of APIs that return large blobs of JSON but have terrible documentation.'

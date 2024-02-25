@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: kellyjonbrazil
+repo: jc
+desc: 'jc 命令能够将终端命令的输出，转为 json 格式输出，以便于进行二次过滤或处理'
+desc_en: 'Convert the output of many terminal commands to JSON'
