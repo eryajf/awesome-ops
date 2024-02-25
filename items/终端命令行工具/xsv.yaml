@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: BurntSushi
+repo: xsv
+desc: '一个用于索引、切片、分析、分割和连接 CSV 文件的命令行程序。'
+desc_en: 'A command-line program for indexing, slicing, analyzing, splitting and joining CSV files.'

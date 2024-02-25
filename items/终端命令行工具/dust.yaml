@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: bootandy
+repo: dust
+desc: '一个现代的 du (磁盘使用情况) 命令行工具，用于查看磁盘使用情况'
+desc_en: 'A modern du (disk usage) command-line tool with more intuitive output'

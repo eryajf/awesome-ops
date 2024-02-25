@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: Canop
+repo: broot
+desc: '获取目录的概览，即使是一个大目录也能快速浏览'
+desc_en: 'Get an overview of a directory, even a big one'

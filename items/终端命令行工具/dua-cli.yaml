@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: Byron
+repo: dua-cli
+desc: '一个可以方便地了解给定目录的磁盘空间使用情况的工具。可以选择删除多余的数据。'
+desc_en: 'A tool to conveniently understand the disk space usage of a given directory. Can choose to delete redundant data.'
