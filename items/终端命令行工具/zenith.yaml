@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: bvaisvil
+repo: zenith
+desc: '类似 top 或 htop，还具有可缩放图表、CPU、GPU、网络和磁盘使用情况的能力'
+desc_en: 'Similar to top or htop, but with the ability to scale charts, CPU, GPU, network, and disk usage'

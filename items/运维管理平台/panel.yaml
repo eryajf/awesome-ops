@@ -1,0 +1,5 @@
+kind: 运维管理平台
+owner: TheTNB
+repo: panel
+desc: '耗子 Linux 面板是使用 Golang + Vue 开发的轻量 Linux 服务器运维管理面板'
+desc_en: 'Mouse Linux Panel is a lightweight Linux server operation and maintenance management panel developed using Golang + Vue'

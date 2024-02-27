@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: chmln
+repo: sd
+desc: '与sed命令类似，但提供更加直观的查找和替换能力'
+desc_en: 'Similar to the sed command, but provides a more intuitive search and replace capability'

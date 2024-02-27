@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: dalance
+repo: procs
+desc: '用 Rust 编写的 ps 的现代替代品'
+desc_en: 'Modern replacement for ps written in Rust'
