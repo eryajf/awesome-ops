@@ -1,0 +1,5 @@
+kind: K8S-Cluster-Manage
+owner: dnsjia
+repo: luban
+desc: 'Kubernetes集群管理平台，CMDB，K8S容器管理，运维平台，自动化运维发布平台，CICD平台，多集群管理'
+desc_en: 'Kubernetes cluster management platform, CMDB, K8S container management, operations platform, automated operations release platform, CICD platform, multi-cluster management.'

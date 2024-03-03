@@ -1,0 +1,5 @@
+kind: 堡垒机
+owner: TNK-Studio
+repo: gortal
+desc: '一个使用 Go 语言开发的，超级轻量的跳板机服务。'
+desc_en: '🚪A super lightweight jumpserver service developed using the Go language.'
