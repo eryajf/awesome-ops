@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: tomnomnom
+repo: gron
+desc: '将 JSON 转换为离散的值，以使其更易于根据需要进行 grep 并查看其绝对路径'
+desc_en: 'transforms JSON into discrete values making it easier to grep and view the absolute path as needed'

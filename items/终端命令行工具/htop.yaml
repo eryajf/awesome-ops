@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: htop-dev
+repo: htop
+desc: '一个跨平台的交互式流程查看器，允许垂直和水平滚动进程列表以查看其完整命令行以及内存和 CPU 消耗等相关信息'
+desc_en: 'A cross-platform interactive process viewer, allowing to scroll the process list vertically and horizontally to see all processes and their full command lines, and to sort the processes in various ways'

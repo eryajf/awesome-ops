@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: lotabout
+repo: skim
+desc: '一个类似 grep 命令的通用的模糊查找器，可以节省您的时间。'
+desc_en: 'A general-purpose fuzzy finder that saves you time.'
