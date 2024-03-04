@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: jhspetersson
+repo: fselect
+desc: '使用类似 SQL 的查询查找文件'
+desc_en: 'Find files with SQL-like queries'
