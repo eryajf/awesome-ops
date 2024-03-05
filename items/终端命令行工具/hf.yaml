@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: hugows
+repo: hf
+desc: 'hf 是一个命令行实用程序，用于快速查找文件并执行命令 - 类似于终端的 Helm/Anything/CtrlP。它试图找到最佳匹配，就像其他模糊查找器（Sublime、ido、Helm）一样。'
+desc_en: 'hf is a command line utility to quickly find files and execute a command - kind of like a terminal-based Helm/Anything/CtrlP. It tries to find the best match, just like other fuzzy finders (Sublime, ido, Helm).'

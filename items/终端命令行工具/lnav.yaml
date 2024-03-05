@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: tstack
+repo: lnav
+desc: '终端的日志文件查看器，轻松合并、尾随、搜索、过滤和查询日志文件'
+desc_en: 'The log file viewer for the terminal, easy to merge, tail, search, filter and query log files'
