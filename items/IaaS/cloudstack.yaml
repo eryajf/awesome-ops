@@ -1,0 +1,5 @@
+kind: IaaS
+owner: apache
+repo: cloudstack
+desc: 'Apache CloudStack是一个开源的基础设施即服务（IaaS）云计算平台。'
+desc_en: 'Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform'
