@@ -1,0 +1,5 @@
+kind: CICD
+owner: nektos
+repo: act
+desc: '本地运行 GitHub Actions'
+desc_en: 'Run your GitHub Actions locally 🚀'
