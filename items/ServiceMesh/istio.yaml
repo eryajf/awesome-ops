@@ -1,0 +1,5 @@
+kind: ServiceMesh
+owner: istio
+repo: istio
+desc: 'Istio 是一个开源服务网格，它透明地分层到现有的分布式应用程序上。'
+desc_en: 'Istio is an open source service mesh that layers transparently onto existing distributed applications.'
