@@ -1,5 +1,5 @@
 kind: 时序数据库
 owner: VictoriaMetrics
 repo: VictoriaMetrics
-desc: '快速、经济高效的监控解决方案和时间序列数据库。'
-desc_en: 'fast, cost-effective monitoring solution and time series database.'
+desc: '快速、经济高效的监控解决方案和时间序列数据库'
+desc_en: 'fast, cost-effective monitoring solution and time series database'
