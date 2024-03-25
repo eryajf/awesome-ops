@@ -1,0 +1,5 @@
+kind: 时序数据库
+owner: thanos-io
+repo: thanos
+desc: '为 Prometheus 提供进行长期存储能力和高可用性'
+desc_en: 'Highly available Prometheus setup with long term storage capabilities'

@@ -1,0 +1,5 @@
+kind: 时序数据库
+owner: prometheus
+repo: prometheus
+desc: 'Prometheus 是一个监控系统和时序数据库，在被广泛应用于云原生的监控'
+desc_en: 'The Prometheus monitoring system and time series database, widely using in Cloud Native services'

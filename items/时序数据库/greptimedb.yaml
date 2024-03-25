@@ -1,0 +1,5 @@
+kind: 时序数据库
+owner: GreptimeTeam
+repo: greptimedb
+desc: '开源、云原生、分布式时序数据库，支持 PromQL/SQL/Python'
+desc_en: 'An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported'
