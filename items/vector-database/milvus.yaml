@@ -1,0 +1,5 @@
+kind: vector-database
+owner: milvus-io
+repo: milvus
+desc: '一个云原生向量数据库，为下一代人工智能应用提供存储'
+desc_en: 'A cloud-native vector database, storage for next generation AI applications'

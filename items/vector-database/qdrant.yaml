@@ -1,0 +1,5 @@
+kind: vector-database
+owner: qdrant
+repo: qdrant
+desc: 'Qdrant - 面向下一代人工智能的高性能、大规模向量数据库。'
+desc_en: 'Qdrant - High-performance, massive-scale Vector Database for the next generation of AI.'

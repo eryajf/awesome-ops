@@ -1,0 +1,5 @@
+kind: vector-database
+owner: weaviate
+repo: weaviate
+desc: 'Weaviate是一个开源的向量数据库，可以存储对象和向量，允许将向量搜索与结构化过滤相结合，并具有云原生数据库的容错性和可伸缩性。'
+desc_en: 'Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.'
