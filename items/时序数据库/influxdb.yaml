@@ -1,0 +1,5 @@
+kind: 时序数据库
+owner: influxdata
+repo: influxdb
+desc: '可扩展数据存储，用于度量、事件和实时分析'
+desc_en: 'Scalable datastore for metrics, events, and real-time analytics'
