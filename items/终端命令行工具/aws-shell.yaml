@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: awslabs
+repo: aws-shell
+desc: 'AWS CLI 的交互式生产力增强器'
+desc_en: 'The interactive productivity booster for the AWS CLI'

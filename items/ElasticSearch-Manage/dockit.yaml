@@ -1,0 +1,5 @@
+kind: ElasticSearch-Manage
+owner: geek-fun
+repo: dockit
+desc: '一个用于连接管理 elasticsearch，opensearch 的客户端软件，支持 Mac，Windows，Linux 多平台。'
+desc_en: 'A client software for connecting and managing elasticsearch, opensearch, supporting Mac, Windows, Linux and other platforms.'

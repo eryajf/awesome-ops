@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: your-tools
+repo: ruplacer
+desc: '查找并替换源文件中的文本'
+desc_en: 'Find and replace text in source files'
