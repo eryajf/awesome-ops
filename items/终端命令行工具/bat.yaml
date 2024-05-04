@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: sharkdp
+repo: bat
+desc: '类似 cat 命令，但带有 git 集成和语法高亮.'
+desc_en: 'A cat clone with syntax highlighting and Git integration.'

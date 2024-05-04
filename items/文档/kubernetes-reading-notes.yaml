@@ -1,0 +1,5 @@
+kind: 文档
+owner: duyanghao
+repo: kubernetes-reading-notes
+desc: 'Kubernetes源码阅读笔记，专注云原生、边缘计算、程序员综合素质以及自我修养'
+desc_en: 'Kubernetes source code reading notes, focusing on cloud native, edge computing, comprehensive quality of programmers and self-cultivation'

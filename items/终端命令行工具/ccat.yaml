@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: owenthereal
+repo: ccat
+desc: 'ccat是着色cat。它的工作原理与此类似，cat但显示带有语法突出显示的内容。'
+desc_en: 'ccat is the colorizing cat. It works similar to cat but displays content with syntax highlighting.'

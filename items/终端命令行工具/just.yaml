@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: casey
+repo: just
+desc: 'just 为您提供一种保存和运行项目特有命令的便捷方式。其语法受 make 启发，存储在一个名为 justfile 的文件中。'
+desc_en: 'Just provides you with a convenient way to save and run project specific commands. Its syntax is inspired by make and stored in a file called Justfile.'

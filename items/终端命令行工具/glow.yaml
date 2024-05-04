@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: charmbracelet
+repo: glow
+desc: 'Glow 是一款基于终端的 Markdown 阅读器，从头开始设计，旨在展现 CLI 的美丽和强大功能。'
+desc_en: 'Glow is a terminal based markdown reader designed from the ground up to bring out the beauty and power of the CLI.'
