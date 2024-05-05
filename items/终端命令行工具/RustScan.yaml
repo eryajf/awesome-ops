@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: RustScan
+repo: RustScan
+desc: '现代端口扫描仪，3 秒内扫描所有 65k 端口。'
+desc_en: 'Modern port scanner that can scan all 65k ports in 3 seconds.'
