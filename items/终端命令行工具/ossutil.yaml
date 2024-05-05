@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: aliyun
+repo: ossutil
+desc: '一个用户友好的命令行工具，用于访问阿里云 OSS。'
+desc_en: 'A user friendly command line tool to access AliCloud OSS.'

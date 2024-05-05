@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: traviscross
+repo: mtr
+desc: '能够显示网络每一跳信息的诊断工具。'
+desc_en: 'A diagnostic tool that is able to show the route network packets take to a host'

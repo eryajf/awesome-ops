@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: peco
+repo: peco
+desc: '简单的交互式过滤工具。'
+desc_en: 'Simplistic interactive filtering tool.'

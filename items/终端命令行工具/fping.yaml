@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: schweikert
+repo: fping
+desc: '一个向网络主机发送 ICMP 回显探测的程序，类似于 ping，但在 ping 多个主机时性能要好得多。'
+desc_en: 'a program to send ICMP echo probes to network hosts, similar to ping, but much better performing when pinging multiple hosts. '

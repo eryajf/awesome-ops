@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: denilsonsa
+repo: prettyping
+desc: 'prettyping 是标准工具的包装器 ping，目的是使输出更漂亮、更丰富多彩、更紧凑且更易于阅读。'
+desc_en: 'prettyping is a wrapper around the standard ping tool with the objective of making the output prettier, more colorful, more compact, and easier to read..'
