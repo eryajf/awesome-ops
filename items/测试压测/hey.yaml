@@ -1,0 +1,5 @@
+kind: 测试压测
+owner: rakyll
+repo: hey
+desc: 'hey 是一个向网络应用程序的压测工具，go语言编写。'
+desc_en: 'HTTP load generator, ApacheBench (ab) replacement'
