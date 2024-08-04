@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: tbillington
+repo: kondo
+desc: '清理项目中的依赖关系和构建制品。'
+desc_en: 'Clean up dependencies and build artifacts in your project.'

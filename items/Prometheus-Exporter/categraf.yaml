@@ -1,0 +1,5 @@
+kind: Prometheus-Exporter
+owner: flashcatcloud
+repo: categraf
+desc: "一款 All-in-One 的开源的 telemetry 数据采集器，支持指标、日志采集；支持 Tracing 数据的收集；支持物理机、虚拟机、交换机、容器、K8s、多种中间件/数据库的数据采集，支持混合云架构、云原生架构、多云架构。汇聚领域最佳实践，开箱即用。"
+desc_en: "An open-source telemetry data collector that supports metric and log collection; supports the collection of tracing data; supports data collection for physical machines, virtual machines, switches, containers, K8s, and various middleware/databases; supports hybrid cloud architecture, cloud-native architecture, and multi-cloud architecture. Aggregates best practices in the field, ready to use out of the box."
