@@ -1,0 +1,5 @@
+kind: Prometheus-Exporter
+owner: ncabatoff
+repo: process-exporter
+desc: "用于进程指标的 Prometheus Exporter"
+desc_en: "Prometheus Exporter for process metrics"

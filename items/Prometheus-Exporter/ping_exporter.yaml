@@ -1,0 +1,5 @@
+kind: Prometheus-Exporter
+owner: czerwonk
+repo: ping_exporter
+desc: "Ping 指标的 Prometheus Exporter"
+desc_en: "Prometheus Exporter for Ping metrics"

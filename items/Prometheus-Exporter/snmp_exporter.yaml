@@ -1,0 +1,5 @@
+kind: Prometheus-Exporter
+owner: prometheus
+repo: snmp_exporter
+desc: "SNMP 指标的 Prometheus Exporter"
+desc_en: "Prometheus Exporter for SNMP metrics"

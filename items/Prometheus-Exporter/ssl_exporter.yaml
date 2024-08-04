@@ -1,0 +1,5 @@
+kind: Prometheus-Exporter
+owner: ribbybibby
+repo: ssl_exporter
+desc: "SSL 证书指标的 Prometheus Exporter"
+desc_en: "Prometheus Exporter for SSL certificate metrics"
