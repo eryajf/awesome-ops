@@ -1,0 +1,5 @@
+kind: Prometheus-Exporter
+owner: nerdswords
+repo: yet-another-cloudwatch-exporter
+desc: "AWS CloudWatch 的 Prometheus 导出器 - 通过 AWS 标签发现服务，获取 CloudWatch 指标数据，并以 AWS 标签作为标签，将其作为 Prometheus 指标提供"
+desc_en: "Prometheus exporter for AWS CloudWatch - Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags as labels"

@@ -1,0 +1,5 @@
+kind: Prometheus-Exporter
+owner: prometheus
+repo: blackbox_exporter
+desc: "用于对外部服务进行探测的 Exporter，支持 HTTP、HTTPS、DNS、TCP、ICMP 等协议"
+desc_en: "Exporter for probing external services, supports HTTP, HTTPS, DNS, TCP, ICMP and other protocols"

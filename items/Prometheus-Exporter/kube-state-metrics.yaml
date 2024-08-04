@@ -1,0 +1,5 @@
+kind: Prometheus-Exporter
+owner: kubernetes
+repo: kube-state-metrics
+desc: "k8s官方推出的用于监控k8s集群状态的指标收集器，提供了大量的k8s集群状态指标，如节点状态、pod状态、deployment状态等"
+desc_en: "A metric collection agent for monitoring k8s cluster status officially launched by k8s, providing a large number of k8s cluster status metrics, such as node status, pod status, deployment status, etc."

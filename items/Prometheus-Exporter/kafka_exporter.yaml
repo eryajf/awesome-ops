@@ -1,0 +1,5 @@
+kind: Prometheus-Exporter
+owner: danielqsj
+repo: kafka_exporter
+desc: "Kafka 指标的 Prometheus Exporter"
+desc_en: "Prometheus Exporter for Kafka metrics"

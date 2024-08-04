@@ -1,0 +1,5 @@
+kind: Prometheus-Exporter
+owner: enix
+repo: x509-certificate-exporter
+desc: "Prometheus 导出器用于监控 Kubernetes 集群或独立系统中的 x509 证书过期情况"
+desc_en: "Prometheus exporter to monitor x509 certificate expiration in Kubernetes clusters or standalone systems"

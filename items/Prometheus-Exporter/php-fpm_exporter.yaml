@@ -1,0 +1,5 @@
+kind: Prometheus-Exporter
+owner: hipages
+repo: php-fpm_exporter
+desc: "用于 PHP-FPM 指标的 Prometheus Exporter"
+desc_en: "Prometheus Exporter for PHP-FPM metrics"
