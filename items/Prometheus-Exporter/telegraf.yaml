@@ -1,0 +1,5 @@
+kind: Prometheus-Exporter
+owner: influxdata
+repo: telegraf
+desc: "用于收集、处理、聚合和写入指标、日志和其他任意数据的代理，提供超过 300 个插件的综合套件，涵盖系统监控、云服务和消息传递等广泛功能"
+desc_en: "Agent for collecting, processing, aggregating, and writing metrics, logs, and other data, providing a comprehensive suite of over 300 plugins covering a wide range of functions such as system monitoring, cloud services, and messaging"

@@ -1,0 +1,5 @@
+kind: Monitor
+owner: w8t-io
+repo: WatchAlert
+desc: "WatchAlert 是基于Go+React开发的监控告警管理平台。可以完全替代 AlertManager、PrometheusAlert(通知平台) 等组件，支持配置交互式通知、通知对象、值班系统和聚合功能，并且拥有规则管理、告警抑制、告警推送和告警静默能力。可以提升运维效率，降低维护成本"
+desc_en: "WatchAlert is a monitoring and alarm management platform developed based on Go+React. It can completely replace components such as AlertManager and PrometheusAlert (notification platform), support interactive notification configuration, notification objects, duty system, and aggregation functions, and have rule management, alarm suppression, alarm push, and alarm silencing capabilities. It can improve operational efficiency and reduce maintenance costs"

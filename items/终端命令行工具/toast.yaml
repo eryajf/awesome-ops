@@ -1,0 +1,5 @@
+kind: 终端命令行工具
+owner: stepchowfun
+repo: toast
+desc: '一个基于名为 toastfile 的 YAML 文件中定义任务，用于容器化工作流程的工具。'
+desc_en: 'A tool for containerizing workflows based on tasks defined in a YAML file called a toastfile.'
