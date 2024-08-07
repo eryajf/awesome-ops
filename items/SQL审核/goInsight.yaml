@@ -1,0 +1,5 @@
+kind: SQL审核
+owner: lazzyfu
+repo: goInsight
+desc: "一个基于Gin和Vue开发的前后端分离Web平台，支持MySQL/TiDB/ClickHouse数据库，提供工单管理和数据查询功能。"
+desc_en: "A front-end and back-end separation Web platform developed based on Gin and Vue, supporting MySQL/TiDB/ClickHouse databases, providing work order management and data query functions."

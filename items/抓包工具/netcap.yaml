@@ -1,0 +1,5 @@
+kind: 抓包工具
+owner: bytedance
+repo: netcap
+desc: "一个基于bcc，可对含skb作为参数的系统函数，或者基于DPDK的mbuf抓包分析的工具。"
+desc_en: "A tool for packet capture and analysis based on bcc, which can capture and analyze packets based on system functions with skb as parameters or based on DPDK mbuf."
