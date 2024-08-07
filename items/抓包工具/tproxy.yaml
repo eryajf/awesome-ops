@@ -1,0 +1,5 @@
+kind: 抓包工具
+owner: kevwan
+repo: tproxy
+desc: "分析 gRPC 连接何时连接、何时重连。分析 MySQL 连接池，当前多少连接，连接的生命周期是什么策略。也可以用来观察和分析任何 TCP 连接"
+desc_en: "Analyze when gRPC connections connect and reconnect. Analyze the MySQL connection pool, how many connections are currently connected, and what is the connection lifecycle strategy. It can also be used to observe and analyze any TCP connection"
