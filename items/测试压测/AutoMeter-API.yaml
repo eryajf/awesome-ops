@@ -1,5 +1,0 @@
-kind: 测试压测
-owner: AutoMeter
-repo: AutoMeter-API
-desc: ' 一款针对分布式服务，微服务 API 做功能和性能一体化的自动化测试平台，一站式提供项目管理，微服务，API 接口，用例，环境管理，测试管理，前置条件，测试集合，变量管理，测试计划，Mock，测试报告等 '
-desc_en: ' An automated testing platform for distributed services and microservice APIs,  which integrates functions and performance,  provides one-stop project management,  microservices,  API interfaces,  test cases,  environment management,  test management,  preconditions,  test collections,  variable management,  test plans,  Mock,  test reports,  etc. '
