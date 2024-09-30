@@ -1,0 +1,5 @@
+kind: Monitor
+owner: CloudDetail
+repo: apo
+desc: 'OpenTelemetry 结合 eBPF 的向导式可观测性产品'
+desc_en: 'OpenTelemetry combined with eBPF for guided observability products'

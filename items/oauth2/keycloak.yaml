@@ -1,0 +1,5 @@
+kind: OAuth2
+owner: keycloak
+repo: keycloak
+desc: 'Keycloak提供用户联合、强身份验证、用户管理、细粒度授权等功能'
+desc_en: 'Keycloak provides user federation, strong authentication, user management, fine-grained authorization, and more'

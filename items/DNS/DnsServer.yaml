@@ -1,0 +1,5 @@
+kind: DNS
+owner: TechnitiumSoftware
+repo: DnsServer
+desc: 'Technitium DNS服务器是一个开源的权威递归DNS服务器，可用于自托管DNS服务器以保护隐私和安全'
+desc_en: 'Technitium DNS Server is an open source authoritative as well as recursive DNS server that can be used for self hosting a DNS server for privacy and security'

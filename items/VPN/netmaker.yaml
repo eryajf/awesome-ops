@@ -1,0 +1,5 @@
+kind: VPN
+owner: gravitl
+repo: netmaker
+desc: 'Netmaker使用WireGuard构建网络。Netmaker自动化了快速、安全和分布式的虚拟网络'
+desc_en: 'Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks'
