@@ -1,0 +1,5 @@
+kind: VPN
+owner: juanfont
+repo: headscale
+desc: 'Tailscale控制服务器的开源、自托管实现'
+desc_en: 'An open source, self-hosted implementation of the Tailscale control server'
