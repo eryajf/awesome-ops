@@ -1,0 +1,5 @@
+kind: Crontab
+owner: argoproj
+repo: argo-workflows
+desc: 'Argo Workflows是一个开源的容器原生工作流引擎, 用于在Kubernetes上编排并行作业'
+desc_en: 'Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes'
