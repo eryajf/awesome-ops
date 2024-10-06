@@ -1,0 +1,5 @@
+kind: Crontab
+owner: apache
+repo: dolphinscheduler
+desc: 'Apache DolphinScheduler 是一个分布式易扩展的可视化DAG工作流任务调度开源系统'
+desc_en: 'Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code'
