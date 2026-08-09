@@ -1,0 +1,5 @@
+kind: CICD
+owner: corleoneappsh-create
+repo: n8n-workflow-preflight-action
+desc: '用于在合并或部署前对导出的 n8n 工作流 JSON 进行确定性预检的 GitHub Action'
+desc_en: 'GitHub Action for deterministic preflight validation of exported n8n workflow JSON before merge or deployment'
