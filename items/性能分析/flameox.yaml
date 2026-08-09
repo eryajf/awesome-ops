@@ -1,0 +1,5 @@
+kind: 性能分析
+owner: morluto
+repo: flameox
+desc: '面向智能体的性能分析与优化工具包，可采集追踪、对比运行并保留原生运行时证据，用于定位应用、原生服务、GPU 内核和推理负载中的瓶颈。'
+desc_en: 'Profiling and optimization toolkit for agents that captures traces, compares runs, and preserves native runtime evidence across applications, native services, GPU kernels, and inference workloads.'
