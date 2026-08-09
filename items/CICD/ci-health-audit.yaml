@@ -1,0 +1,5 @@
+kind: CICD
+owner: sdxiaomage
+repo: ci-health-audit
+desc: "零依赖的 GitHub Actions 工作流安全与可靠性静态审计工具"
+desc_en: "Zero-dependency static audit for common GitHub Actions security and reliability risks"
