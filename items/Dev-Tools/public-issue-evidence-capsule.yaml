@@ -1,0 +1,5 @@
+kind: Dev-Tools
+owner: jakespringfield
+repo: public-issue-evidence-capsule
+desc: '免费的零依赖 GitHub Action，可将一个公开 GitHub Issue 转换为确定性的只读事实证据摘要'
+desc_en: 'Free zero-dependency GitHub Action that turns one public GitHub issue into a deterministic read-only factual evidence capsule'
