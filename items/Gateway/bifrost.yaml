@@ -1,0 +1,5 @@
+kind: Gateway
+owner: maximhq
+repo: bifrost
+desc: '高性能 AI 网关，通过统一的 OpenAI 兼容 API 提供多模型供应商接入、故障转移和负载均衡。'
+desc_en: 'High-performance AI gateway with a unified OpenAI-compatible API, multi-provider access, automatic failover, and load balancing.'
