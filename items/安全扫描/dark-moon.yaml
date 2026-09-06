@@ -1,0 +1,5 @@
+kind: 安全扫描
+owner: ASCIT31
+repo: Dark-Moon
+desc: '开源（GPLv3）自主渗透测试平台，50 个专家 agent 通过 MCP 调度 50 多种攻击工具，覆盖 Web、API、Active Directory、Kubernetes 与云环境，每个漏洞都附带利用证据，可自托管，隐私网关在数据送往云端模型前对目标敏感值进行令牌化'
+desc_en: 'Open source (GPLv3) autonomous penetration testing platform where 50 specialist agents drive 50+ offensive tools over MCP across web, API, Active Directory, Kubernetes and cloud, with proof of exploitation behind each finding, self hosted, and a privacy gateway that tokenizes sensitive target values before any cloud model sees them'
